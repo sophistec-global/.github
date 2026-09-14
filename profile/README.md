@@ -20,7 +20,7 @@
 
 ---
 
-## We Build What Helps People and Businesses Move Forward.
+## We Build What Helps People and Businesses Move Forward
 
 **Sophistec Global** is a multi-disciplinary ecosystem that brings together business strategy, software development, SaaS products, creative media, education, and communities.
 
