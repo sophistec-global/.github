@@ -95,6 +95,20 @@ Sophistec combines product thinking, software engineering, artificial intelligen
 ### Frontend Development
 
 <p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+</p>
+
+**Extended frontend capabilities:** SPA · SSR · SSG · responsive applications · component architecture · state management · design systems · admin dashboards · SaaS portals · authentication flows · API integration · real-time interfaces · accessibility · performance optimization.
+
+### Frontend Development
+
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
@@ -107,6 +121,22 @@ Sophistec combines product thinking, software engineering, artificial intelligen
 </p>
 
 We build responsive web applications, SaaS interfaces, management dashboards, admin panels, customer portals, and data-driven user experiences with reusable component architecture and API-first integration.
+
+### Backend & API Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square">
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square">
+</p>
+
+**Extended backend capabilities:** Go services · REST · GraphQL · gRPC · WebSockets · OAuth 2.0 · JWT · RBAC/ABAC · queues · workers · scheduled jobs · event processing · webhooks · idempotency · rate limiting · caching · API gateways · service-to-service communication.
 
 ### Backend & API Engineering
 
@@ -217,6 +247,16 @@ Key areas include document processing, chunking strategies, metadata, embeddings
 
 Our data and machine-learning capabilities cover data preparation, analysis, visualization, feature engineering, classification, regression, clustering, predictive workflows, ML pipelines, model evaluation, and computer-vision-oriented applications.
 
+### Databases, Cache, Search & Data Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Vector_Search-6D28D9?style=flat-square">
+</p>
+
+**Extended data capabilities:** relational modeling · indexing · transactions · migrations · query optimization · caching · full-text search · search indexes · vector storage · semantic retrieval · backup/recovery strategies · data integrity.
+
 ### Databases & Data Infrastructure
 
 <p>
@@ -229,6 +269,63 @@ Our data and machine-learning capabilities cover data preparation, analysis, vis
 </p>
 
 We work with relational data modeling, schema design, indexing, query optimization, caching, transactions, data integrity, migrations, vector storage, and semantic retrieval infrastructure.
+
+### Microservices, Distributed Systems & Event-Driven Architecture
+
+<p>
+<img src="https://img.shields.io/badge/Microservices-Architecture-0B5FFF?style=flat-square">
+<img src="https://img.shields.io/badge/Distributed-Systems-1D3557?style=flat-square">
+<img src="https://img.shields.io/badge/Event--Driven-Architecture-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/API--First-Architecture-6D28D9?style=flat-square">
+<img src="https://img.shields.io/badge/Modular_Monolith-Architecture-00A99D?style=flat-square">
+<img src="https://img.shields.io/badge/Multi--Tenant-SaaS-457B9D?style=flat-square">
+</p>
+
+Sophistec designs architecture according to product scale and operational requirements, including:
+
+- Monolithic and modular-monolith architecture
+- Microservices and service-oriented architecture
+- Distributed systems
+- API-first architecture
+- Event-driven architecture
+- Domain-oriented service boundaries
+- API Gateway / Backend-for-Frontend patterns
+- Service-to-service communication
+- Asynchronous processing
+- Horizontal scaling and load balancing
+- Fault isolation, retries, timeouts and resilience patterns
+- Eventual consistency where appropriate
+- Observability and distributed tracing
+
+```text
+Clients
+  │
+  ▼
+API Gateway / BFF
+  │
+  ├── Identity Service
+  ├── Product Service
+  ├── Billing Service
+  ├── Notification Service
+  └── Integration Service
+          │
+          ▼
+   Events / Message Broker
+          │
+          ├── Workers
+          ├── Automation
+          └── Data Processing
+```
+
+### Messaging, Queues & Event Processing
+
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+
+Message queues · publish/subscribe · background workers · asynchronous jobs · event consumers · retry/dead-letter strategies · notification pipelines · scheduled processing · data synchronization.
 
 ### SaaS & Software Architecture
 
@@ -302,6 +399,16 @@ Integration Layer
     └── Third-Party SaaS
 ```
 
+### DevOps, Cloud, Containers & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-0B5FFF?style=flat-square">
+</p>
+
+**Extended infrastructure capabilities:** containerization · orchestration · reverse proxy · load balancing · deployment automation · environment management · horizontal scaling · backups · health checks · production monitoring.
+
 ### DevOps, Cloud & Infrastructure
 
 <p>
@@ -316,6 +423,44 @@ Integration Layer
 Infrastructure capabilities include Linux environments, Docker, Nginx, reverse proxies, SSL/TLS, DNS, Git-based workflows, CI/CD, process management, deployment, logging, monitoring, and production troubleshooting.
 
 ---
+
+
+### Observability & Reliability Engineering
+
+Logging · metrics · monitoring · health checks · alerting · tracing · distributed tracing · error tracking · uptime monitoring · performance profiling · incident troubleshooting · graceful failure · retry strategies · resilience patterns.
+
+### Security Engineering
+
+Authentication · authorization · OAuth 2.0 · JWT · RBAC · ABAC · API keys · secrets management · TLS · encryption in transit · encryption at rest · audit logging · rate limiting · input validation · least privilege · secure API design · session security · security headers.
+
+### Testing & Quality Engineering
+
+Unit testing · integration testing · API testing · end-to-end testing · regression testing · automated CI validation · linting · static analysis · code review · staging environments · performance testing · documentation · maintainable architecture.
+
+### Platform Engineering
+
+Centralized identity · organizations · tenants · teams · roles · permissions · SSO · product entitlements · subscription plans · billing · usage tracking · quotas · API keys · provisioning · audit trails · multi-product account access.
+
+### Additional Engineering Coverage
+
+| Area | Technologies / Capabilities |
+| --- | --- |
+| **Frontend** | React, Next.js, Vue.js, Nuxt, JavaScript, TypeScript, Vite, Tailwind CSS, Bootstrap, SSR, SSG, SPA |
+| **Backend** | Go (Golang), PHP, Laravel, Python, FastAPI, Flask, Node.js, REST, GraphQL, gRPC, WebSockets |
+| **Architecture** | Modular Monolith, Microservices, SOA, Distributed Systems, Event-Driven Architecture, API-First, Multi-Tenant SaaS |
+| **Messaging** | RabbitMQ, Kafka concepts, Redis, queues, workers, pub/sub, asynchronous processing |
+| **AI Engineering** | LLMs, Generative AI, AI Agents, Multi-Agent Systems, RAG, Agentic RAG, MCP, Tool Calling, Function Calling |
+| **AI Retrieval** | Embeddings, Vector Search, Semantic Search, Hybrid Search, Re-Ranking, Knowledge Bases |
+| **ML & Data** | scikit-learn, XGBoost, Pandas, NumPy, Jupyter, ETL/ELT, analytics, computer vision |
+| **Data** | MySQL, PostgreSQL, SQLite, Redis, pgvector, vector databases, Elasticsearch/search |
+| **Identity** | SSO, OAuth 2.0, JWT, RBAC, ABAC, API Keys, centralized identity |
+| **SaaS Platform** | Organizations, tenants, subscriptions, billing, usage, quotas, entitlements, provisioning |
+| **DevOps** | Docker, Kubernetes concepts, Linux, Nginx, Git, GitHub Actions, CI/CD, deployment automation |
+| **Reliability** | Logging, monitoring, metrics, tracing, health checks, alerting, retries, resilience |
+| **Security** | TLS, encryption, secrets, audit logs, rate limiting, validation, least privilege |
+| **Integration** | REST, GraphQL, gRPC, Webhooks, Payments, Marketplace, Logistics, Healthcare, Government, Third-Party SaaS |
+| **Quality** | Unit, Integration, API, E2E, Regression, CI validation, Code Review, Documentation |
+
 
 ## Engineering Focus Areas
 
