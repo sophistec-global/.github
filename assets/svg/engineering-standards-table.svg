@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering Standards</title>
+  <desc id="desc">A four-column table covering Build, Operate, Protect, and Evolve engineering standards.</desc>
+  <style>
+    text{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#172033;font-size:16px}.head{font-weight:700;text-anchor:middle}.grid{stroke:#CBD5E1;stroke-width:1;shape-rendering:crispEdges}
+    @media(prefers-color-scheme:dark){text{fill:#F8FAFC}.row-a{fill:#111827}.row-b{fill:#162033}.header{fill:#0F172A}.grid{stroke:#475569}}
+  </style>
+  <rect width="1200" height="48" class="header" fill="#F8FAFC"/><rect y="48" width="1200" height="48" class="row-a" fill="#FFFFFF"/><rect y="96" width="1200" height="48" class="row-b" fill="#F3F6F9"/><rect y="144" width="1200" height="48" class="row-a" fill="#FFFFFF"/><rect y="192" width="1200" height="48" class="row-b" fill="#F3F6F9"/><rect y="240" width="1200" height="48" class="row-a" fill="#FFFFFF"/><rect y="288" width="1200" height="48" class="row-b" fill="#F3F6F9"/>
+  <path d="M.5.5H1199.5V335.5H.5ZM300 .5V335.5M600 .5V335.5M900 .5V335.5M.5 48H1199.5M.5 96H1199.5M.5 144H1199.5M.5 192H1199.5M.5 240H1199.5M.5 288H1199.5" class="grid" fill="none"/>
+  <g class="head"><text x="150" y="30">Build</text><text x="450" y="30">Operate</text><text x="750" y="30">Protect</text><text x="1050" y="30">Evolve</text></g>
+  <g>
+    <text x="20" y="78">Architecture</text><text x="320" y="78">Monitoring</text><text x="620" y="78">Identity &amp; Access</text><text x="920" y="78">Modular Design</text>
+    <text x="20" y="126">APIs</text><text x="320" y="126">Logging</text><text x="620" y="126">Encryption</text><text x="920" y="126">Versioning</text>
+    <text x="20" y="174">Data Models</text><text x="320" y="174">Metrics</text><text x="620" y="174">Auditability</text><text x="920" y="174">Automated Testing</text>
+    <text x="20" y="222">Integrations</text><text x="320" y="222">Health Checks</text><text x="620" y="222">Validation</text><text x="920" y="222">CI/CD</text>
+    <text x="20" y="270">Automation</text><text x="320" y="270">Incident Visibility</text><text x="620" y="270">Least Privilege</text><text x="920" y="270">Documentation</text>
+    <text x="20" y="318">AI Workflows</text><text x="320" y="318">Performance</text><text x="620" y="318">Secure Secrets</text><text x="920" y="318">Continuous Improvement</text>
+  </g>
+</svg>

@@ -123,6 +123,72 @@ function addTextImpacts(raw) {
   return raw;
 }
 
+function addIconImpacts(raw) {
+  const stack = [{ x: 0, y: 0 }], rects = [], backdrops = [], replacements = [];
+  const tokenPattern = /<g\b[^>]*>|<\/g>|<rect\b[^>]*?\/>|<rect\b[^>]*>[\s\S]*?<\/rect>|<(?:circle|ellipse|path|line|polyline|polygon)\b[^>]*?\/>|<(circle|ellipse|path|line|polyline|polygon)\b[^>]*>[\s\S]*?<\/\1>/g;
+  for (const match of raw.matchAll(tokenPattern)) {
+    const token = match[0];
+    if (token.startsWith('<g')) {
+      const parent = stack.at(-1);
+      const move = attr(token, 'transform')?.match(/translate\(([\d.-]+)[ ,]+([\d.-]+)\)/);
+      stack.push({ x: parent.x + +(move?.[1] || 0), y: parent.y + +(move?.[2] || 0) });
+      continue;
+    }
+    if (token === '</g>') { if (stack.length > 1) stack.pop(); continue; }
+    const offset = stack.at(-1);
+    const tagName = token.match(/^<(\w+)/)?.[1];
+    if (tagName === 'rect') {
+      const impact = token.match(/<animate\b[^>]*data-ball-impact="true"[^>]*>/)?.[0];
+      rects.push({
+        x: +(attr(token, 'x') || 0) + offset.x,
+        y: +(attr(token, 'y') || 0) + offset.y,
+        w: +(attr(token, 'width') || 0), h: +(attr(token, 'height') || 0),
+        impact,
+        begin: impact ? attr(impact, 'begin') || '0s' : null,
+        dur: impact ? attr(impact, 'dur') || '6s' : null,
+        keyTimes: impact ? attr(impact, 'keyTimes') || '0;.07;.16;1' : null,
+      });
+      continue;
+    }
+    let cx = 0, cy = 0;
+    if (tagName === 'circle' || tagName === 'ellipse') {
+      cx = +(attr(token, 'cx') || 0) + offset.x;
+      cy = +(attr(token, 'cy') || 0) + offset.y;
+      if (!/class="[^"]*\bicon\b/.test(token)) {
+        backdrops.push({ cx, cy, rx: +(attr(token, 'r') || attr(token, 'rx') || 0), ry: +(attr(token, 'r') || attr(token, 'ry') || 0) });
+      }
+    } else if (tagName === 'line') {
+      cx = (+(attr(token, 'x1') || 0) + +(attr(token, 'x2') || 0)) / 2 + offset.x;
+      cy = (+(attr(token, 'y1') || 0) + +(attr(token, 'y2') || 0)) / 2 + offset.y;
+    } else {
+      const samples = points(attr(token, 'd') || attr(token, 'points') || '');
+      if (!samples.length) continue;
+      cx = (Math.min(...samples.map(([x]) => x)) + Math.max(...samples.map(([x]) => x))) / 2 + offset.x;
+      cy = (Math.min(...samples.map(([, y]) => y)) + Math.max(...samples.map(([, y]) => y))) / 2 + offset.y;
+    }
+    if (!/class="[^"]*\bicon\b/.test(token)) continue;
+    const cleaned = token.replace(/<animate\b[^>]*data-ball-icon-impact="true"[^>]*\/>/g, '');
+    const node = [...rects].reverse().find((box) => cx >= box.x && cx <= box.x + box.w && cy >= box.y && cy <= box.y + box.h);
+    const hasLightBackdrop = backdrops.some((badge) => badge.rx >= 8 && Math.abs(cx - badge.cx) <= badge.rx && Math.abs(cy - badge.cy) <= badge.ry);
+    if (!node?.impact || hasLightBackdrop) {
+      if (cleaned !== token) replacements.push([match.index, token.length, cleaned]);
+      continue;
+    }
+    const base = attr(cleaned, 'style')?.match(/(?:^|;)\s*color:\s*(#[0-9a-f]{3,8})/i)?.[1]
+      || attr(cleaned, 'stroke') || '#1E293B';
+    const phaseCount = node.keyTimes.split(';').length;
+    const values = phaseCount === 5
+      ? `${base};#FFFFFF;#FFFFFF;${base};${base}`
+      : `${base};#FFFFFF;${base};${base}`;
+    const animation = `<animate data-ball-icon-impact="true" attributeName="stroke" values="${values}" keyTimes="${node.keyTimes}" dur="${node.dur}" begin="${node.begin}" repeatCount="indefinite"/>`;
+    const close = `</${tagName}>`;
+    const updated = cleaned.endsWith('/>') ? `${cleaned.slice(0, -2)}>${animation}${close}` : cleaned.replace(close, `${animation}${close}`);
+    replacements.push([match.index, token.length, updated]);
+  }
+  for (const [index, length, updated] of replacements.reverse()) raw = raw.slice(0, index) + updated + raw.slice(index + length);
+  return raw;
+}
+
 function makeReadable(raw) {
   if (!raw.includes('<animateMotion') || raw.includes('data-readable-timing="3x"')) return raw;
   raw = raw.replace('<svg ', '<svg data-readable-timing="3x" ');
@@ -165,6 +231,23 @@ for (const name of files) {
     raw = raw.replace(
       '<g class="motion-layer" pointer-events="none"><circle r="8" class="db"><animateMotion dur="18s" repeatCount="indefinite" path="M65 150 H1085"/></circle><circle r="6" class="dt"><animateMotion dur="18s" repeatCount="indefinite" path="M1085 235 H65"/></circle></g>',
       '<g class="motion-layer" pointer-events="none"><circle r="8" class="db"><animateMotion dur="18s" repeatCount="indefinite" path="M65 150 H1085"/></circle></g>',
+    );
+    fs.writeFileSync(file, raw);
+  }
+  if (name === 'intelligent-application-architecture.svg') {
+    const motion = raw.match(/<g class="motion-layer"[\s\S]*?<\/g>/)?.[0];
+    const motionIndex = motion ? raw.indexOf(motion) : -1;
+    const lastConnectorIndex = Math.max(raw.lastIndexOf('class="line"'), raw.lastIndexOf('class="bus"'));
+    if (motion && motionIndex >= 0 && motionIndex < lastConnectorIndex) {
+      raw = raw.replace(motion, '').replace('</svg>', `${motion}\n</svg>`);
+      fs.writeFileSync(file, raw);
+    }
+  }
+  if (name === 'delivery-lifecycle.svg') {
+    raw = raw.replace(/<animate attributeName="fill"/g, '<animate data-ball-impact="true" attributeName="fill"');
+    raw = raw.replace(
+      /(<animate\b[^>]*\bvalues=")([^;]+);([^;]+);([^;]+);([^"]+)(" keyTimes=")0;\.07;\.15;1/g,
+      (_, prefix, base, active, restored, tail, keyTimesPrefix) => `${prefix}${base};${active};${active};${restored};${tail}${keyTimesPrefix}0;.02;.12;.15;1`,
     );
     fs.writeFileSync(file, raw);
   }
@@ -215,8 +298,43 @@ for (const name of files) {
   raw = withGradientBases;
   const withTextImpact = addTextImpacts(raw);
   if (withTextImpact !== raw) { raw = withTextImpact; fs.writeFileSync(file, raw); }
-  const synchronizedInitialState = withTextImpact.replace(
-    /(<animate\b[^>]*data-ball-(?:text-)?impact="true"[^>]*\bbegin=)"0s"/g,
+  const withIconImpact = addIconImpacts(withTextImpact);
+  if (withIconImpact !== raw) { raw = withIconImpact; fs.writeFileSync(file, raw); }
+  let withForcedIdentityIcons = withIconImpact;
+  if (name === 'delivery-lifecycle.svg') {
+    const stages = [
+      ['61', '#0B5FFF', '0.01s'], ['206', '#00A99D', '3s'],
+      ['351', '#6D28D9', '6s'], ['496', '#0B5FFF', '9s'],
+      ['641', '#00A99D', '12s'], ['786', '#6D28D9', '15s'],
+      ['931', '#0B5FFF', '18s'], ['1076', '#FFFFFF', '21s'],
+    ];
+    for (const [cx, base, begin] of stages) {
+      const badge = `<circle cx="${cx}" cy="141" r="14" fill="${base}"><animate data-ball-badge-impact="true" attributeName="fill" values="${base};#FFFFFF;#FFFFFF;${base};${base}" keyTimes="0;.02;.12;.15;1" dur="24s" begin="${begin}" repeatCount="indefinite"/></circle>`;
+      withForcedIdentityIcons = withForcedIdentityIcons.replace(
+        new RegExp(`<circle cx="${cx}" cy="141" r="14"[^>]*(?:\\/>|><animate data-ball-badge-impact="true"[^>]*\\/><\\/circle>)`),
+        badge,
+      );
+      withForcedIdentityIcons = withForcedIdentityIcons.replace(
+        new RegExp(`(<text x="${cx}" y="145"[^>]*class="number">\\d{2}<animate[^>]*data-ball-text-impact="true"[^>]*values=")[^"]+`),
+        `$1#FFFFFF;#111827;#111827;#FFFFFF;#FFFFFF`,
+      );
+    }
+    withForcedIdentityIcons = withForcedIdentityIcons.replace(
+      /<path d="M247 147l5 11-5 11-5-11z" fill="#00A99D"(?:>[\s\S]*?<\/path>|\/>)/,
+      '<path d="M247 147l5 11-5 11-5-11z" fill="#00A99D"><animate data-ball-icon-fill-impact="true" attributeName="fill" values="#00A99D;#FFFFFF;#FFFFFF;#00A99D;#00A99D" keyTimes="0;.02;.12;.15;1" dur="24s" begin="3s" repeatCount="indefinite"/></path>',
+    );
+    if (withForcedIdentityIcons !== raw) { raw = withForcedIdentityIcons; fs.writeFileSync(file, raw); }
+  }
+  if (name === 'saas-organization-architecture.svg') {
+    const userIcon = '<path d="M145 133a10 10 0 1 0 20 0 10 10 0 0 0-20 0m-4 18c4-7 24-7 28 0" class="icon" stroke="#0B5FFF"><animate data-ball-icon-impact="true" attributeName="stroke" values="#0B5FFF;#FFFFFF;#FFFFFF;#0B5FFF;#0B5FFF" keyTimes="0;.0333;.2;.2333;1" dur="12s" begin="0s" repeatCount="indefinite"/></path>';
+    const organizationIcon = '<path d="M145 333v-20l12-9 12 9v20m-17 0v-10h10v10" class="icon" stroke="#6D28D9"><animate data-ball-icon-impact="true" attributeName="stroke" values="#6D28D9;#FFFFFF;#FFFFFF;#6D28D9;#6D28D9" keyTimes="0;.0333;.2;.2333;1" dur="12s" begin="6s" repeatCount="indefinite"/></path>';
+    withForcedIdentityIcons = withForcedIdentityIcons
+      .replace(/(?:<path d="M145 133a10 10 0 1 0 20 0 10 10 0 0 0-20 0m-4 18c4-7 24-7 28 0"[^>]*?\/>|<path d="M145 133a10 10 0 1 0 20 0 10 10 0 0 0-20 0m-4 18c4-7 24-7 28 0"[^>]*>[\s\S]*?<\/path>)/, userIcon)
+      .replace(/(?:<path d="M145 333v-20l12-9 12 9v20m-17 0v-10h10v10"[^>]*?\/>|<path d="M145 333v-20l12-9 12 9v20m-17 0v-10h10v10"[^>]*>[\s\S]*?<\/path>)/, organizationIcon);
+    if (withForcedIdentityIcons !== raw) { raw = withForcedIdentityIcons; fs.writeFileSync(file, raw); }
+  }
+  const synchronizedInitialState = withForcedIdentityIcons.replace(
+    /(<animate\b[^>]*data-ball-(?:text-|icon-)?impact="true"[^>]*\bbegin=)"0s"/g,
     '$1"0.01s"',
   );
   if (synchronizedInitialState !== raw) { raw = synchronizedInitialState; fs.writeFileSync(file, raw); }

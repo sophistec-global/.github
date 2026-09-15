@@ -22,9 +22,7 @@
   <text x="600" y="38" text-anchor="middle" class="title">Intelligent Application Architecture</text>
   <text x="600" y="59" text-anchor="middle" class="subtitle">Grounded knowledge · connected tools · controlled execution</text>
 
-  <g class="motion-layer" pointer-events="none"><circle r="6" class="pulse">
-    <animateMotion dur="13.50s" repeatCount="indefinite" path="M600 146V180M600 256V285H1050V316"/>
-  </circle></g><rect x="430" y="82" width="340" height="64" rx="16" class="panel" filter="url(#shadow)"><animate data-ball-impact="true" attributeName="fill" values="#fff;#0B5FFF;#0B5FFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.01s" repeatCount="indefinite"/></rect>
+  <rect x="430" y="82" width="340" height="64" rx="16" class="panel" filter="url(#shadow)"><animate data-ball-impact="true" attributeName="fill" values="#fff;#0B5FFF;#0B5FFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.01s" repeatCount="indefinite"/></rect>
   <circle cx="470" cy="114" r="18" class="blue"/>
   <path d="M462 119c2-7 14-7 16 0M470 108a5 5 0 1 0 0-10 5 5 0 0 0 0 10" class="icon" style="color:#0B5FFF"/>
   <text x="600" y="109" text-anchor="middle" class="label">USER / APPLICATION<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.01s" repeatCount="indefinite"/></text>
@@ -59,7 +57,7 @@
   <text x="790" y="368" class="small card-small">Operational · analytical data</text>
 
   <rect x="955" y="316" width="190" height="76" rx="15" class="blue"><animate data-ball-impact="true" attributeName="fill" values="#EAF2FF;#0B5FFF;#0B5FFF;#EAF2FF;#EAF2FF" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="13.50s" repeatCount="indefinite"/></rect>
-  <path d="M981 341h24M993 329v24M985 357h16" class="icon" style="color:#0B5FFF"/>
+  <path d="M981 341h24M993 329v24M985 357h16" class="icon" style="color:#0B5FFF"><animate data-ball-icon-impact="true" attributeName="stroke" values="#0B5FFF;#FFFFFF;#FFFFFF;#0B5FFF;#0B5FFF" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="13.50s" repeatCount="indefinite"/></path>
   <text x="1017" y="346" class="label card-label">Internal APIs<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="13.50s" repeatCount="indefinite"/></text>
   <text x="1017" y="368" class="small card-small">Services · enterprise systems<animate data-ball-text-impact="true" attributeName="fill" values="#64748B;#FFFFFF;#FFFFFF;#64748B;#64748B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="13.50s" repeatCount="indefinite"/></text>
 
@@ -79,4 +77,7 @@
   <text x="600" y="547" text-anchor="middle" class="label">RESPONSE / ACTION</text>
   <text x="600" y="568" text-anchor="middle" class="small">Validated · auditable · permission-aware</text>
 
+<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse">
+    <animateMotion dur="13.50s" repeatCount="indefinite" path="M600 146V180M600 256V285H1050V316"/>
+  </circle></g>
 </svg>
