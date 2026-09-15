@@ -79,7 +79,7 @@ function repairGradientImpactBases(raw) {
 
 function addTextImpacts(raw) {
   const stack = [{ x: 0, y: 0 }], rects = [], replacements = [];
-  const tokenPattern = /<g\b[^>]*>|<\/g>|<rect\b[^>]*(?:\/>|>[\s\S]*?<\/rect>)|<text\b[^>]*>[\s\S]*?<\/text>/g;
+  const tokenPattern = /<g\b[^>]*>|<\/g>|<rect\b[^>]*?\/>|<rect\b[^>]*>[\s\S]*?<\/rect>|<text\b[^>]*>[\s\S]*?<\/text>/g;
   for (const match of raw.matchAll(tokenPattern)) {
     const token = match[0];
     if (token.startsWith('<g')) {
@@ -161,6 +161,13 @@ for (const name of files) {
     for (const [fullRoute, boundaryRoute] of boundaryRoutes) raw = raw.replace(fullRoute, boundaryRoute);
     fs.writeFileSync(file, raw);
   }
+  if (name === 'request-lifecycle.svg') {
+    raw = raw.replace(
+      '<g class="motion-layer" pointer-events="none"><circle r="8" class="db"><animateMotion dur="18s" repeatCount="indefinite" path="M65 150 H1085"/></circle><circle r="6" class="dt"><animateMotion dur="18s" repeatCount="indefinite" path="M1085 235 H65"/></circle></g>',
+      '<g class="motion-layer" pointer-events="none"><circle r="8" class="db"><animateMotion dur="18s" repeatCount="indefinite" path="M65 150 H1085"/></circle></g>',
+    );
+    fs.writeFileSync(file, raw);
+  }
   if (name === 'product-constellation.svg') {
     const misplacedMotion = '<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse"><animateMotion dur="4.8s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle></g>';
     raw = raw.replace(`<g transform="translate(50 72)">${misplacedMotion}`, `${misplacedMotion}<g transform="translate(50 72)">`);
@@ -208,6 +215,11 @@ for (const name of files) {
   raw = withGradientBases;
   const withTextImpact = addTextImpacts(raw);
   if (withTextImpact !== raw) { raw = withTextImpact; fs.writeFileSync(file, raw); }
+  const synchronizedInitialState = withTextImpact.replace(
+    /(<animate\b[^>]*data-ball-(?:text-)?impact="true"[^>]*\bbegin=)"0s"/g,
+    '$1"0.01s"',
+  );
+  if (synchronizedInitialState !== raw) { raw = synchronizedInitialState; fs.writeFileSync(file, raw); }
   const readable = makeReadable(raw);
   if (readable !== raw) { raw = readable; fs.writeFileSync(file, raw); }
   raw = readable;
@@ -237,7 +249,7 @@ for (const name of files) {
   }
   if (!routes.length) continue;
   const replacements = [];
-  for (const match of raw.matchAll(/<rect\b[^>]*(?:\/>|>[\s\S]*?<\/rect>)/g)) {
+  for (const match of raw.matchAll(/<rect\b[^>]*?\/>|<rect\b[^>]*>[\s\S]*?<\/rect>/g)) {
     const tag = match[0];
     const prefix = raw.slice(Math.max(0, match.index - 120), match.index);
     const translated = prefix.match(/<g\s+transform="translate\(([\d.-]+)[ ,]+([\d.-]+)\)"[^>]*>[^<]*$/);
