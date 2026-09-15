@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligent Application Architecture</title>
+  <desc id="desc">A user or application sends a request to an AI agent that connects to context and memory, a RAG knowledge base, vector search, databases, internal and external APIs, and business tools before producing a controlled response or action.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L10 5L0 10Z" class="arrow"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#0F172A" flood-opacity=".10"/>
+    </filter>
+    <linearGradient id="agentGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B5FFF"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:Arial,sans-serif}.bg{fill:#F8FAFC}.title{font-size:24px;font-weight:700;fill:#0F172A}.subtitle{font-size:12px;fill:#64748B}.label{font-size:14px;font-weight:700;fill:#1E293B}.small{font-size:11px;fill:#64748B}.inverse{fill:#fff}.panel{fill:#fff;stroke:#D8E1EE;stroke-width:1.5}.blue{fill:#EAF2FF;stroke:#0B5FFF;stroke-width:2}.teal{fill:#E8FBF7;stroke:#00A99D;stroke-width:2}.violet{fill:#F3EEFF;stroke:#6D28D9;stroke-width:2}.navy{fill:#EEF2F7;stroke:#1D3557;stroke-width:2}.line{fill:none;stroke:#94A3B8;stroke-width:2;marker-end:url(#arrow)}.bus{fill:none;stroke:#CBD5E1;stroke-width:2}.arrow{fill:#94A3B8}.pulse{fill:#00A99D}.icon{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+    @media(prefers-color-scheme:dark){.bg{fill:#0B1120}.title,.label{fill:#F8FAFC}.subtitle,.small{fill:#94A3B8}.panel,.blue,.teal,.violet,.navy{fill:#111827}.panel{stroke:#334155}.bus{stroke:#475569}.line{stroke:#64748B}.arrow{fill:#64748B}}
+  </style>
+
+  <rect class="bg" width="1200" height="620" rx="24"/>
+  <text x="600" y="38" text-anchor="middle" class="title">Intelligent Application Architecture</text>
+  <text x="600" y="59" text-anchor="middle" class="subtitle">Grounded knowledge · connected tools · controlled execution</text>
+
+  <rect x="430" y="82" width="340" height="64" rx="16" class="panel" filter="url(#shadow)"/>
+  <circle cx="470" cy="114" r="18" class="blue"/>
+  <path d="M462 119c2-7 14-7 16 0M470 108a5 5 0 1 0 0-10 5 5 0 0 0 0 10" class="icon" style="color:#0B5FFF"/>
+  <text x="600" y="109" text-anchor="middle" class="label">USER / APPLICATION</text>
+  <text x="600" y="129" text-anchor="middle" class="small">Intent · request · business objective</text>
+
+  <path d="M600 146V178" class="line"/>
+  <rect x="430" y="180" width="340" height="76" rx="18" fill="url(#agentGradient)" filter="url(#shadow)"/>
+  <text x="600" y="211" text-anchor="middle" class="label inverse">AI AGENT</text>
+  <text x="600" y="232" text-anchor="middle" class="small inverse">Reason · retrieve · orchestrate · validate</text>
+
+  <path d="M600 256V285M120 285H1080" class="bus"/>
+  <path d="M150 285V316M375 285V316M600 285V316M825 285V316M1050 285V316" class="bus"/>
+
+  <rect x="55" y="316" width="190" height="76" rx="15" class="blue"/>
+  <circle cx="82" cy="342" r="7" fill="#0B5FFF"/><circle cx="102" cy="342" r="7" fill="#0B5FFF"/><path d="M82 350v13M102 350v13M82 357h20" class="icon" style="color:#0B5FFF"/>
+  <text x="150" y="348" text-anchor="middle" class="label">Context &amp; Memory</text>
+  <text x="150" y="371" text-anchor="middle" class="small">State · history · preferences</text>
+
+  <rect x="280" y="316" width="190" height="76" rx="15" class="violet"/>
+  <path d="M304 337h18v24h-18zM309 333h18v24" class="icon" style="color:#6D28D9"/>
+  <text x="375" y="348" text-anchor="middle" class="label">RAG / Knowledge Base</text>
+  <text x="375" y="371" text-anchor="middle" class="small">Grounded private knowledge</text>
+
+  <rect x="505" y="316" width="190" height="76" rx="15" class="teal"/>
+  <circle cx="537" cy="347" r="12" class="icon" style="color:#00A99D"/><path d="M546 356l9 9" class="icon" style="color:#00A99D"/>
+  <text x="600" y="348" text-anchor="middle" class="label">Vector Search</text>
+  <text x="600" y="371" text-anchor="middle" class="small">Semantic · hybrid retrieval</text>
+
+  <rect x="730" y="316" width="190" height="76" rx="15" class="navy"/>
+  <ellipse cx="760" cy="339" rx="14" ry="6" class="icon" style="color:#1D3557"/><path d="M746 339v18c0 8 28 8 28 0v-18M746 348c0 8 28 8 28 0" class="icon" style="color:#1D3557"/>
+  <text x="825" y="348" text-anchor="middle" class="label">Databases</text>
+  <text x="825" y="371" text-anchor="middle" class="small">Operational · analytical data</text>
+
+  <rect x="955" y="316" width="190" height="76" rx="15" class="blue"/>
+  <path d="M981 341h24M993 329v24M985 357h16" class="icon" style="color:#0B5FFF"/>
+  <text x="1050" y="348" text-anchor="middle" class="label">Internal APIs</text>
+  <text x="1050" y="371" text-anchor="middle" class="small">Services · enterprise systems</text>
+
+  <path d="M375 392V418M825 392V418" class="bus"/>
+  <rect x="280" y="418" width="190" height="76" rx="15" class="teal"/>
+  <circle cx="312" cy="449" r="13" class="icon" style="color:#00A99D"/><path d="M299 449h26M312 436c6 6 6 20 0 26M312 436c-6 6-6 20 0 26" class="icon" style="color:#00A99D"/>
+  <text x="375" y="450" text-anchor="middle" class="label">External APIs</text>
+  <text x="375" y="473" text-anchor="middle" class="small">Partners · platforms · providers</text>
+
+  <rect x="730" y="418" width="190" height="76" rx="15" class="violet"/>
+  <path d="M755 439h28v22h-28zM763 439v-6h12v6" class="icon" style="color:#6D28D9"/>
+  <text x="825" y="450" text-anchor="middle" class="label">Business Tools</text>
+  <text x="825" y="473" text-anchor="middle" class="small">Workflows · actions · automation</text>
+
+  <path d="M600 392V520" class="line"/>
+  <rect x="430" y="520" width="340" height="64" rx="16" class="teal" filter="url(#shadow)"/>
+  <text x="600" y="547" text-anchor="middle" class="label">RESPONSE / ACTION</text>
+  <text x="600" y="568" text-anchor="middle" class="small">Validated · auditable · permission-aware</text>
+
+  <circle r="6" class="pulse">
+    <animateMotion dur="4.5s" repeatCount="indefinite" path="M600 146V180M600 256V285H1050V316"/>
+  </circle>
+</svg>

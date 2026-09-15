@@ -4,7 +4,17 @@
 
 ### 戦略 · ソフトウェア · SaaS · AI · イノベーション
 
-**言語:** [English](./README.md) · [Bahasa Indonesia](./README.id.md) · **日本語** · [한국어](./README.ko.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [繁體中文](./README.zh-tw.md) · [简体中文](./README.zh-cn.md)
+<p align="center">
+  <strong>Choose your language</strong><br>
+  <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-1D3557?style=for-the-badge" alt="English"></a>
+  <a href="./README.id.md" title="Indonesia"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-1D3557?style=for-the-badge" alt="Indonesia"></a>
+  <a href="./README.ja.md" title="日本語 (current language)"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-6D28D9?style=for-the-badge" alt="日本語 (current language)"></a>
+  <a href="./README.ko.md" title="한국어"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-1D3557?style=for-the-badge" alt="한국어"></a>
+  <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
+  <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
+  <a href="./README.zh-tw.md" title="繁體中文"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC-繁體中文-1D3557?style=for-the-badge" alt="繁體中文"></a>
+  <a href="./README.zh-cn.md" title="简体中文"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-简体中文-1D3557?style=for-the-badge" alt="简体中文"></a>
+</p>
 
 </div>
 
