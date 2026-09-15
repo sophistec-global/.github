@@ -46,6 +46,12 @@ function points(d) {
 function fillFor(raw, tag) {
   const direct = attr(tag, 'fill');
   if (direct && /^#[0-9a-f]{3,8}$/i.test(direct)) return direct;
+  const gradientId = direct?.match(/^url\(#([^)]+)\)$/)?.[1];
+  if (gradientId) {
+    const gradient = raw.match(new RegExp(`<linearGradient\\b[^>]*\\bid="${gradientId}"[^>]*>([\\s\\S]*?)<\\/linearGradient>`))?.[1];
+    const firstStop = gradient?.match(/stop-color="(#[0-9a-f]{3,8})"/i)?.[1];
+    if (firstStop) return firstStop;
+  }
   const inline = attr(tag, 'style')?.match(/(?:^|;)\s*fill:\s*(#[0-9a-f]{3,8})/i)?.[1];
   if (inline) return inline;
   for (const cls of (attr(tag, 'class') || '').split(/\s+/).reverse()) {
@@ -55,8 +61,24 @@ function fillFor(raw, tag) {
   return '#FFFFFF';
 }
 
+function repairGradientImpactBases(raw) {
+  return raw.replace(/<rect\b[^>]*fill="url\(#[^)]+\)"[^>]*>[\s\S]*?<\/rect>/g, (rect) => {
+    const base = fillFor(raw, rect);
+    return rect.replace(/<animate\b[^>]*data-ball-impact="true"[^>]*>/, (animation) => {
+      const values = (attr(animation, 'values') || '').split(';');
+      if (values.length === 5) {
+        values[0] = base;
+        values[3] = base;
+        values[4] = base;
+        return animation.replace(/values="[^"]+"/, `values="${values.join(';')}"`);
+      }
+      return animation;
+    });
+  });
+}
+
 function addTextImpacts(raw) {
-  const stack = [{ x: 0, y: 0 }], activeRects = [], replacements = [];
+  const stack = [{ x: 0, y: 0 }], rects = [], replacements = [];
   const tokenPattern = /<g\b[^>]*>|<\/g>|<rect\b[^>]*(?:\/>|>[\s\S]*?<\/rect>)|<text\b[^>]*>[\s\S]*?<\/text>/g;
   for (const match of raw.matchAll(tokenPattern)) {
     const token = match[0];
@@ -68,24 +90,30 @@ function addTextImpacts(raw) {
     }
     if (token === '</g>') { if (stack.length > 1) stack.pop(); continue; }
     const offset = stack.at(-1);
-    if (token.startsWith('<rect') && token.includes('data-ball-impact="true"')) {
+    if (token.startsWith('<rect')) {
       const impact = token.match(/<animate\b[^>]*data-ball-impact="true"[^>]*>/)?.[0];
-      if (!impact) continue;
-      activeRects.push({
+      rects.push({
         x: +(attr(token, 'x') || 0) + offset.x,
         y: +(attr(token, 'y') || 0) + offset.y,
         w: +(attr(token, 'width') || 0), h: +(attr(token, 'height') || 0),
-        begin: attr(impact, 'begin') || '0s', dur: attr(impact, 'dur') || '6s', keyTimes: attr(impact, 'keyTimes') || '0;.07;.16;1',
+        impact,
+        begin: impact ? attr(impact, 'begin') || '0s' : null,
+        dur: impact ? attr(impact, 'dur') || '6s' : null,
+        keyTimes: impact ? attr(impact, 'keyTimes') || '0;.07;.16;1' : null,
       });
       continue;
     }
-    if (!token.startsWith('<text') || token.includes('data-ball-text-impact="true"')) continue;
-    const x = +(attr(token, 'x') || 0) + offset.x, y = +(attr(token, 'y') || 0) + offset.y;
-    const node = [...activeRects].reverse().find((box) => x >= box.x - 2 && x <= box.x + box.w + 2 && y >= box.y - 2 && y <= box.y + box.h + 4);
-    if (!node) continue;
-    const base = fillFor(raw, token);
+    if (!token.startsWith('<text')) continue;
+    const cleaned = token.replace(/<animate\b[^>]*data-ball-text-impact="true"[^>]*\/>/g, '');
+    const x = +(attr(cleaned, 'x') || 0) + offset.x, y = +(attr(cleaned, 'y') || 0) + offset.y;
+    const node = [...rects].reverse().find((box) => x >= box.x - 2 && x <= box.x + box.w + 2 && y >= box.y - 2 && y <= box.y + box.h + 4);
+    if (!node?.impact) {
+      if (cleaned !== token) replacements.push([match.index, token.length, cleaned]);
+      continue;
+    }
+    const base = fillFor(raw, cleaned);
     const animation = `<animate data-ball-text-impact="true" attributeName="fill" values="${base};#FFFFFF;${base};${base}" keyTimes="${node.keyTimes}" dur="${node.dur}" begin="${node.begin}" repeatCount="indefinite"/>`;
-    replacements.push([match.index, token.length, token.replace('</text>', `${animation}</text>`)]);
+    replacements.push([match.index, token.length, cleaned.replace('</text>', `${animation}</text>`)]);
   }
   for (const [index, length, updated] of replacements.reverse()) raw = raw.slice(0, index) + updated + raw.slice(index + length);
   return raw;
@@ -132,16 +160,23 @@ for (const name of files) {
   if (name === 'product-constellation.svg') {
     const misplacedMotion = '<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse"><animateMotion dur="4.8s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle></g>';
     raw = raw.replace(`<g transform="translate(50 72)">${misplacedMotion}`, `${misplacedMotion}<g transform="translate(50 72)">`);
-    const singleMotion = '<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse"><animateMotion dur="14.40s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle></g>';
-    const multiMotion = '<g class="motion-layer" pointer-events="none">'
-      + '<circle r="6" fill="#00A99D"><animateMotion dur="14.40s" repeatCount="indefinite" path="M450 340C410 340 405 108 350 108"/></circle>'
-      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-2.4s" repeatCount="indefinite" path="M450 360C410 360 405 288 350 288"/></circle>'
-      + '<circle r="6" fill="#6D28D9"><animateMotion dur="14.40s" begin="-4.8s" repeatCount="indefinite" path="M450 380C410 380 405 468 350 468"/></circle>'
-      + '<circle r="6" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-1.2s" repeatCount="indefinite" path="M750 340C790 340 795 108 850 108"/></circle>'
-      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-3.6s" repeatCount="indefinite" path="M750 370C790 370 795 378 850 378"/></circle>'
-      + '<circle r="6" fill="#6D28D9"><animateMotion dur="14.40s" begin="-6s" repeatCount="indefinite" path="M750 400C790 400 795 648 850 648"/></circle>'
+    const productMotion = '<g class="motion-layer" pointer-events="none">'
+      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="0s" repeatCount="indefinite" path="M450 340C410 340 405 108 350 108"/></circle>'
+      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-1s" repeatCount="indefinite" path="M450 350C410 350 405 198 350 198"/></circle>'
+      + '<circle r="5" fill="#6D28D9"><animateMotion dur="14.40s" begin="-2s" repeatCount="indefinite" path="M450 360C410 360 405 288 350 288"/></circle>'
+      + '<circle r="5" fill="#17375E"><animateMotion dur="14.40s" begin="-3s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle>'
+      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-4s" repeatCount="indefinite" path="M450 380C410 380 405 468 350 468"/></circle>'
+      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-5s" repeatCount="indefinite" path="M450 390C410 390 405 558 350 558"/></circle>'
+      + '<circle r="5" fill="#6D28D9"><animateMotion dur="14.40s" begin="-6s" repeatCount="indefinite" path="M450 400C410 400 405 648 350 648"/></circle>'
+      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-.5s" repeatCount="indefinite" path="M750 340C790 340 795 108 850 108"/></circle>'
+      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-1.5s" repeatCount="indefinite" path="M750 350C790 350 795 198 850 198"/></circle>'
+      + '<circle r="5" fill="#6D28D9"><animateMotion dur="14.40s" begin="-2.5s" repeatCount="indefinite" path="M750 360C790 360 795 288 850 288"/></circle>'
+      + '<circle r="5" fill="#17375E"><animateMotion dur="14.40s" begin="-3.5s" repeatCount="indefinite" path="M750 370C790 370 795 378 850 378"/></circle>'
+      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-4.5s" repeatCount="indefinite" path="M750 380C790 380 795 468 850 468"/></circle>'
+      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-5.5s" repeatCount="indefinite" path="M750 390C790 390 795 558 850 558"/></circle>'
+      + '<circle r="5" fill="#6D28D9"><animateMotion dur="14.40s" begin="-6.5s" repeatCount="indefinite" path="M750 400C790 400 795 648 850 648"/></circle>'
       + '</g>';
-    raw = raw.replace(singleMotion, multiMotion);
+    raw = raw.replace(/<g class="motion-layer" pointer-events="none">(?:<circle\b[\s\S]*?<\/circle>)+<\/g>/, productMotion);
     raw = raw.replace('href="../logos/main_sophistec_global_01.png" x="18" y="16" width="40" height="40"/><text x="75" y="32" class="label">Sophistec Lumora', 'href="../logos/main_studio_01.png" x="18" y="16" width="40" height="40"/><text x="75" y="32" class="label">Sophistec Lumora');
     raw = raw.replace('values="#FFFFFF;#93C5FD;#FFFFFF;#FFFFFF" keyTimes="0;.07;.16;1" dur="4.8s" begin="0.00s"', 'values="#6D28D9;#00A99D;#6D28D9;#6D28D9" keyTimes="0;.07;.16;1" dur="4.8s" begin="0.00s"');
     raw = raw.replace(/href="\.\.\/logos\/([^"]+\.png)"/g, (_, logoName) => {
@@ -164,11 +199,25 @@ for (const name of files) {
     .replaceAll('#CCFBF1', '#00A99D').replaceAll('#5EEAD4', '#00A99D')
     .replaceAll('#EDE9FE', '#6D28D9').replaceAll('#C4B5FD', '#6D28D9'));
   if (stronger !== raw) { raw = stronger; fs.writeFileSync(file, raw); }
+  const withGradientBases = repairGradientImpactBases(raw);
+  if (withGradientBases !== raw) { raw = withGradientBases; fs.writeFileSync(file, raw); }
+  raw = withGradientBases;
   const withTextImpact = addTextImpacts(raw);
   if (withTextImpact !== raw) { raw = withTextImpact; fs.writeFileSync(file, raw); }
   const readable = makeReadable(raw);
   if (readable !== raw) { raw = readable; fs.writeFileSync(file, raw); }
   raw = readable;
+  if (name === 'engineering-principles.svg') {
+    const alwaysDarkLabels = 'Secure|By Design|Observable|In Production|AI Grounded|Controlled';
+    const withReadableStaticLabels = raw.replace(
+      new RegExp(`(<text[^>]*>(?:${alwaysDarkLabels}))<animate data-ball-text-impact="true"[^>]*/>(</text>)`, 'g'),
+      '$1$2',
+    );
+    if (withReadableStaticLabels !== raw) {
+      raw = withReadableStaticLabels;
+      fs.writeFileSync(file, raw);
+    }
+  }
   if (!raw.includes('<animateMotion') || raw.includes('data-ball-impact="true"')) continue;
   const svgWidth = +(raw.match(/<svg[^>]*\bwidth="([\d.]+)"/)?.[1] || 1200);
   const svgHeight = +(raw.match(/<svg[^>]*\bheight="([\d.]+)"/)?.[1] || 500);
