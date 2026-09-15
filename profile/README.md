@@ -237,7 +237,7 @@ AI is treated as an intelligence layer connected to products and
 operations---not simply as a chatbot feature.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=2" width="100%" alt="Sophistec Intelligence Layer">
+<img src="../assets/svg/ai-intelligence-layer.svg?v=3" width="100%" alt="Sophistec Intelligence Layer">
 </p>
 LLMs, agents, RAG, memory, tools, MCP, APIs, permissions, and business
 logic can work together to retrieve trusted context and support
@@ -246,26 +246,30 @@ controlled real-world actions.
 ## Animated Engineering Workflow
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=2" width="100%" alt="Sophistec animated engineering workflow">
+<img src="../assets/svg/engineering-journey.svg?v=3" width="100%" alt="Sophistec animated engineering workflow">
 </p>
 ## Product × Engineering Capability Map
 
-| Platform | SaaS | API / Integration | AI / Data | Automation | Identity / Access |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| **Sophistec Optima Solutions** | ● | ● | ◐ | ● | ● |
-| **Sophistec C4C** | ● | ◐ | ◐ | ◐ | ● |
-| **Sophistec Market Craft** | ● | ● | ● | ● | ◐ |
-| **Sophistec Data Craft** | ● | ● | ● | ● | ● |
-| **Sophistec Medicore** | ● | ● | ◐ | ● | ● |
-| **Sophistec Denticon** | ● | ● | ◐ | ● | ● |
-| **Sophistec Omnichannel** | ● | ● | ◐ | ● | ● |
-| **Sophistec Smart Rack** | ● | ● | ◐ | ● | ● |
-| **Sophistec Service Hub** | ● | ● | ◐ | ● | ● |
-| **Sophistec Key Trust** | ◐ | ● | — | ● | ● |
-| **Sophistec Lumora** | ● | ● | ◐ | ● | ◐ |
-| **Sophistec Career Hub** | ● | ◐ | ◐ | ● | ● |
-| **Sophistec Edu Pro** | ● | ◐ | ◐ | ◐ | ● |
-| **Sophistec Edu Plus** | ● | ◐ | ◐ | ◐ | ● |
+<table width="100%" style="width:100%;table-layout:fixed">
+  <colgroup><col width="28%"><col width="10%"><col width="18%"><col width="12%"><col width="14%"><col width="18%"></colgroup>
+  <thead><tr><th>Platform</th><th>SaaS</th><th>API / Integration</th><th>AI / Data</th><th>Automation</th><th>Identity / Access</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
+    <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Lumora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">◐</td></tr>
+    <tr><td><strong>Sophistec Career Hub</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Edu Pro</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Edu Plus</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
+  </tbody>
+</table>
 
 <sub>● core/relevant capability · ◐ selective use or capability direction · — not a primary product focus. Update this map as implementations evolve.</sub>
 
@@ -287,7 +291,7 @@ controlled real-world actions.
 </p>
 
 ### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=2" width="100%" alt="Sophistec Product Constellation"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=4" width="100%" alt="Sophistec Product Constellation"></p>
 
 ### Cross-Border Collaboration
 <p align="center"><img src="../assets/svg/global-collaboration.svg" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
@@ -311,16 +315,16 @@ controlled real-world actions.
 
 These diagrams summarize how Sophistec approaches product engineering as connected systems rather than isolated technologies.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=2" width="100%" alt="Engineering Journey"></p>
+<p align="center"><img src="../assets/svg/engineering-journey.svg?v=3" width="100%" alt="Engineering Journey"></p>
 
 ### Connected Platform
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=2" width="100%" alt="Connected Platform Architecture"></p>
+<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=3" width="100%" alt="Connected Platform Architecture"></p>
 
 ### Microservices & Distributed Systems
 <p align="center"><img src="../assets/svg/microservices-architecture.svg" width="100%" alt="Microservices Architecture"></p>
 
 ### AI-Native Intelligence
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=2" width="100%" alt="AI Intelligence Layer"></p>
+<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=3" width="100%" alt="AI Intelligence Layer"></p>
 
 ### Enterprise RAG
 <p align="center"><img src="../assets/svg/rag-pipeline.svg?v=2" width="100%" alt="Enterprise RAG Pipeline"></p>
@@ -531,24 +535,9 @@ applications:
 -   Webhooks and integration layers
 -   Scalable product and service architecture
 
-``` text
-Users
-  │
-  ▼
-Identity & Authentication
-  │
-  ▼
-Organization / Tenant
-  │
-  ├── Users & Teams
-  ├── Roles & Permissions
-  ├── Products & Entitlements
-  ├── Subscription & Billing
-  └── Usage & Audit
-        │
-        ▼
- Connected SaaS Products
-```
+<p align="center">
+  <img src="../assets/svg/saas-organization-architecture.svg" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
+</p>
 
 ### Integration Engineering
 
@@ -871,7 +860,8 @@ Architecture considers data purpose, classification, access boundaries, retentio
 
 ## Documentation as Engineering
 
-<table width="100%">
+<table width="100%" style="width:100%;table-layout:fixed">
+  <colgroup><col width="22%"><col width="78%"></colgroup>
   <thead>
     <tr>
       <th width="34%">Artifact</th>
@@ -1022,7 +1012,8 @@ Major systems can be reviewed against **product value, architecture, scalability
 
 ## Enterprise Architecture Checklist
 
-<table width="100%">
+<table width="100%" style="width:100%;table-layout:fixed">
+  <colgroup><col width="25%"><col width="75%"></colgroup>
   <thead>
     <tr>
       <th width="22%">Domain</th>
@@ -1090,7 +1081,8 @@ Sophistec's AI direction should be governed by:
 
 <p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg" width="100%" alt="Product Maturity Lifecycle"></p>
 
-<table width="100%">
+<table width="100%" style="width:100%;table-layout:fixed">
+  <colgroup><col width="25%"><col width="75%"></colgroup>
   <thead>
     <tr>
       <th width="25%">Stage</th>
@@ -1153,15 +1145,19 @@ A mature release process connects development with testing, preview channels, ge
 
 Sophistec's integration ecosystem can be organized as a reusable catalog rather than a collection of one-off connections:
 
-| Domain | Examples of Integration Capability |
-| --- | --- |
-| **Identity** | SSO, OAuth, external identity providers |
-| **Payments** | Payment gateways and transaction services |
-| **Healthcare** | Clinical, insurance, laboratory, and healthcare APIs |
-| **Government** | Public-sector and regulatory system integrations |
-| **Commerce** | Marketplace, order, inventory, and sales-channel APIs |
-| **Logistics** | Shipping, fulfillment, and delivery services |
-| **AI & SaaS** | Model providers, communication platforms, and external SaaS |
+<table width="100%" style="width:100%;table-layout:fixed">
+  <colgroup><col width="22%"><col width="78%"></colgroup>
+  <thead><tr><th>Domain</th><th>Examples of Integration Capability</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Identity</strong></td><td>SSO, OAuth, external identity providers</td></tr>
+    <tr><td><strong>Payments</strong></td><td>Payment gateways and transaction services</td></tr>
+    <tr><td><strong>Healthcare</strong></td><td>Clinical, insurance, laboratory, and healthcare APIs</td></tr>
+    <tr><td><strong>Government</strong></td><td>Public-sector and regulatory system integrations</td></tr>
+    <tr><td><strong>Commerce</strong></td><td>Marketplace, order, inventory, and sales-channel APIs</td></tr>
+    <tr><td><strong>Logistics</strong></td><td>Shipping, fulfillment, and delivery services</td></tr>
+    <tr><td><strong>AI &amp; SaaS</strong></td><td>Model providers, communication platforms, and external SaaS</td></tr>
+  </tbody>
+</table>
 
 Each production connector should ultimately have ownership, versioning, authentication, observability, error handling, retry behavior, documentation, and support expectations.
 

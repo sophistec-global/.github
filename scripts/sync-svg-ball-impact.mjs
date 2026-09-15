@@ -91,10 +91,33 @@ function addTextImpacts(raw) {
   return raw;
 }
 
+function makeReadable(raw) {
+  if (!raw.includes('<animateMotion') || raw.includes('data-readable-timing="3x"')) return raw;
+  raw = raw.replace('<svg ', '<svg data-readable-timing="3x" ');
+  raw = raw.replace(/<animate(?:Motion)?\b[^>]*>/g, (tag) => {
+    tag = tag.replace(/\bdur="([\d.]+)s"/, (_, value) => `dur="${(+value * 3).toFixed(2).replace(/\.00$/, '')}s"`);
+    tag = tag.replace(/\bbegin="(-?[\d.]+)s"/, (_, value) => `begin="${(+value * 3).toFixed(2).replace(/\.00$/, '')}s"`);
+    if (!/data-ball-(?:text-)?impact="true"/.test(tag)) return tag;
+    const duration = +(attr(tag, 'dur') || '18').replace('s', '');
+    const values = (attr(tag, 'values') || '').split(';');
+    if (values.length === 4) tag = tag.replace(/\bvalues="[^"]+"/, `values="${values[0]};${values[1]};${values[1]};${values[2]};${values[3]}"`);
+    const ramp = Math.min(.08, .4 / duration), hold = Math.min(.8, 2.4 / duration), fade = Math.min(.9, 2.8 / duration);
+    tag = tag.replace(/\bkeyTimes="[^"]+"/, `keyTimes="0;${ramp.toFixed(4)};${hold.toFixed(4)};${fade.toFixed(4)};1"`);
+    return tag;
+  });
+  return raw;
+}
+
 let changed = 0, impacted = 0;
 for (const name of files) {
   const file = path.join(root, name);
   let raw = fs.readFileSync(file, 'utf8');
+  const beforeWhiteTextFix = raw;
+  raw = raw.replace(/<text\b[^>]*>[\s\S]*?<\/text>/g, (textTag) => {
+    if (!/class="[^"]*(?:white|inverse)[^"]*"/.test(textTag) || !textTag.includes('data-ball-text-impact="true"')) return textTag;
+    return textTag.replace(/<animate\b[^>]*data-ball-text-impact="true"[^>]*\/>/, (animation) => animation.replace(/values="[^"]+"/, 'values="#FFFFFF;#FFFFFF;#FFFFFF;#FFFFFF;#FFFFFF"'));
+  });
+  if (raw !== beforeWhiteTextFix) fs.writeFileSync(file, raw);
   if (name === 'hero-technology-network.svg') {
     const boundaryRoutes = new Map([
       ['<path d="M600 180 L150 95" class="dash"/>', '<path d="M465 154.5 L260 115.8" class="dash"/>'],
@@ -109,6 +132,16 @@ for (const name of files) {
   if (name === 'product-constellation.svg') {
     const misplacedMotion = '<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse"><animateMotion dur="4.8s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle></g>';
     raw = raw.replace(`<g transform="translate(50 72)">${misplacedMotion}`, `${misplacedMotion}<g transform="translate(50 72)">`);
+    const singleMotion = '<g class="motion-layer" pointer-events="none"><circle r="6" class="pulse"><animateMotion dur="14.40s" repeatCount="indefinite" path="M450 370C410 370 405 378 350 378"/></circle></g>';
+    const multiMotion = '<g class="motion-layer" pointer-events="none">'
+      + '<circle r="6" fill="#00A99D"><animateMotion dur="14.40s" repeatCount="indefinite" path="M450 340C410 340 405 108 350 108"/></circle>'
+      + '<circle r="5" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-2.4s" repeatCount="indefinite" path="M450 360C410 360 405 288 350 288"/></circle>'
+      + '<circle r="6" fill="#6D28D9"><animateMotion dur="14.40s" begin="-4.8s" repeatCount="indefinite" path="M450 380C410 380 405 468 350 468"/></circle>'
+      + '<circle r="6" fill="#0B5FFF"><animateMotion dur="14.40s" begin="-1.2s" repeatCount="indefinite" path="M750 340C790 340 795 108 850 108"/></circle>'
+      + '<circle r="5" fill="#00A99D"><animateMotion dur="14.40s" begin="-3.6s" repeatCount="indefinite" path="M750 370C790 370 795 378 850 378"/></circle>'
+      + '<circle r="6" fill="#6D28D9"><animateMotion dur="14.40s" begin="-6s" repeatCount="indefinite" path="M750 400C790 400 795 648 850 648"/></circle>'
+      + '</g>';
+    raw = raw.replace(singleMotion, multiMotion);
     raw = raw.replace('href="../logos/main_sophistec_global_01.png" x="18" y="16" width="40" height="40"/><text x="75" y="32" class="label">Sophistec Lumora', 'href="../logos/main_studio_01.png" x="18" y="16" width="40" height="40"/><text x="75" y="32" class="label">Sophistec Lumora');
     raw = raw.replace('values="#FFFFFF;#93C5FD;#FFFFFF;#FFFFFF" keyTimes="0;.07;.16;1" dur="4.8s" begin="0.00s"', 'values="#6D28D9;#00A99D;#6D28D9;#6D28D9" keyTimes="0;.07;.16;1" dur="4.8s" begin="0.00s"');
     raw = raw.replace(/href="\.\.\/logos\/([^"]+\.png)"/g, (_, logoName) => {
@@ -118,6 +151,14 @@ for (const name of files) {
     });
     fs.writeFileSync(file, raw);
   }
+  if (name === 'engineering-journey.svg' || name === 'platform-ecosystem.svg' || name === 'ai-intelligence-layer.svg') {
+    const keyPoints = '0;0;.1663;.1663;.3337;.3337;.5;.5;.6663;.6663;.8337;.8337;1;1;1';
+    const keyTimes = '0;.0952;.1429;.2381;.2857;.3810;.4286;.5238;.5714;.6667;.7143;.8095;.8571;.9524;1';
+    raw = raw.replace(/<animateMotion dur="21s" repeatCount="indefinite" path="M80 140 H1120"[^>]*\/>/, `<animateMotion dur="21s" repeatCount="indefinite" path="M80 140 H1120" keyPoints="${keyPoints}" keyTimes="${keyTimes}" calcMode="linear"/>`);
+    const arrivals = new Map([['2.43s', '3s'], ['5.82s', '6s'], ['9.36s', '9s'], ['12.93s', '12s'], ['16.32s', '15s'], ['19.86s', '18s']]);
+    raw = raw.replace(/begin="(2\.43s|5\.82s|9\.36s|12\.93s|16\.32s|19\.86s)"/g, (_, timing) => `begin="${arrivals.get(timing)}"`);
+    fs.writeFileSync(file, raw);
+  }
   const stronger = raw.replace(/<animate\b[^>]*attributeName="fill"[^>]*>/g, (tag) => tag
     .replaceAll('#DBEAFE', '#0B5FFF').replaceAll('#93C5FD', '#0B5FFF')
     .replaceAll('#CCFBF1', '#00A99D').replaceAll('#5EEAD4', '#00A99D')
@@ -125,6 +166,9 @@ for (const name of files) {
   if (stronger !== raw) { raw = stronger; fs.writeFileSync(file, raw); }
   const withTextImpact = addTextImpacts(raw);
   if (withTextImpact !== raw) { raw = withTextImpact; fs.writeFileSync(file, raw); }
+  const readable = makeReadable(raw);
+  if (readable !== raw) { raw = readable; fs.writeFileSync(file, raw); }
+  raw = readable;
   if (!raw.includes('<animateMotion') || raw.includes('data-ball-impact="true"')) continue;
   const svgWidth = +(raw.match(/<svg[^>]*\bwidth="([\d.]+)"/)?.[1] || 1200);
   const svgHeight = +(raw.match(/<svg[^>]*\bheight="([\d.]+)"/)?.[1] || 500);
