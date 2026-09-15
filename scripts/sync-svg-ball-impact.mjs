@@ -57,6 +57,11 @@ let changed = 0, impacted = 0;
 for (const name of files) {
   const file = path.join(root, name);
   let raw = fs.readFileSync(file, 'utf8');
+  const stronger = raw.replace(/<animate\b[^>]*attributeName="fill"[^>]*>/g, (tag) => tag
+    .replaceAll('#DBEAFE', '#93C5FD')
+    .replaceAll('#CCFBF1', '#5EEAD4')
+    .replaceAll('#EDE9FE', '#C4B5FD'));
+  if (stronger !== raw) { raw = stronger; fs.writeFileSync(file, raw); }
   if (!raw.includes('<animateMotion') || raw.includes('data-ball-impact="true"')) continue;
   const svgWidth = +(raw.match(/<svg[^>]*\bwidth="([\d.]+)"/)?.[1] || 1200);
   const svgHeight = +(raw.match(/<svg[^>]*\bheight="([\d.]+)"/)?.[1] || 500);
@@ -88,7 +93,7 @@ for (const name of files) {
     }
     if (!best) continue;
     const base = fillFor(raw, tag);
-    const tint = /teal|green/i.test(attr(tag, 'class') || '') ? '#CCFBF1' : /violet|purple/i.test(attr(tag, 'class') || '') ? '#EDE9FE' : '#DBEAFE';
+    const tint = /teal|green/i.test(attr(tag, 'class') || '') ? '#5EEAD4' : /violet|purple/i.test(attr(tag, 'class') || '') ? '#C4B5FD' : '#93C5FD';
     const animation = `<animate data-ball-impact="true" attributeName="fill" values="${base};${tint};${base};${base}" keyTimes="0;.07;.16;1" dur="${best.duration}s" begin="${best.delay.toFixed(2)}s" repeatCount="indefinite"/>`;
     const updated = tag.endsWith('/>') ? `${tag.slice(0, -2)}>${animation}</rect>` : tag.replace('</rect>', `${animation}</rect>`);
     replacements.push([match.index, tag.length, updated]); impacted++;

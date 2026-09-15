@@ -714,7 +714,7 @@ judgment, security, reliability, and a clear understanding of the people
 and organizations it serves.
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
+  <img src="../assets/svg/technology-philosophy-flow.svg?v=2" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
 </p>
 
 Our goal is not simply to add AI to software.
@@ -746,7 +746,7 @@ rather than treating frontend, backend, infrastructure, data, and AI as
 isolated disciplines.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+  <img src="../assets/svg/interface-to-intelligence.svg?v=2" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
 </p>
 
 ---
