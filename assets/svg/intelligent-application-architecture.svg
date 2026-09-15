@@ -27,13 +27,13 @@
   </circle></g><rect x="430" y="82" width="340" height="64" rx="16" class="panel" filter="url(#shadow)"><animate data-ball-impact="true" attributeName="fill" values="#fff;#0B5FFF;#0B5FFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></rect>
   <circle cx="470" cy="114" r="18" class="blue"/>
   <path d="M462 119c2-7 14-7 16 0M470 108a5 5 0 1 0 0-10 5 5 0 0 0 0 10" class="icon" style="color:#0B5FFF"/>
-  <text x="600" y="109" text-anchor="middle" class="label">USER / APPLICATION<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
-  <text x="600" y="129" text-anchor="middle" class="small">Intent · request · business objective<animate data-ball-text-impact="true" attributeName="fill" values="#64748B;#FFFFFF;#64748B;#64748B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="600" y="109" text-anchor="middle" class="label">USER / APPLICATION<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="600" y="129" text-anchor="middle" class="small">Intent · request · business objective<animate data-ball-text-impact="true" attributeName="fill" values="#64748B;#FFFFFF;#FFFFFF;#64748B;#64748B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
 
   <path d="M600 146V178" class="line"/>
-  <rect x="430" y="180" width="340" height="76" rx="18" fill="url(#agentGradient)" filter="url(#shadow)"><animate data-ball-impact="true" attributeName="fill" values="#0B5FFF;#00A99D;#00A99D;#0B5FFF;#0B5FFF" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></rect>
-  <text x="600" y="211" text-anchor="middle" class="label inverse">AI AGENT<animate data-ball-text-impact="true" attributeName="fill" values="#fff;#FFFFFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></text>
-  <text x="600" y="232" text-anchor="middle" class="small inverse">Reason · retrieve · orchestrate · validate<animate data-ball-text-impact="true" attributeName="fill" values="#fff;#FFFFFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></text>
+  <rect x="430" y="180" width="340" height="76" rx="18" fill="url(#agentGradient)" filter="url(#shadow)"><animate data-ball-impact="true" attributeName="fill" values="#0B5FFF;#007F75;#007F75;#0B5FFF;#0B5FFF" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></rect>
+  <text x="600" y="211" text-anchor="middle" class="label inverse">AI AGENT<animate data-ball-text-impact="true" attributeName="fill" values="#fff;#FFFFFF;#FFFFFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></text>
+  <text x="600" y="232" text-anchor="middle" class="small inverse">Reason · retrieve · orchestrate · validate<animate data-ball-text-impact="true" attributeName="fill" values="#fff;#FFFFFF;#FFFFFF;#fff;#fff" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0.96s" repeatCount="indefinite"/></text>
 
   <path d="M600 256V285M150 285H1050" class="bus"/>
   <path d="M150 285V316M375 285V316M600 285V316M825 285V316M1050 285V316" class="bus"/>
@@ -60,8 +60,8 @@
 
   <rect x="955" y="316" width="190" height="76" rx="15" class="blue"><animate data-ball-impact="true" attributeName="fill" values="#EAF2FF;#0B5FFF;#0B5FFF;#EAF2FF;#EAF2FF" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="13.50s" repeatCount="indefinite"/></rect>
   <path d="M981 341h24M993 329v24M985 357h16" class="icon" style="color:#0B5FFF"/>
-  <text x="1017" y="346" class="label card-label">Internal APIs<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
-  <text x="1017" y="368" class="small card-small">Services · enterprise systems<animate data-ball-text-impact="true" attributeName="fill" values="#64748B;#FFFFFF;#64748B;#64748B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="1017" y="346" class="label card-label">Internal APIs<animate data-ball-text-impact="true" attributeName="fill" values="#1E293B;#FFFFFF;#FFFFFF;#1E293B;#1E293B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="1017" y="368" class="small card-small">Services · enterprise systems<animate data-ball-text-impact="true" attributeName="fill" values="#64748B;#FFFFFF;#FFFFFF;#64748B;#64748B" keyTimes="0;0.0296;0.1778;0.2074;1" dur="13.50s" begin="0s" repeatCount="indefinite"/></text>
 
   <path d="M375 392V418M825 392V418" class="bus"/>
   <rect x="280" y="418" width="190" height="76" rx="15" class="teal"/>

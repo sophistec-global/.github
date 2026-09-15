@@ -112,7 +112,11 @@ function addTextImpacts(raw) {
       continue;
     }
     const base = fillFor(raw, cleaned);
-    const animation = `<animate data-ball-text-impact="true" attributeName="fill" values="${base};#FFFFFF;${base};${base}" keyTimes="${node.keyTimes}" dur="${node.dur}" begin="${node.begin}" repeatCount="indefinite"/>`;
+    const phaseCount = node.keyTimes.split(';').length;
+    const textValues = phaseCount === 5
+      ? `${base};#FFFFFF;#FFFFFF;${base};${base}`
+      : `${base};#FFFFFF;${base};${base}`;
+    const animation = `<animate data-ball-text-impact="true" attributeName="fill" values="${textValues}" keyTimes="${node.keyTimes}" dur="${node.dur}" begin="${node.begin}" repeatCount="indefinite"/>`;
     replacements.push([match.index, token.length, cleaned.replace('</text>', `${animation}</text>`)]);
   }
   for (const [index, length, updated] of replacements.reverse()) raw = raw.slice(0, index) + updated + raw.slice(index + length);
@@ -196,7 +200,7 @@ for (const name of files) {
   }
   const stronger = raw.replace(/<animate\b[^>]*attributeName="fill"[^>]*>/g, (tag) => tag
     .replaceAll('#DBEAFE', '#0B5FFF').replaceAll('#93C5FD', '#0B5FFF')
-    .replaceAll('#CCFBF1', '#00A99D').replaceAll('#5EEAD4', '#00A99D')
+    .replaceAll('#CCFBF1', '#007F75').replaceAll('#5EEAD4', '#007F75').replaceAll('#00A99D', '#007F75')
     .replaceAll('#EDE9FE', '#6D28D9').replaceAll('#C4B5FD', '#6D28D9'));
   if (stronger !== raw) { raw = stronger; fs.writeFileSync(file, raw); }
   const withGradientBases = repairGradientImpactBases(raw);

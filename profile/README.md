@@ -218,7 +218,7 @@ billing, product access, intelligence, integrations, and infrastructure
 while allowing individual products to evolve independently.
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=6" width="100%" alt="Sophistec connected platform architecture">
+<img src="../assets/svg/platform-ecosystem.svg?v=8" width="100%" alt="Sophistec connected platform architecture">
 </p>
 ### Engineering Domain Map
 
@@ -237,7 +237,7 @@ AI is treated as an intelligence layer connected to products and
 operations---not simply as a chatbot feature.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=6" width="100%" alt="Sophistec Intelligence Layer">
+<img src="../assets/svg/ai-intelligence-layer.svg?v=8" width="100%" alt="Sophistec Intelligence Layer">
 </p>
 LLMs, agents, RAG, memory, tools, MCP, APIs, permissions, and business
 logic can work together to retrieve trusted context and support
@@ -246,13 +246,14 @@ controlled real-world actions.
 ## Animated Engineering Workflow
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=6" width="100%" alt="Sophistec animated engineering workflow">
+<img src="../assets/svg/engineering-journey.svg?v=8" width="100%" alt="Sophistec animated engineering workflow">
 </p>
 
 ## Product × Engineering Capability Map
 
-<table width="100%" cellspacing="0" cellpadding="6">
-  <thead><tr><th width="28%">Platform</th><th width="10%">SaaS</th><th width="18%">API / Integration</th><th width="12%">AI / Data</th><th width="14%">Automation</th><th width="18%">Identity / Access</th></tr></thead>
+<table width="1200" cellspacing="0" cellpadding="6">
+  <caption><img src="../assets/svg/table-width-spacer.svg" width="1200" height="1" alt=""></caption>
+  <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integration</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identity / Access</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
@@ -287,62 +288,62 @@ controlled real-world actions.
 ## Sophistec Visual System
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=6" width="100%" alt="Sophistec Technology Ecosystem">
+  <img src="../assets/svg/hero-technology-network.svg?v=8" width="100%" alt="Sophistec Technology Ecosystem">
 </p>
 
 ### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=6" width="100%" alt="Sophistec Product Constellation"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=8" width="100%" alt="Sophistec Product Constellation"></p>
 
 ### Cross-Border Collaboration
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=6" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
+<p align="center"><img src="../assets/svg/global-collaboration.svg?v=8" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
 
 ### Request Lifecycle
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=6" width="100%" alt="Request to Production Lifecycle"></p>
+<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=8" width="100%" alt="Request to Production Lifecycle"></p>
 
 ### Agentic Execution
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=6" width="100%" alt="Agentic Execution Loop"></p>
+<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=8" width="100%" alt="Agentic Execution Loop"></p>
 
 ### Data to Intelligence
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=6" width="100%" alt="Data Intelligence Lifecycle"></p>
+<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=8" width="100%" alt="Data Intelligence Lifecycle"></p>
 
 ### Engineering Principles
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=6" width="100%" alt="Engineering Principles"></p>
+<p align="center"><img src="../assets/svg/engineering-principles.svg?v=8" width="100%" alt="Engineering Principles"></p>
 
 ### Capability System
-<p align="center"><img src="../assets/svg/capability-system.svg?v=6" width="100%" alt="Engineering Capability System"></p>
+<p align="center"><img src="../assets/svg/capability-system.svg?v=8" width="100%" alt="Engineering Capability System"></p>
 
 ## Premium Engineering Visuals
 
 These diagrams summarize how Sophistec approaches product engineering as connected systems rather than isolated technologies.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=6" width="100%" alt="Engineering Journey"></p>
+<p align="center"><img src="../assets/svg/engineering-journey.svg?v=8" width="100%" alt="Engineering Journey"></p>
 
 ### Connected Platform
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=6" width="100%" alt="Connected Platform Architecture"></p>
+<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=8" width="100%" alt="Connected Platform Architecture"></p>
 
 ### Microservices & Distributed Systems
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=7" width="100%" alt="Microservices Architecture"></p>
+<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=8" width="100%" alt="Microservices Architecture"></p>
 
 ### AI-Native Intelligence
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=6" width="100%" alt="AI Intelligence Layer"></p>
+<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=8" width="100%" alt="AI Intelligence Layer"></p>
 
 ### Enterprise RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=6" width="100%" alt="Enterprise RAG Pipeline"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=8" width="100%" alt="Enterprise RAG Pipeline"></p>
 
 ### CI/CD & Production Delivery
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=6" width="100%" alt="CI CD Pipeline"></p>
+<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=8" width="100%" alt="CI CD Pipeline"></p>
 
 ### Enterprise Integration
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=7" width="100%" alt="Integration Ecosystem"></p>
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=8" width="100%" alt="Integration Ecosystem"></p>
 
 ### SaaS Identity & Entitlements
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=6" width="100%" alt="SaaS Identity Flow"></p>
+<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=8" width="100%" alt="SaaS Identity Flow"></p>
 
 ### Observability & Reliability
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=6" width="100%" alt="Observability Loop"></p>
+<p align="center"><img src="../assets/svg/observability-loop.svg?v=8" width="100%" alt="Observability Loop"></p>
 
 ### Security by Design
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=6" width="100%" alt="Security by Design"></p>
+<p align="center"><img src="../assets/svg/security-by-design.svg?v=8" width="100%" alt="Security by Design"></p>
 
 ## Technology & Engineering Capabilities
 
@@ -423,13 +424,13 @@ We explore and build AI-powered systems around:
 A typical intelligent application can connect models with private
 knowledge and operational tools:
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=6" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=8" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
 
 ### RAG & Enterprise Knowledge Systems
 
 Our RAG-oriented architecture can include:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=6" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=8" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
 
 Key areas include document processing, chunking strategies, metadata,
 embeddings, vector databases, semantic retrieval, hybrid search,
@@ -503,7 +504,7 @@ operational requirements, including:
 -   Eventual consistency where appropriate
 -   Observability and distributed tracing
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=7" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
+<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=8" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
 
 ### Messaging, Queues & Event Processing
 
@@ -536,7 +537,7 @@ applications:
 -   Scalable product and service architecture
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=6" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
+  <img src="../assets/svg/saas-organization-architecture.svg?v=8" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
 </p>
 
 ### Integration Engineering
@@ -558,7 +559,7 @@ Integration areas can include:
 -   External SaaS platforms
 -   Internal enterprise systems
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=7" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, AI providers, and third-party SaaS"></p>
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=8" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, AI providers, and third-party SaaS"></p>
 
 ### DevOps, Cloud, Containers & Infrastructure
 
@@ -682,7 +683,7 @@ Sophistec's technology work is designed around the complete lifecycle of
 a digital product:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=6" width="100%" alt="From Product Idea to Production lifecycle">
+  <img src="../assets/svg/product-idea-to-production.svg?v=8" width="100%" alt="From Product Idea to Production lifecycle">
 </p>
 
 This allows us to approach technology not as isolated code, but as a
@@ -703,7 +704,7 @@ judgment, security, reliability, and a clear understanding of the people
 and organizations it serves.
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=6" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
+  <img src="../assets/svg/technology-philosophy-flow.svg?v=8" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
 </p>
 
 Our goal is not simply to add AI to software.
@@ -735,7 +736,7 @@ rather than treating frontend, backend, infrastructure, data, and AI as
 isolated disciplines.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=6" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+  <img src="../assets/svg/interface-to-intelligence.svg?v=8" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
 </p>
 
 ---
@@ -760,7 +761,7 @@ isolated disciplines.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=User+%E2%86%92+Agent+%E2%86%92+Knowledge+%E2%86%92+Tools+%E2%86%92+Action;LLM+%2B+RAG+%2B+Memory+%2B+APIs+%2B+Business+Logic;From+AI+Chat+to+AI-Powered+Operations" alt="Sophistec AI-native architecture animation">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=6" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=8" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
 
 The objective is to move beyond isolated chat interfaces toward AI
 systems that can retrieve trusted context, use permitted tools, interact
@@ -771,7 +772,7 @@ with software, and support real operational workflows.
 ## Delivery Lifecycle
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=6" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
+  <img src="../assets/svg/delivery-lifecycle.svg?v=8" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
 </p>
 
 **Discover** the real problem → **define** product and technical
@@ -839,33 +840,34 @@ design, and ends with a solution that can create practical value.
 As systems become business-critical, engineering quality depends on more than implementation. Sophistec also considers how systems are changed, released, supported, documented, and continuously improved.
 
 ### API Lifecycle & Developer Experience
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=6" width="100%" alt="API Lifecycle"></p>
+<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=8" width="100%" alt="API Lifecycle"></p>
 
 Contract-first design · OpenAPI / Swagger · versioning · consistent authentication and errors · contract testing · API observability · developer documentation.
 
 ### Product Learning Loop
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=6" width="100%" alt="Product Learning Loop"></p>
+<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=8" width="100%" alt="Product Learning Loop"></p>
 
 Engineering delivery connects back to users and outcomes: understand the problem, validate assumptions, release iteratively, observe real usage, and use evidence to guide improvement.
 
 ### Incident Response & Reliability
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=6" width="100%" alt="Incident Response Loop"></p>
+<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=8" width="100%" alt="Incident Response Loop"></p>
 
 Production maturity includes detection, triage, containment, diagnosis, recovery, review, and preventive improvement.
 
 ### Data Governance & Lifecycle
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=6" width="100%" alt="Data Governance Lifecycle"></p>
+<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=8" width="100%" alt="Data Governance Lifecycle"></p>
 
 Architecture considers data purpose, classification, access boundaries, retention, auditability, backup/recovery, privacy-aware processing, and secure disposal.
 
 ## Documentation as Engineering
 
-<table width="100%" style="width:100%;table-layout:fixed">
-  <colgroup><col width="22%"><col width="78%"></colgroup>
+<table width="1200">
+  <caption><img src="../assets/svg/table-width-spacer.svg" width="1200" height="1" alt=""></caption>
+  <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
-      <th width="34%">Artifact</th>
-      <th width="66%">Purpose</th>
+      <th width="360">Artifact</th>
+      <th width="840">Purpose</th>
     </tr>
   </thead>
   <tbody>
@@ -922,12 +924,12 @@ Technical credibility should come from evidence rather than buzzwords: working p
 The next stage of Sophistec engineering is to evolve from a collection of products and technologies into a **coherent platform, architecture framework, developer ecosystem, and operational model**. The sections below describe that direction. Roadmap capabilities such as SDKs and CLI tooling should only be presented as generally available once implemented and supported.
 
 ### Sophistec Engineering Framework
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=6" width="100%" alt="Sophistec Engineering Framework"></p>
+<p align="center"><img src="../assets/svg/engineering-framework.svg?v=8" width="100%" alt="Sophistec Engineering Framework"></p>
 
 Our framework uses eight pillars: **Product Value, Architecture, Security & Trust, Reliability, Performance, Operational Excellence, Cost Efficiency, and Sustainability & Evolution**.
 
 ### Sophistec Enterprise Platform
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=6" width="100%" alt="Sophistec Enterprise Platform"></p>
+<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=8" width="100%" alt="Sophistec Enterprise Platform"></p>
 
 ```text
 Sophistec Platform
@@ -943,47 +945,47 @@ Sophistec Platform
 Shared capabilities support product domains while allowing products to evolve independently.
 
 ### Extension & Connector Framework
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=6" width="100%" alt="Extension Framework"></p>
+<p align="center"><img src="../assets/svg/extension-framework.svg?v=8" width="100%" alt="Extension Framework"></p>
 
 A modular extension model can separate **product core, modules, extensions, connectors, webhooks, and custom workflows**, making enterprise customization more controlled and maintainable.
 
 ### Developer Platform
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=6" width="100%" alt="Developer Platform"></p>
+<p align="center"><img src="../assets/svg/developer-platform.svg?v=8" width="100%" alt="Developer Platform"></p>
 
 The developer-platform direction includes **documentation, API reference, SDKs, CLI tooling, sandbox environments, examples, starter kits, changelogs, status information, and integration guides**.
 
 ### Developer Tooling Roadmap
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=6" width="100%" alt="Developer Tooling Roadmap"></p>
+<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=8" width="100%" alt="Developer Tooling Roadmap"></p>
 
 Potential supported tooling includes JavaScript, Python, Go, and PHP SDKs plus a Sophistec CLI. These are **roadmap concepts**, not claims of current general availability unless separately published.
 
 ## Reliability, Continuity & SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=6" width="100%" alt="Reliability and SRE Model"></p>
+<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=8" width="100%" alt="Reliability and SRE Model"></p>
 
 Enterprise operations consider **SLIs, SLOs, SLAs, availability, latency, error rates, RTO, RPO, disaster recovery, backup verification, failover, incident response, and business continuity**.
 
 ## Cost & Capacity Engineering
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=6" width="100%" alt="Cost and Capacity Engineering"></p>
+<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=8" width="100%" alt="Cost and Capacity Engineering"></p>
 
 FinOps-oriented engineering connects **traffic, usage metering, capacity planning, cost allocation, cost per tenant/product, right-sizing, forecasting, and optimization**.
 
 ## Sustainable Engineering
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=6" width="100%" alt="Sustainable Engineering"></p>
+<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=8" width="100%" alt="Sustainable Engineering"></p>
 
 Engineering sustainability includes resource efficiency, right-sizing, workload scheduling, sensible data retention, efficient storage, reduced unnecessary compute, and architecture longevity.
 
 ## Business Process Architecture
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=6" width="100%" alt="Business Process Architecture"></p>
+<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=8" width="100%" alt="Business Process Architecture"></p>
 
 Sophistec connects technology to business processes across **finance, operations, sales, customer service, healthcare, commerce, data, and intelligent automation**.
 
 ## Industry Solution Map
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=6" width="100%" alt="Industry Solution Map"></p>
+<p align="center"><img src="../assets/svg/industry-solutions.svg?v=8" width="100%" alt="Industry Solution Map"></p>
 
 Current and adjacent solution contexts include **healthcare, commerce & retail, professional services, education, enterprise operations, data & analytics, and cross-border digital business**.
 
 ## Sophistec Architecture Center
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=6" width="100%" alt="Sophistec Architecture Center"></p>
+<p align="center"><img src="../assets/svg/architecture-center.svg?v=8" width="100%" alt="Sophistec Architecture Center"></p>
 
 The Architecture Center is a knowledge model for organizing reusable engineering guidance:
 
@@ -1006,18 +1008,19 @@ architecture/
 ```
 
 ## Architecture Review Framework
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=6" width="100%" alt="Architecture Review Framework"></p>
+<p align="center"><img src="../assets/svg/architecture-review.svg?v=8" width="100%" alt="Architecture Review Framework"></p>
 
 Major systems can be reviewed against **product value, architecture, scalability, security, reliability, performance, observability, data, integration, AI controls, cost, maintainability, disaster recovery, and documentation**. Important decisions should be captured through Architecture Decision Records (ADRs).
 
 ## Enterprise Architecture Checklist
 
-<table width="100%" style="width:100%;table-layout:fixed">
-  <colgroup><col width="25%"><col width="75%"></colgroup>
+<table width="1200">
+  <caption><img src="../assets/svg/table-width-spacer.svg" width="1200" height="1" alt=""></caption>
+  <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
-      <th width="22%">Domain</th>
-      <th width="78%">Review Questions</th>
+      <th width="264">Domain</th>
+      <th width="936">Review Questions</th>
     </tr>
   </thead>
   <tbody>
@@ -1041,11 +1044,11 @@ Major systems can be reviewed against **product value, architecture, scalability
 
 Enterprise technology requires more than feature breadth. Sophistec's trust model brings together security, privacy, reliability, governance, compliance evidence, and transparency.
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=6" width="100%" alt="Enterprise Trust Model"></p>
+<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=8" width="100%" alt="Enterprise Trust Model"></p>
 
 ### Trust Center Direction
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=6" width="100%" alt="Trust Center Information Model"></p>
+<p align="center"><img src="../assets/svg/trust-center-model.svg?v=8" width="100%" alt="Trust Center Information Model"></p>
 
 A future Sophistec Trust Center can centralize information such as:
 
@@ -1062,7 +1065,7 @@ A future Sophistec Trust Center can centralize information such as:
 
 ## Responsible AI Framework
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=6" width="100%" alt="Responsible AI Lifecycle"></p>
+<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=8" width="100%" alt="Responsible AI Lifecycle"></p>
 
 Sophistec's AI direction should be governed by:
 
@@ -1079,14 +1082,15 @@ Sophistec's AI direction should be governed by:
 
 ## Product Maturity Model
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=6" width="100%" alt="Product Maturity Lifecycle"></p>
+<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=8" width="100%" alt="Product Maturity Lifecycle"></p>
 
-<table width="100%" style="width:100%;table-layout:fixed">
-  <colgroup><col width="25%"><col width="75%"></colgroup>
+<table width="1200">
+  <caption><img src="../assets/svg/table-width-spacer.svg" width="1200" height="1" alt=""></caption>
+  <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
-      <th width="25%">Stage</th>
-      <th width="75%">Meaning</th>
+      <th width="300">Stage</th>
+      <th width="900">Meaning</th>
     </tr>
   </thead>
   <tbody>
@@ -1104,7 +1108,7 @@ Product repositories should clearly communicate maturity rather than making ever
 
 ## API Versioning & Deprecation
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=6" width="100%" alt="API Version Lifecycle"></p>
+<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=8" width="100%" alt="API Version Lifecycle"></p>
 
 API evolution should include stable contracts, documented versions, backward-compatibility expectations, migration guidance, deprecation notices, and a defined sunset process.
 
@@ -1120,7 +1124,7 @@ Recommended principles:
 
 ## Deployment Models
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=6" width="100%" alt="Deployment Models"></p>
+<p align="center"><img src="../assets/svg/deployment-models.svg?v=8" width="100%" alt="Deployment Models"></p>
 
 Depending on the product and customer requirements, architecture may support different deployment patterns:
 
@@ -1135,19 +1139,20 @@ Availability of a deployment model should be stated per product rather than assu
 
 ## Release, Maintenance & Support Lifecycle
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=6" width="100%" alt="Release and Support Lifecycle"></p>
+<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=8" width="100%" alt="Release and Support Lifecycle"></p>
 
 A mature release process connects development with testing, preview channels, general availability, production observation, maintenance, patching, and—where appropriate—long-term support.
 
 ## Integration Catalog
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=6" width="100%" alt="Integration Catalog"></p>
+<p align="center"><img src="../assets/svg/integration-catalog.svg?v=8" width="100%" alt="Integration Catalog"></p>
 
 Sophistec's integration ecosystem can be organized as a reusable catalog rather than a collection of one-off connections:
 
-<table width="100%" style="width:100%;table-layout:fixed">
-  <colgroup><col width="22%"><col width="78%"></colgroup>
-  <thead><tr><th>Domain</th><th>Examples of Integration Capability</th></tr></thead>
+<table width="1200">
+  <caption><img src="../assets/svg/table-width-spacer.svg" width="1200" height="1" alt=""></caption>
+  <colgroup><col width="264"><col width="936"></colgroup>
+  <thead><tr><th width="264">Domain</th><th width="936">Examples of Integration Capability</th></tr></thead>
   <tbody>
     <tr><td><strong>Identity</strong></td><td>SSO, OAuth, external identity providers</td></tr>
     <tr><td><strong>Payments</strong></td><td>Payment gateways and transaction services</td></tr>
