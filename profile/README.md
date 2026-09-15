@@ -625,29 +625,9 @@ multi-product account access.
 Sophistec's technology work is designed around the complete lifecycle of
 a digital product:
 
-``` text
-Problem
-   ↓
-Product Strategy
-   ↓
-System Architecture
-   ↓
-UI / UX
-   ↓
-Frontend + Backend
-   ↓
-Data + Integrations
-   ↓
-AI / Automation
-   ↓
-Testing + Security
-   ↓
-Deployment
-   ↓
-Monitoring
-   ↓
-Continuous Improvement
-```
+<p align="center">
+  <img src="../assets/svg/product-idea-to-production.svg" width="100%" alt="From Product Idea to Production lifecycle">
+</p>
 
 This allows us to approach technology not as isolated code, but as a
 connected product, operational, and business system.
@@ -666,18 +646,9 @@ meaningful technology still depends on thoughtful architecture, product
 judgment, security, reliability, and a clear understanding of the people
 and organizations it serves.
 
-``` text
-Human Creativity + Engineering Judgment + AI
-                     │
-                     ▼
-             Better Technology
-                     │
-                     ▼
-              Practical Value
-                     │
-                     ▼
-              Real-World Impact
-```
+<p align="center">
+  <img src="../assets/svg/technology-philosophy-flow.svg" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
+</p>
 
 Our goal is not simply to add AI to software.
 
@@ -707,37 +678,9 @@ Sophistec is designed to work across the complete technology stack
 rather than treating frontend, backend, infrastructure, data, and AI as
 isolated disciplines.
 
-``` text
-┌─────────────────────────────────────────────────────────────────┐
-│                     EXPERIENCE LAYER                            │
-│        Web · Mobile · Portals · Dashboards · Admin              │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────┐
-│                     APPLICATION LAYER                           │
-│      APIs · Services · Business Logic · Real-Time Systems       │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────┐
-│                    INTELLIGENCE LAYER                           │
-│       AI Agents · RAG · LLMs · ML · Automation · Search        │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────┐
-│                        DATA LAYER                               │
-│   SQL · Cache · Search · Vector Data · Events · Knowledge       │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────┐
-│                    PLATFORM & CLOUD LAYER                       │
-│ Containers · CI/CD · Linux · Networking · Observability         │
-└──────────────────────────────┬──────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────┐
-│                    INTEGRATION ECOSYSTEM                        │
-│ Payments · Government · Healthcare · Logistics · SaaS · APIs    │
-└─────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="../assets/svg/interface-to-intelligence.svg" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+</p>
 
 ---
 
@@ -771,10 +714,9 @@ with software, and support real operational workflows.
 
 ## Delivery Lifecycle
 
-| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🔎 | 🧭 | 🏗️ | 💻 | 🧪 | 🚀 | 📡 | 📈 |
-| **Discover** | **Strategy** | **Architect** | **Build** | **Validate** | **Deploy** | **Observe** | **Scale** |
+<p align="center">
+  <img src="../assets/svg/delivery-lifecycle.svg" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
+</p>
 
 **Discover** the real problem → **define** product and technical
 direction → **architect** the system → **build** in iterations →
@@ -862,16 +804,24 @@ Architecture considers data purpose, classification, access boundaries, retentio
 
 ## Documentation as Engineering
 
-| Artifact | Purpose |
-| --- | --- |
-| **Architecture Decision Records (ADR)** | Preserve important technical decisions and their reasoning. |
-| **API Documentation** | Define contracts, authentication, payloads, errors, and examples. |
-| **System Architecture** | Explain services, boundaries, data flows, and dependencies. |
-| **Runbooks** | Repeatable procedures for deployment, recovery, and incidents. |
-| **Data Dictionary** | Clarify important entities, fields, ownership, and meaning. |
-| **Security Notes** | Document access models, secrets, audit behavior, and assumptions. |
-| **Changelog / Release Notes** | Make product and platform changes visible over time. |
-| **Developer Onboarding** | Help engineers understand and contribute safely. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="34%">Artifact</th>
+      <th width="66%">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Architecture Decision Records (ADR)</strong></td><td>Preserve important technical decisions and their reasoning.</td></tr>
+    <tr><td><strong>API Documentation</strong></td><td>Define contracts, authentication, payloads, errors, and examples.</td></tr>
+    <tr><td><strong>System Architecture</strong></td><td>Explain services, boundaries, data flows, and dependencies.</td></tr>
+    <tr><td><strong>Runbooks</strong></td><td>Repeatable procedures for deployment, recovery, and incidents.</td></tr>
+    <tr><td><strong>Data Dictionary</strong></td><td>Clarify important entities, fields, ownership, and meaning.</td></tr>
+    <tr><td><strong>Security Notes</strong></td><td>Document access models, secrets, audit behavior, and assumptions.</td></tr>
+    <tr><td><strong>Changelog / Release Notes</strong></td><td>Make product and platform changes visible over time.</td></tr>
+    <tr><td><strong>Developer Onboarding</strong></td><td>Help engineers understand and contribute safely.</td></tr>
+  </tbody>
+</table>
 
 ## Repository Standards
 

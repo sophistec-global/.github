@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Human Ingenuity to Real-World Impact</title>
+  <desc id="desc">Human creativity, engineering judgment and AI produce better technology, practical value and real-world impact.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B5FFF"/><stop offset=".52" stop-color="#6D28D9"/><stop offset="1" stop-color="#00A99D"/></linearGradient>
+    <linearGradient id="impact" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0B5FFF"/><stop offset="1" stop-color="#00A99D"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-50%" width="160%" height="200%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#0F172A" flood-opacity=".11"/></filter>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#94A3B8"/></marker>
+  </defs>
+  <style>
+    text{font-family:Inter,Segoe UI,Arial,sans-serif}.bg{fill:#F8FAFC}.eyebrow{font-size:12px;font-weight:700;letter-spacing:2px;fill:#6D28D9}.heading{font-size:22px;font-weight:750;fill:#0F172A}.node{fill:#fff;stroke-width:1.8}.label{font-size:15px;font-weight:750;fill:#172033}.copy{font-size:10px;fill:#64748B}.route{fill:none;stroke:#CBD5E1;stroke-width:2.5;marker-end:url(#arrow)}.icon{fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.blue{stroke:#0B5FFF}.violet{stroke:#6D28D9}.teal{stroke:#00A99D}.motion-layer{filter:url(#glow)}
+    @media(prefers-color-scheme:dark){.bg{fill:#0B1120}.heading,.label{fill:#F8FAFC}.copy{fill:#94A3B8}.node{fill:#111827}.route{stroke:#475569}}
+    @media(prefers-reduced-motion:reduce){.motion-layer{display:none}}
+  </style>
+  <rect width="1200" height="360" rx="26" class="bg"/>
+  <text x="600" y="39" text-anchor="middle" class="eyebrow">SOPHISTEC TECHNOLOGY PHILOSOPHY</text>
+  <text x="600" y="72" text-anchor="middle" class="heading">Human Ingenuity. AI Acceleration. Practical Impact.</text>
+  <text x="600" y="96" text-anchor="middle" class="copy">Thoughtful ideas become responsible technology—and technology becomes measurable value.</text>
+
+  <!-- Boundary-to-boundary connectors sit below every card. -->
+  <path d="M315 198H355 M590 198H630 M865 198H905" class="route"/>
+  <g class="motion-layer" pointer-events="none">
+    <circle r="7" fill="#00D4C7"><animateMotion dur="6.4s" repeatCount="indefinite" path="M180 198H1040"/></circle>
+    <circle r="4" fill="#7C3AED" opacity=".8"><animateMotion dur="6.4s" begin="-.28s" repeatCount="indefinite" path="M180 198H1040"/></circle>
+  </g>
+
+  <g filter="url(#shadow)"><rect x="45" y="143" width="270" height="110" rx="20" class="node blue"><animate attributeName="stroke-width" values="1.8;4.5;1.8" dur="6.4s" begin="0s" repeatCount="indefinite"/></rect></g>
+  <circle cx="82" cy="177" r="20" fill="#EAF2FF"/><path d="M75 179a9 9 0 1 1 14-7c0 4-2 6-5 8v4h-5v-4m0 9h5" class="icon blue"/>
+  <text x="112" y="175" class="label">Human Creativity +</text><text x="112" y="196" class="label">Engineering Judgment + AI</text><text x="82" y="226" class="copy">Imagine · evaluate · accelerate responsibly</text>
+
+  <g filter="url(#shadow)"><rect x="355" y="143" width="235" height="110" rx="20" class="node violet"><animate attributeName="stroke-width" values="1.8;4.5;1.8" dur="6.4s" begin="1.75s" repeatCount="indefinite"/></rect></g>
+  <circle cx="392" cy="177" r="20" fill="#F3EEFF"/><path d="M384 181l7-14 7 14m-11-6h8m8-7h9v17h-9" class="icon violet"/>
+  <text x="424" y="184" class="label">Better Technology</text><text x="392" y="222" class="copy">Useful · secure · scalable · designed to evolve</text>
+
+  <g filter="url(#shadow)"><rect x="630" y="143" width="235" height="110" rx="20" class="node teal"><animate attributeName="stroke-width" values="1.8;4.5;1.8" dur="6.4s" begin="3.65s" repeatCount="indefinite"/></rect></g>
+  <circle cx="667" cy="177" r="20" fill="#E8FBF7"/><path d="M658 181l7-7 5 5 9-11m-21 19h22" class="icon teal"/>
+  <text x="699" y="184" class="label">Practical Value</text><text x="667" y="222" class="copy">Solve real needs · improve real workflows</text>
+
+  <g filter="url(#shadow)"><rect x="905" y="143" width="250" height="110" rx="20" fill="url(#impact)" stroke="#0B5FFF" stroke-width="1.8"><animate attributeName="stroke-width" values="1.8;5;1.8" dur="6.4s" begin="5.6s" repeatCount="indefinite"/></rect></g>
+  <circle cx="942" cy="177" r="20" fill="#fff" opacity=".18"/><path d="M933 181a10 10 0 1 1 8 5m0 0v-7m0 7h-7" class="icon" stroke="#fff"/>
+  <text x="974" y="184" style="font:750 15px Inter,Segoe UI,Arial,sans-serif;fill:#fff">Real-World Impact</text><text x="942" y="222" style="font:10px Inter,Segoe UI,Arial,sans-serif;fill:#E0F2FE">Adoption · outcomes · sustainable progress</text>
+
+  <rect x="395" y="293" width="410" height="34" rx="17" fill="url(#brand)" opacity=".1"/>
+  <text x="600" y="315" text-anchor="middle" style="font:700 11px Inter,Segoe UI,Arial,sans-serif;fill:#6D28D9;letter-spacing:.6px">THINK DEEPLY  ·  BUILD RESPONSIBLY  ·  CREATE VALUE</text>
+</svg>

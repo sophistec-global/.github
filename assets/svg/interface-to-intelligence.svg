@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">From Interface to Intelligence</title>
+  <desc id="desc">Six connected technology layers spanning experience, applications, intelligence, data, cloud platform and integrations.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B5FFF"/><stop offset=".5" stop-color="#6D28D9"/><stop offset="1" stop-color="#00A99D"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#0F172A" flood-opacity=".10"/></filter>
+    <filter id="glow" x="-180%" y="-180%" width="460%" height="460%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#94A3B8"/></marker>
+  </defs>
+  <style>
+    text{font-family:Inter,Segoe UI,Arial,sans-serif}.bg{fill:#F8FAFC}.eyebrow{font-size:11px;font-weight:700;letter-spacing:2px;fill:#6D28D9}.heading{font-size:22px;font-weight:750;fill:#0F172A}.sub{font-size:11px;fill:#64748B}.card{fill:#fff;stroke-width:1.7}.label{font-size:14px;font-weight:750;fill:#172033;letter-spacing:.4px}.copy{font-size:11px;fill:#64748B}.num{font-size:11px;font-weight:800;fill:#fff}.icon{fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.blue{stroke:#0B5FFF}.teal{stroke:#00A99D}.violet{stroke:#6D28D9}.navy{stroke:#1D3557}.route{fill:none;stroke:#CBD5E1;stroke-width:2.5;marker-end:url(#arrow)}.rail{fill:none;stroke:url(#brand);stroke-width:4;stroke-linecap:round;opacity:.18}.motion-layer{filter:url(#glow)}
+    @media(prefers-color-scheme:dark){.bg{fill:#0B1120}.heading,.label{fill:#F8FAFC}.sub,.copy{fill:#94A3B8}.card{fill:#111827}.route{stroke:#475569}}
+    @media(prefers-reduced-motion:reduce){.motion-layer{display:none}}
+  </style>
+  <rect width="1200" height="650" rx="26" class="bg"/>
+  <text x="600" y="34" text-anchor="middle" class="eyebrow">CONNECTED TECHNOLOGY STACK</text>
+  <text x="600" y="64" text-anchor="middle" class="heading">From Interface to Intelligence</text>
+  <text x="600" y="86" text-anchor="middle" class="sub">Every layer is designed as part of one observable, secure and evolvable system.</text>
+
+  <!-- Connectors terminate at card boundaries and remain beneath the cards. -->
+  <path d="M600 170V184 M600 258V272 M600 346V360 M600 434V448 M600 522V536" class="route"/>
+  <path d="M174 133V573" class="rail"/>
+  <g class="motion-layer" pointer-events="none">
+    <circle r="7" fill="#00D4C7"><animateMotion dur="7.2s" repeatCount="indefinite" path="M600 133V573"/></circle>
+    <circle r="4" fill="#7C3AED"><animateMotion dur="7.2s" begin="-.3s" repeatCount="indefinite" path="M600 133V573"/></circle>
+  </g>
+
+  <g filter="url(#shadow)"><rect x="230" y="96" width="740" height="74" rx="18" class="card blue"><animate attributeName="stroke-width" values="1.7;4.5;1.7" dur="7.2s" begin="0s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="133" r="20" fill="#0B5FFF"/><text x="267" y="137" text-anchor="middle" class="num">01</text><path d="M302 124h20v17h-20zm5 21h10m-5-4v4" class="icon blue"/><text x="345" y="127" class="label">EXPERIENCE LAYER</text><text x="345" y="149" class="copy">Web · Mobile · Portals · Dashboards · Admin</text><text x="936" y="138" text-anchor="end" class="sub">INTERACT</text>
+
+  <g filter="url(#shadow)"><rect x="230" y="184" width="740" height="74" rx="18" class="card teal"><animate attributeName="stroke-width" values="1.7;4.5;1.7" dur="7.2s" begin="1.2s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="221" r="20" fill="#00A99D"/><text x="267" y="225" text-anchor="middle" class="num">02</text><path d="M303 212l-7 9 7 9m15-18 7 9-7 9m-7-21-4 24" class="icon teal"/><text x="345" y="215" class="label">APPLICATION LAYER</text><text x="345" y="237" class="copy">APIs · Services · Business Logic · Real-Time Systems</text><text x="936" y="226" text-anchor="end" class="sub">ORCHESTRATE</text>
+
+  <g filter="url(#shadow)"><rect x="230" y="272" width="740" height="74" rx="18" class="card violet"><animate attributeName="stroke-width" values="1.7;4.5;1.7" dur="7.2s" begin="2.4s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="309" r="20" fill="#6D28D9"/><text x="267" y="313" text-anchor="middle" class="num">03</text><path d="M311 297v24m-12-12h24m-18-7 12 14m0-14-12 14" class="icon violet"/><text x="345" y="303" class="label">INTELLIGENCE LAYER</text><text x="345" y="325" class="copy">AI Agents · RAG · LLMs · ML · Automation · Search</text><text x="936" y="314" text-anchor="end" class="sub">REASON</text>
+
+  <g filter="url(#shadow)"><rect x="230" y="360" width="740" height="74" rx="18" class="card navy"><animate attributeName="stroke-width" values="1.7;4.5;1.7" dur="7.2s" begin="3.6s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="397" r="20" fill="#1D3557"/><text x="267" y="401" text-anchor="middle" class="num">04</text><ellipse cx="310" cy="390" rx="12" ry="5" class="icon navy"/><path d="M298 390v16c0 6 24 6 24 0v-16m-24 8c0 6 24 6 24 0" class="icon navy"/><text x="345" y="391" class="label">DATA LAYER</text><text x="345" y="413" class="copy">SQL · Cache · Search · Vector Data · Events · Knowledge</text><text x="936" y="402" text-anchor="end" class="sub">GROUND</text>
+
+  <g filter="url(#shadow)"><rect x="230" y="448" width="740" height="74" rx="18" class="card blue"><animate attributeName="stroke-width" values="1.7;4.5;1.7" dur="7.2s" begin="4.8s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="485" r="20" fill="#0B5FFF"/><text x="267" y="489" text-anchor="middle" class="num">05</text><path d="M296 492h29m-25 0v-13l10-8 10 8v13m-14 0v-9h8v9" class="icon blue"/><text x="345" y="479" class="label">PLATFORM &amp; CLOUD LAYER</text><text x="345" y="501" class="copy">Containers · CI/CD · Linux · Networking · Observability</text><text x="936" y="490" text-anchor="end" class="sub">OPERATE</text>
+
+  <g filter="url(#shadow)"><rect x="230" y="536" width="740" height="74" rx="18" fill="url(#brand)" stroke="#6D28D9" stroke-width="1.7"><animate attributeName="stroke-width" values="1.7;5;1.7" dur="7.2s" begin="6s" repeatCount="indefinite"/></rect></g>
+  <circle cx="267" cy="573" r="20" fill="#fff" opacity=".18"/><text x="267" y="577" text-anchor="middle" class="num">06</text><path d="M297 574h8l5-7 6 12 5-7h7m-26-9a8 8 0 1 1 0 16m26-16a8 8 0 1 0 0 16" class="icon" stroke="#fff"/><text x="345" y="567" style="font:750 14px Inter,Segoe UI,Arial,sans-serif;fill:#fff;letter-spacing:.4px">INTEGRATION ECOSYSTEM</text><text x="345" y="589" style="font:11px Inter,Segoe UI,Arial,sans-serif;fill:#EDE9FE">Payments · Government · Healthcare · Logistics · SaaS · APIs</text><text x="936" y="578" text-anchor="end" style="font:11px Inter,Segoe UI,Arial,sans-serif;fill:#EDE9FE">CONNECT</text>
+
+  <circle cx="174" cy="133" r="6" fill="#0B5FFF"/><circle cx="174" cy="221" r="6" fill="#00A99D"/><circle cx="174" cy="309" r="6" fill="#6D28D9"/><circle cx="174" cy="397" r="6" fill="#1D3557"/><circle cx="174" cy="485" r="6" fill="#0B5FFF"/><circle cx="174" cy="573" r="6" fill="#00A99D"/>
+</svg>
