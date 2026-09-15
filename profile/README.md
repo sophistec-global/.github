@@ -237,7 +237,7 @@ AI is treated as an intelligence layer connected to products and
 operations---not simply as a chatbot feature.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg" width="100%" alt="Sophistec Intelligence Layer">
+<img src="../assets/svg/ai-intelligence-layer.svg?v=2" width="100%" alt="Sophistec Intelligence Layer">
 </p>
 LLMs, agents, RAG, memory, tools, MCP, APIs, permissions, and business
 logic can work together to retrieve trusted context and support
@@ -246,7 +246,7 @@ controlled real-world actions.
 ## Animated Engineering Workflow
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg" width="100%" alt="Sophistec animated engineering workflow">
+<img src="../assets/svg/engineering-journey.svg?v=2" width="100%" alt="Sophistec animated engineering workflow">
 </p>
 ## Product × Engineering Capability Map
 
@@ -283,11 +283,11 @@ controlled real-world actions.
 ## Sophistec Visual System
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg" width="100%" alt="Sophistec Technology Ecosystem">
+  <img src="../assets/svg/hero-technology-network.svg?v=2" width="100%" alt="Sophistec Technology Ecosystem">
 </p>
 
 ### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg" width="100%" alt="Sophistec Product Constellation"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=2" width="100%" alt="Sophistec Product Constellation"></p>
 
 ### Cross-Border Collaboration
 <p align="center"><img src="../assets/svg/global-collaboration.svg" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
@@ -311,16 +311,16 @@ controlled real-world actions.
 
 These diagrams summarize how Sophistec approaches product engineering as connected systems rather than isolated technologies.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg" width="100%" alt="Engineering Journey"></p>
+<p align="center"><img src="../assets/svg/engineering-journey.svg?v=2" width="100%" alt="Engineering Journey"></p>
 
 ### Connected Platform
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg" width="100%" alt="Connected Platform Architecture"></p>
+<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=2" width="100%" alt="Connected Platform Architecture"></p>
 
 ### Microservices & Distributed Systems
 <p align="center"><img src="../assets/svg/microservices-architecture.svg" width="100%" alt="Microservices Architecture"></p>
 
 ### AI-Native Intelligence
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg" width="100%" alt="AI Intelligence Layer"></p>
+<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=2" width="100%" alt="AI Intelligence Layer"></p>
 
 ### Enterprise RAG
 <p align="center"><img src="../assets/svg/rag-pipeline.svg?v=2" width="100%" alt="Enterprise RAG Pipeline"></p>
@@ -419,7 +419,7 @@ We explore and build AI-powered systems around:
 A typical intelligent application can connect models with private
 knowledge and operational tools:
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=2" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
 
 ### RAG & Enterprise Knowledge Systems
 
@@ -746,7 +746,7 @@ rather than treating frontend, backend, infrastructure, data, and AI as
 isolated disciplines.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=2" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+  <img src="../assets/svg/interface-to-intelligence.svg?v=3" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
 </p>
 
 ---
@@ -771,7 +771,7 @@ isolated disciplines.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=User+%E2%86%92+Agent+%E2%86%92+Knowledge+%E2%86%92+Tools+%E2%86%92+Action;LLM+%2B+RAG+%2B+Memory+%2B+APIs+%2B+Business+Logic;From+AI+Chat+to+AI-Powered+Operations" alt="Sophistec AI-native architecture animation">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=2" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
 
 The objective is to move beyond isolated chat interfaces toward AI
 systems that can retrieve trusted context, use permitted tools, interact
@@ -1022,20 +1022,28 @@ Major systems can be reviewed against **product value, architecture, scalability
 
 ## Enterprise Architecture Checklist
 
-| Domain | Review Questions |
-| --- | --- |
-| **Product Value** | What measurable user or business outcome does the system create? |
-| **Architecture** | Are boundaries, dependencies, interfaces, and ownership clear? |
-| **Security** | Are identity, permissions, secrets, validation, encryption, and auditability designed in? |
-| **Reliability** | What fails, how is it detected, and how is service restored? |
-| **Performance** | What are the latency, throughput, capacity, and scaling expectations? |
-| **Data** | Who owns the data, how is it protected, retained, recovered, and governed? |
-| **Integration** | Are APIs, events, contracts, retries, and failure modes explicit? |
-| **AI** | Is context grounded, tool access controlled, output validated, and human oversight appropriate? |
-| **Operations** | Can the system be deployed, observed, diagnosed, supported, and rolled back? |
-| **Cost** | Can usage and infrastructure cost be understood and optimized? |
-| **Continuity** | Are backups, RTO/RPO, recovery procedures, and failover expectations defined? |
-| **Documentation** | Can another engineer safely understand, operate, and evolve the system? |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="22%">Domain</th>
+      <th width="78%">Review Questions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Product Value</strong></td><td>What measurable user or business outcome does the system create?</td></tr>
+    <tr><td><strong>Architecture</strong></td><td>Are boundaries, dependencies, interfaces, and ownership clear?</td></tr>
+    <tr><td><strong>Security</strong></td><td>Are identity, permissions, secrets, validation, encryption, and auditability designed in?</td></tr>
+    <tr><td><strong>Reliability</strong></td><td>What fails, how is it detected, and how is service restored?</td></tr>
+    <tr><td><strong>Performance</strong></td><td>What are the latency, throughput, capacity, and scaling expectations?</td></tr>
+    <tr><td><strong>Data</strong></td><td>Who owns the data, how is it protected, retained, recovered, and governed?</td></tr>
+    <tr><td><strong>Integration</strong></td><td>Are APIs, events, contracts, retries, and failure modes explicit?</td></tr>
+    <tr><td><strong>AI</strong></td><td>Is context grounded, tool access controlled, output validated, and human oversight appropriate?</td></tr>
+    <tr><td><strong>Operations</strong></td><td>Can the system be deployed, observed, diagnosed, supported, and rolled back?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>Can usage and infrastructure cost be understood and optimized?</td></tr>
+    <tr><td><strong>Continuity</strong></td><td>Are backups, RTO/RPO, recovery procedures, and failover expectations defined?</td></tr>
+    <tr><td><strong>Documentation</strong></td><td>Can another engineer safely understand, operate, and evolve the system?</td></tr>
+  </tbody>
+</table>
 
 
 ## Enterprise Trust & Assurance
@@ -1082,15 +1090,23 @@ Sophistec's AI direction should be governed by:
 
 <p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg" width="100%" alt="Product Maturity Lifecycle"></p>
 
-| Stage | Meaning |
-| --- | --- |
-| **Research** | Exploration, validation, and technical investigation. |
-| **Experimental** | Prototype; behavior and interfaces may change significantly. |
-| **Alpha** | Early implementation for internal or tightly controlled use. |
-| **Beta** | Limited production use with active feedback and known constraints. |
-| **General Availability (GA)** | Supported production release with defined operational expectations. |
-| **Enterprise** | Mature deployment, governance, integration, support, and reliability expectations. |
-| **LTS** | Long-term support where a product or release warrants an extended maintenance lifecycle. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Stage</th>
+      <th width="75%">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Research</strong></td><td>Exploration, validation, and technical investigation.</td></tr>
+    <tr><td><strong>Experimental</strong></td><td>Prototype; behavior and interfaces may change significantly.</td></tr>
+    <tr><td><strong>Alpha</strong></td><td>Early implementation for internal or tightly controlled use.</td></tr>
+    <tr><td><strong>Beta</strong></td><td>Limited production use with active feedback and known constraints.</td></tr>
+    <tr><td><strong>General Availability (GA)</strong></td><td>Supported production release with defined operational expectations.</td></tr>
+    <tr><td><strong>Enterprise</strong></td><td>Mature deployment, governance, integration, support, and reliability expectations.</td></tr>
+    <tr><td><strong>LTS</strong></td><td>Long-term support where a product or release warrants an extended maintenance lifecycle.</td></tr>
+  </tbody>
+</table>
 
 Product repositories should clearly communicate maturity rather than making every project appear equally production-ready.
 
