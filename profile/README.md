@@ -144,6 +144,73 @@ strengthen trust at the identity layer.
 Data-oriented systems for analytics, connected intelligence, and
 decision support.
 
+### Sophistec Optima Solutions
+
+`Business Optimization` `Digital Solutions` `Workflow` `Automation`
+
+Business optimization and digital-solution capabilities that connect
+operational needs with practical software, process improvement, and
+measurable outcomes.
+
+### Sophistec C4C
+
+`Connected Ecosystem` `Platform` `Community` `Integration`
+
+A connected ecosystem platform designed to bring organizations,
+services, communities, and digital experiences together through shared
+platform capabilities.
+
+### Sophistec Market Craft
+
+`Marketing` `Growth` `Campaigns` `Market Intelligence`
+
+Market-facing technology for brand growth, campaign operations,
+audience engagement, and data-informed marketing workflows.
+
+### Sophistec Denticon
+
+`Dental Operations` `Patient Workflow` `Appointments` `Healthcare`
+
+Digital operations for dental practices, supporting patient journeys,
+appointments, clinical administration, service workflows, and connected
+practice management.
+
+### Sophistec Smart Rack
+
+`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+
+Smart-rack and operational-management capabilities for tracking assets,
+inventory, availability, and real-world operational activity.
+
+### Sophistec Lumora
+
+`Photobooth` `Creative Experience` `Events` `Media`
+
+Modern photobooth and creative-media experiences for events, campaigns,
+communities, and memorable audience engagement.
+
+### Sophistec Career Hub
+
+`Career Platform` `Talent` `Development` `Community`
+
+A career and talent-development platform connecting people with
+learning, professional opportunities, community, and pathways for
+growth.
+
+### Sophistec Edu Pro
+
+`Professional Learning` `Education` `Courses` `Skills`
+
+Professional learning solutions designed to support structured skills
+development, practical education, and continuous career advancement.
+
+### Sophistec Edu Plus
+
+`Community Education` `Accessible Learning` `Knowledge` `Development`
+
+Accessible community-education experiences that broaden access to
+knowledge, practical learning, and personal development.
+
 ## Platform & Ecosystem Architecture
 
 Sophistec's platform direction connects identity, organizations,
@@ -256,7 +323,7 @@ These diagrams summarize how Sophistec approaches product engineering as connect
 <p align="center"><img src="../assets/svg/ai-intelligence-layer.svg" width="100%" alt="AI Intelligence Layer"></p>
 
 ### Enterprise RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg" width="100%" alt="Enterprise RAG Pipeline"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=2" width="100%" alt="Enterprise RAG Pipeline"></p>
 
 ### CI/CD & Production Delivery
 <p align="center"><img src="../assets/svg/cicd-pipeline.svg" width="100%" alt="CI CD Pipeline"></p>
@@ -358,7 +425,7 @@ knowledge and operational tools:
 
 Our RAG-oriented architecture can include:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=2" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
 
 Key areas include document processing, chunking strategies, metadata,
 embeddings, vector databases, semantic retrieval, hybrid search,
@@ -626,7 +693,7 @@ Sophistec's technology work is designed around the complete lifecycle of
 a digital product:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg" width="100%" alt="From Product Idea to Production lifecycle">
+  <img src="../assets/svg/product-idea-to-production.svg?v=2" width="100%" alt="From Product Idea to Production lifecycle">
 </p>
 
 This allows us to approach technology not as isolated code, but as a
