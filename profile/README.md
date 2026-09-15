@@ -185,15 +185,22 @@ controlled real-world actions.
 
 | Platform | SaaS | API / Integration | AI / Data | Automation | Identity / Access |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| **Medicore** | ● | ● | ◐ | ● | ● |
-| **Omnichannel** | ● | ● | ◐ | ● | ● |
-| **Service Hub** | ● | ● | ◐ | ● | ● |
-| **Data Craft** | ● | ● | ● | ● | ● |
-| **Key Trust** | ◐ | ● | — | ● | ● |
+| **Sophistec Optima Solutions** | ● | ● | ◐ | ● | ● |
+| **Sophistec C4C** | ● | ◐ | ◐ | ◐ | ● |
+| **Sophistec Market Craft** | ● | ● | ● | ● | ◐ |
+| **Sophistec Data Craft** | ● | ● | ● | ● | ● |
+| **Sophistec Medicore** | ● | ● | ◐ | ● | ● |
+| **Sophistec Denticon** | ● | ● | ◐ | ● | ● |
+| **Sophistec Omnichannel** | ● | ● | ◐ | ● | ● |
+| **Sophistec Smart Rack** | ● | ● | ◐ | ● | ● |
+| **Sophistec Service Hub** | ● | ● | ◐ | ● | ● |
+| **Sophistec Key Trust** | ◐ | ● | — | ● | ● |
+| **Sophistec Lumora** | ● | ● | ◐ | ● | ◐ |
+| **Sophistec Career Hub** | ● | ◐ | ◐ | ● | ● |
+| **Sophistec Edu Pro** | ● | ◐ | ◐ | ◐ | ● |
+| **Sophistec Edu Plus** | ● | ◐ | ◐ | ◐ | ● |
 
-<sub>● core/relevant capability · ◐ selective use or capability
-direction · --- not a primary product focus. Update this map as
-implementations evolve.</sub>
+<sub>● core/relevant capability · ◐ selective use or capability direction · — not a primary product focus. Update this map as implementations evolve.</sub>
 
 ## Engineering Standards
 
@@ -345,55 +352,13 @@ We explore and build AI-powered systems around:
 A typical intelligent application can connect models with private
 knowledge and operational tools:
 
-``` text
-User / Application
-        │
-        ▼
-     AI Agent
-        │
-        ├── Context & Memory
-        ├── RAG / Knowledge Base
-        ├── Vector Search
-        ├── Databases
-        ├── Internal APIs
-        ├── External APIs
-        └── Business Tools
-                │
-                ▼
-        Response / Action
-```
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
 
 ### RAG & Enterprise Knowledge Systems
 
 Our RAG-oriented architecture can include:
 
-``` text
-Documents / Structured Data / Knowledge
-                  │
-                  ▼
-          Data Processing
-                  │
-                  ▼
-        Chunking & Metadata
-                  │
-                  ▼
-             Embeddings
-                  │
-                  ▼
-           Vector Storage
-                  │
-                  ▼
- Semantic / Hybrid Retrieval
-                  │
-                  ▼
-      Re-Ranking & Context
-                  │
-                  ▼
-             LLM / Agent
-                  │
-                  ▼
-      Grounded Response / Action
-```
+<p align="center"><img src="../assets/svg/rag-pipeline.svg" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
 
 Key areas include document processing, chunking strategies, metadata,
 embeddings, vector databases, semantic retrieval, hybrid search,
@@ -467,25 +432,7 @@ operational requirements, including:
 -   Eventual consistency where appropriate
 -   Observability and distributed tracing
 
-``` text
-Clients
-  │
-  ▼
-API Gateway / BFF
-  │
-  ├── Identity Service
-  ├── Product Service
-  ├── Billing Service
-  ├── Notification Service
-  └── Integration Service
-          │
-          ▼
-   Events / Message Broker
-          │
-          ├── Workers
-          ├── Automation
-          └── Data Processing
-```
+<p align="center"><img src="../assets/svg/microservices-architecture.svg" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
 
 ### Messaging, Queues & Event Processing
 
@@ -555,21 +502,7 @@ Integration areas can include:
 -   External SaaS platforms
 -   Internal enterprise systems
 
-``` text
-Application
-    │
-    ▼
-Integration Layer
-    │
-    ├── Internal Services
-    ├── External APIs
-    ├── Payment
-    ├── Marketplace
-    ├── Logistics
-    ├── Government / Healthcare
-    ├── AI Providers
-    └── Third-Party SaaS
-```
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, AI providers, and third-party SaaS"></p>
 
 ### DevOps, Cloud, Containers & Infrastructure
 
