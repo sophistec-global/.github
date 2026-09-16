@@ -63,14 +63,16 @@ Kami membantu founder, organisasi, dan komunitas mengubah ide menjadi solusi pra
 | Logo | Produk | Fokus | Jelajahi |
 | :---: | --- | --- | --- |
 | <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Optimasi bisnis dan solusi digital untuk organisasi. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Platform khusus dalam ekosistem Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Solusi pertumbuhan digital, pemasaran, dan kebutuhan yang berhadapan langsung dengan pasar. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | Platform agen AI untuk bantuan cerdas, orkestrasi alur kerja, dan otomasi bisnis. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Solusi berbasis data, analitik, dan kecerdasan digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek, laboratorium, dan radiologi. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Solusi digital untuk praktik kedokteran gigi dan operasional kesehatan mulut. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Platform khusus dalam ekosistem Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Operasional perdagangan terpadu dengan integrasi marketplace, logistik, pembayaran, dan kanal penjualan. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Solusi pertumbuhan digital, pemasaran, dan kebutuhan yang berhadapan langsung dengan pasar. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Platform mesin penjual otomatis terhubung untuk inventaris, pembayaran, telemetri, dan pengelolaan operasional. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Solusi operasional pintar dan pengelolaan rak. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Solusi dukungan dan manajemen layanan terpusat. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek, laboratorium, dan radiologi. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Solusi digital untuk praktik kedokteran gigi dan operasional kesehatan mulut. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Identitas dan keamanan perangkat berbasis hardware menggunakan teknologi **Physical Unclonable Function (PUF)** dan autentikasi **FIDO2**, yang dirancang untuk mengamankan setiap identitas dari lapisan paling dasar. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | Platform photobooth modern untuk pengalaman foto di lokasi acara, roaming/mingle photography, frame acara ber-branding, berbagi instan, dan ucapan virtual. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 | <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Platform pengembangan karier dan talenta. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
@@ -223,6 +225,7 @@ sekaligus memungkinkan setiap produk berkembang secara independen.
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
 </p>
+
 ### Peta Domain Engineering
 
 ``` text
@@ -350,6 +353,7 @@ produk digital praktis secara end-to-end.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Data+%E2%86%92+AI+%E2%86%92+Infrastructure;Design+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Scale" alt="Sophistec technology workflow">
 </p>
+
 ### Pengembangan Frontend
 
 <p>
@@ -1232,7 +1236,7 @@ Untuk diskusi mengenai produk, engineering, partnership, atau ekosistem, gunakan
 
 <div align="center">
 
-### "Membangun masa depan, satu langkah pada satu waktu." 🚀
+### "Membangun Masa Depan, Satu Langkah Pada Satu Waktu." 🚀
 
 <br>
 

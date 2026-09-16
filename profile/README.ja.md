@@ -63,14 +63,16 @@
 | ロゴ | プロダクト | フォーカス | 詳細 |
 | :---: | --- | --- | --- |
 | <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions ロゴ"> | **Sophistec Optima Solutions** | 組織向けの業務最適化とデジタルソリューション。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C ロゴ"> | **Sophistec C4C** | Sophistec エコシステム内の専用プラットフォーム。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft ロゴ"> | **Sophistec Market Craft** | デジタル成長、マーケティング、市場接点に向けたソリューション。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | インテリジェント支援、ワークフローのオーケストレーション、業務自動化のための AI エージェントプラットフォーム。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft ロゴ"> | **Sophistec Data Craft** | データ指向のソリューション、アナリティクス、デジタルインテリジェンス。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore ロゴ"> | **Sophistec Medicore** | 病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon ロゴ"> | **Sophistec Denticon** | 歯科診療所および口腔医療業務向けのデジタルソリューション。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C ロゴ"> | **Sophistec C4C** | Sophistec エコシステム内の専用プラットフォーム。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel ロゴ"> | **Sophistec Omnichannel** | マーケットプレイス、物流、決済、販売チャネルを統合する統一コマース運用。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft ロゴ"> | **Sophistec Market Craft** | デジタル成長、マーケティング、市場接点に向けたソリューション。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 在庫、決済、テレメトリ、運用管理に対応するコネクテッド自動販売機プラットフォーム。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack ロゴ"> | **Sophistec Smart Rack** | スマートな業務運用およびラック管理ソリューション。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub ロゴ"> | **Sophistec Service Hub** | 集中型のサポートおよびサービス管理ソリューション。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore ロゴ"> | **Sophistec Medicore** | 病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon ロゴ"> | **Sophistec Denticon** | 歯科診療所および口腔医療業務向けのデジタルソリューション。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust ロゴ"> | **Sophistec Key Trust** | **Physical Unclonable Function（PUF）** 技術と **FIDO2** 認証を用いたハードウェアルートのデバイスID・セキュリティにより、IDを根本から保護します。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora ロゴ"> | **Sophistec Lumora** | 会場での撮影体験、ローミング／ミングル撮影、ブランド入りイベントフレーム、即時共有、バーチャルメッセージに対応するモダンなフォトブースプラットフォーム。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 | <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub ロゴ"> | **Sophistec Career Hub** | キャリアおよび人材育成プラットフォーム。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
@@ -223,6 +225,7 @@ Sophistec のプラットフォーム方針は、ID、組織、課金、プロ�
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 接続型プラットフォームアーキテクチャ">
 </p>
+
 ### エンジニアリングドメインマップ
 
 ``` text
@@ -350,6 +353,7 @@ Sophistec は、プロダクト思考、ソフトウェアエンジニアリン�
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89+%E2%86%92+%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89+%E2%86%92+%E3%83%87%E3%83%BC%E3%82%BF+%E2%86%92+AI+%E2%86%92+%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9;%E8%A8%AD%E8%A8%88+%E2%86%92+%E6%A7%8B%E7%AF%89+%E2%86%92+%E7%B5%B1%E5%90%88+%E2%86%92+%E8%87%AA%E5%8B%95%E5%8C%96+%E2%86%92+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB" alt="Sophistec テクノロジーワークフロー">
 </p>
+
 ### フロントエンド開発
 
 <p>

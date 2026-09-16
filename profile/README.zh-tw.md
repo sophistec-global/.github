@@ -63,14 +63,16 @@
 | Logo | 產品 | 核心定位 | 探索 |
 | :---: | --- | --- | --- |
 | <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | 為組織提供企業最佳化與數位解決方案。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Sophistec 生態系中的專屬平台。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | 數位成長、行銷與面向市場的解決方案。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 用於智慧協助、工作流程協調與企業自動化的 AI 代理平台。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | 以資料為核心的解決方案、分析與數位智慧。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | 為醫院、診所、藥局、實驗室與放射科提供互聯式醫療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | 為牙科診所與口腔健康營運提供數位解決方案。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Sophistec 生態系中的專屬平台。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | 整合 Marketplace、物流、支付與銷售通路的全通路商務營運。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | 數位成長、行銷與面向市場的解決方案。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 用於庫存、付款、遙測與營運管理的聯網自動販賣機平台。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | 智慧營運與機架管理解決方案。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | 集中式支援與服務管理解決方案。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | 為醫院、診所、藥局、實驗室與放射科提供互聯式醫療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | 為牙科診所與口腔健康營運提供數位解決方案。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | 採用 **Physical Unclonable Function（PUF）** 技術與 **FIDO2** 身分驗證，提供以硬體為信任根基的裝置身分與安全能力，從源頭保護每一個身分。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | 現代化 Photobooth 平台，支援現場拍照體驗、移動／互動式攝影、品牌活動相框、即時分享與虛擬祝福。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 | <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | 職涯與人才發展平台。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
@@ -204,6 +206,7 @@ Sophistec 的平台方向串聯身分、組織、帳務、產品存取、智慧�
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 互聯平台架構">
 </p>
+
 ### 工程領域地圖
 
 ``` text
@@ -329,6 +332,7 @@ Sophistec 結合產品思維、軟體工程、人工智慧、資料、基礎架�
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=%E5%89%8D%E7%AB%AF+%E2%86%92+%E5%BE%8C%E7%AB%AF+%E2%86%92+%E8%B3%87%E6%96%99+%E2%86%92+AI+%E2%86%92+%E5%9F%BA%E7%A4%8E%E6%9E%B6%E6%A7%8B;%E8%A8%AD%E8%A8%88+%E2%86%92+%E5%BB%BA%E7%BD%AE+%E2%86%92+%E6%95%B4%E5%90%88+%E2%86%92+%E8%87%AA%E5%8B%95%E5%8C%96+%E2%86%92+%E6%93%B4%E5%B1%95" alt="Sophistec 技術工作流程">
 </p>
+
 ### 前端開發
 
 <p>

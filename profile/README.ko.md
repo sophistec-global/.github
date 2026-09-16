@@ -63,14 +63,16 @@
 | 로고 | 제품 | 초점 | 자세히 보기 |
 | :---: | --- | --- | --- |
 | <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions 로고"> | **Sophistec Optima Solutions** | 조직을 위한 비즈니스 최적화 및 디지털 솔루션. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C 로고"> | **Sophistec C4C** | Sophistec 생태계 내 전용 플랫폼. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft 로고"> | **Sophistec Market Craft** | 디지털 성장, 마케팅, 시장 접점 솔루션. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 지능형 지원, 워크플로 오케스트레이션 및 비즈니스 자동화를 위한 AI 에이전트 플랫폼입니다. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft 로고"> | **Sophistec Data Craft** | 데이터 중심 솔루션, 분석, 디지털 인텔리전스. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore 로고"> | **Sophistec Medicore** | 병원, 클리닉, 약국, 검사실, 영상의학을 연결하는 의료 관리. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon 로고"> | **Sophistec Denticon** | 치과 진료 및 구강 건강 운영을 위한 디지털 솔루션. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C 로고"> | **Sophistec C4C** | Sophistec 생태계 내 전용 플랫폼. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel 로고"> | **Sophistec Omnichannel** | 마켓플레이스, 물류, 결제, 판매 채널 통합을 포함한 통합 커머스 운영. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft 로고"> | **Sophistec Market Craft** | 디지털 성장, 마케팅, 시장 접점 솔루션. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 재고, 결제, 텔레메트리 및 운영 관리를 위한 연결형 자동판매기 플랫폼입니다. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack 로고"> | **Sophistec Smart Rack** | 스마트 운영 및 랙 관리 솔루션. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub 로고"> | **Sophistec Service Hub** | 중앙 집중형 지원 및 서비스 관리 솔루션. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore 로고"> | **Sophistec Medicore** | 병원, 클리닉, 약국, 검사실, 영상의학을 연결하는 의료 관리. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon 로고"> | **Sophistec Denticon** | 치과 진료 및 구강 건강 운영을 위한 디지털 솔루션. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust 로고"> | **Sophistec Key Trust** | **Physical Unclonable Function(PUF)** 기술과 **FIDO2** 인증을 사용하는 하드웨어 기반 디바이스 ID 및 보안으로, 모든 ID를 근본부터 보호하도록 설계되었습니다. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora 로고"> | **Sophistec Lumora** | 현장 사진 경험, 로밍/밍글 촬영, 브랜드 이벤트 프레임, 즉시 공유, 가상 인사를 위한 현대적인 포토부스 플랫폼. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 | <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub 로고"> | **Sophistec Career Hub** | 커리어 및 인재 개발 플랫폼. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
@@ -223,6 +225,7 @@ Sophistec의 플랫폼 방향은 ID, 조직, 과금, 제품 접근,
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 연결형 플랫폼 아키텍처">
 </p>
+
 ### 엔지니어링 도메인 맵
 
 ``` text
@@ -350,6 +353,7 @@ Sophistec는 제품 사고, 소프트웨어 엔지니어링, 인공지능,
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%E2%86%92+%EB%B0%B1%EC%97%94%EB%93%9C+%E2%86%92+%EB%8D%B0%EC%9D%B4%ED%84%B0+%E2%86%92+AI+%E2%86%92+%EC%9D%B8%ED%94%84%EB%9D%BC;%EC%84%A4%EA%B3%84+%E2%86%92+%EA%B5%AC%EC%B6%95+%E2%86%92+%ED%86%B5%ED%95%A9+%E2%86%92+%EC%9E%90%EB%8F%99%ED%99%94+%E2%86%92+%ED%99%95%EC%9E%A5" alt="Sophistec 기술 워크플로">
 </p>
+
 ### 프론트엔드 개발
 
 <p>

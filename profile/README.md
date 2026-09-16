@@ -63,14 +63,16 @@ We help founders, organizations, and communities turn ideas into practical solut
 | Logo | Product | Focus | Explore |
 | :---: | --- | --- | --- |
 | <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Business optimization and digital solutions for organizations. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | A dedicated platform within the Sophistec ecosystem. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Digital growth, marketing, and market-facing solutions. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | AI agent platform for intelligent assistance, workflow orchestration, and business automation. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Data-oriented solutions, analytics, and digital intelligence. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Connected healthcare management for hospitals, clinics, pharmacies, laboratories, and radiology. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Digital solutions for dental practices and oral-health operations. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | A dedicated platform within the Sophistec ecosystem. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Unified commerce operations with marketplace, logistics, payment, and sales-channel integration. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Digital growth, marketing, and market-facing solutions. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Connected vending-machine platform for inventory, payments, telemetry, and operational management. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Smart operational and rack-management solutions. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Centralized support and service-management solutions. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Connected healthcare management for hospitals, clinics, pharmacies, laboratories, and radiology. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Digital solutions for dental practices and oral-health operations. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication, designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | A modern photobooth platform for on-site photo experiences, roaming or mingle photography, branded event frames, instant sharing, and virtual greetings. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
@@ -223,6 +225,7 @@ while allowing individual products to evolve independently.
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
 </p>
+
 ### Engineering Domain Map
 
 ``` text
@@ -350,6 +353,7 @@ practical digital products from end to end.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Data+%E2%86%92+AI+%E2%86%92+Infrastructure;Design+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Scale" alt="Sophistec technology workflow">
 </p>
+
 ### Frontend Development
 
 <p>
@@ -1231,7 +1235,7 @@ For product, engineering, partnership, or ecosystem conversations, use the conta
 
 <div align="center">
 
-### "Building the future, one step at a time." 🚀
+### "Building The Future, One Step At A Time." 🚀
 
 <br>
 
