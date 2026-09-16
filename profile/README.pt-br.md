@@ -111,44 +111,6 @@ Seja para entrar no mercado indonésio, estabelecer presença local, desenvolver
 
 ## Engenharia em Destaque
 
-### Sophistec Medicore
-
-`SaaS de Saúde` `EMR` `SATUSEHAT` `BPJS` `Integração de API`
-
-Gestão integrada de saúde para hospitais, clínicas, farmácias,
-laboratórios e radiologia, abrangendo fluxos de pacientes, cadastro,
-agendamentos, faturamento, farmácia, laboratório/radiologia, estoque,
-relatórios e integrações de saúde.
-
-### Sophistec Omnichannel
-
-`Comércio` `APIs de Marketplace` `Logística` `Pagamentos` `Automação`
-
-Operações de comércio unificadas conectando canais de venda, fluxos de
-marketplace, estoque, pedidos, logística, pagamentos e integração
-operacional.
-
-### Sophistec Service Hub
-
-`Suporte` `Tickets` `Contas de Clientes` `Fluxo de Trabalho`
-
-Infraestrutura centralizada de suporte e gestão de serviços para
-interações com clientes, fluxos de atendimento e suporte a produtos.
-
-### Sophistec Key Trust
-
-`PUF` `FIDO2` `Identidade de Dispositivo` `Autenticação`
-
-Identidade e autenticação de dispositivos ancoradas em hardware,
-projetadas para fortalecer a confiança na camada de identidade.
-
-### Sophistec Data Craft
-
-`Dados` `Analytics` `Inteligência` `Integração`
-
-Sistemas orientados a dados para analytics, inteligência conectada e
-apoio à tomada de decisão.
-
 ### Sophistec Optima Solutions
 
 `Otimização Empresarial` `Soluções Digitais` `Fluxo de Trabalho` `Automação`
@@ -156,6 +118,19 @@ apoio à tomada de decisão.
 Capacidades de otimização empresarial e soluções digitais que conectam
 necessidades operacionais a software prático, melhoria de processos e
 resultados mensuráveis.
+
+### Sophistec Aivora
+
+`Agentes de IA` `Orquestração de fluxos` `Integração de ferramentas` `Automação`
+
+Uma plataforma de agentes de IA para assistência inteligente, fluxos conectados a ferramentas, automação controlada e orquestração operacional entre sistemas empresariais.
+
+### Sophistec Data Craft
+
+`Dados` `Analytics` `Inteligência` `Integração`
+
+Sistemas orientados a dados para analytics, inteligência conectada e
+apoio à tomada de decisão.
 
 ### Sophistec C4C
 
@@ -165,12 +140,49 @@ Uma plataforma de ecossistema conectado projetada para reunir organizações,
 serviços, comunidades e experiências digitais por meio de capacidades
 compartilhadas de plataforma.
 
+### Sophistec Omnichannel
+
+`Comércio` `APIs de Marketplace` `Logística` `Pagamentos` `Automação`
+
+Operações de comércio unificadas conectando canais de venda, fluxos de
+marketplace, estoque, pedidos, logística, pagamentos e integração
+operacional.
+
 ### Sophistec Market Craft
 
 `Marketing` `Crescimento` `Campanhas` `Inteligência de Mercado`
 
 Tecnologia voltada ao mercado para crescimento de marca, operações de campanhas,
 engajamento de audiência e fluxos de marketing orientados por dados.
+
+### Sophistec Vendix
+
+`Máquinas de venda automática` `Estoque` `Pagamentos` `Telemetria`
+
+Uma plataforma de máquinas de venda automática conectadas para visibilidade de estoque, pagamentos digitais, telemetria de dispositivos, reposição e gestão operacional.
+
+### Sophistec Smart Rack
+
+`Operações Inteligentes` `Gestão de Ativos` `Estoque` `Monitoramento`
+
+Capacidades inteligentes de rack e gestão operacional para acompanhar ativos,
+estoque, disponibilidade e atividades operacionais do mundo real.
+
+### Sophistec Service Hub
+
+`Suporte` `Tickets` `Contas de Clientes` `Fluxo de Trabalho`
+
+Infraestrutura centralizada de suporte e gestão de serviços para
+interações com clientes, fluxos de atendimento e suporte a produtos.
+
+### Sophistec Medicore
+
+`SaaS de Saúde` `EMR` `SATUSEHAT` `BPJS` `Integração de API`
+
+Gestão integrada de saúde para hospitais, clínicas, farmácias,
+laboratórios e radiologia, abrangendo fluxos de pacientes, cadastro,
+agendamentos, faturamento, farmácia, laboratório/radiologia, estoque,
+relatórios e integrações de saúde.
 
 ### Sophistec Denticon
 
@@ -180,12 +192,12 @@ Operações digitais para clínicas odontológicas, apoiando jornadas de pacient
 agendamentos, administração clínica, fluxos de serviços e gestão integrada
 da clínica.
 
-### Sophistec Smart Rack
+### Sophistec Key Trust
 
-`Operações Inteligentes` `Gestão de Ativos` `Estoque` `Monitoramento`
+`PUF` `FIDO2` `Identidade de Dispositivo` `Autenticação`
 
-Capacidades inteligentes de rack e gestão operacional para acompanhar ativos,
-estoque, disponibilidade e atividades operacionais do mundo real.
+Identidade e autenticação de dispositivos ancoradas em hardware,
+projetadas para fortalecer a confiança na camada de identidade.
 
 ### Sophistec Lumora
 
@@ -229,7 +241,7 @@ ao mesmo tempo em que permite que produtos individuais evoluam de forma independ
 
 ``` text
 Engenharia Sophistec
-├── Produtos             → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── Produtos             → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── Plataforma            → Identidade · Organização · Faturamento · Direitos de Acesso · Suporte
 ├── Inteligência          → Agentes · RAG · Automação · Dados / ML
 ├── Serviços Compartilhados → APIs · Integrações · Componentes · Serviços Comuns
@@ -261,12 +273,14 @@ suporte a ações controladas no mundo real.
   <thead><tr><th width="336">Plataforma</th><th width="120">SaaS</th><th width="216">API / Integração</th><th width="144">IA / Dados</th><th width="168">Automação</th><th width="216">Identidade / Acesso</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -290,7 +304,7 @@ suporte a ações controladas no mundo real.
 </p>
 
 ### Constelação de Produtos
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Constelação de Produtos Sophistec"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Constelação de Produtos Sophistec"></p>
 
 ### Colaboração Internacional
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Colaboração internacional da Sophistec"></p>
@@ -681,9 +695,9 @@ acesso a múltiplos produtos com uma única conta.
     <tr><td><strong>SaaS e Plataformas Multi-Tenant</strong></td><td>Plataformas conscientes da organização com identidade, RBAC, assinaturas, faturamento, uso e acesso a produtos.</td></tr>
     <tr><td><strong>Machine Learning e Dados</strong></td><td>Pipelines práticos de dados, analytics, modelos preditivos e aplicações inteligentes.</td></tr>
     <tr><td><strong>Integração Empresarial</strong></td><td>Conexões entre sistemas internos, plataformas de terceiros, serviços governamentais, saúde, comércio e provedores de IA.</td></tr>
+    <tr><td><strong>Nuvem e Infraestrutura</strong></td><td>Implantação em produção, containerização, infraestrutura web, CI/CD, monitoramento e confiabilidade operacional.</td></tr>
   </tbody>
 </table>
-| **Nuvem e Infraestrutura** | Implantação em produção, containerização, infraestrutura web, CI/CD, monitoramento e confiabilidade operacional. |
 
 ## Da Ideia do Produto à Produção
 

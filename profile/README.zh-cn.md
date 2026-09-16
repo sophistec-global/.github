@@ -111,13 +111,29 @@ Sophistec 将商业策略、科技、创意、增长、教育与社区集成于�
 
 ## 精选工程能力
 
-### Sophistec Medicore
+### Sophistec Optima Solutions
 
-`医疗 SaaS` `EMR` `SATUSEHAT` `BPJS` `API 集成`
+`企业优化` `数字解决方案` `工作流` `自动化`
 
-为医院、诊所、药房、实验室和影像科提供互联医疗管理，
-涵盖患者流程、挂号、预约、计费、药房、检验／影像、库存、
-报表与医疗系统集成。
+将运营需求与实用软件、流程改进及可衡量成果连接起来的企业优化与数字解决方案能力。
+
+### Sophistec Aivora
+
+`AI 智能体` `工作流编排` `工具集成` `自动化`
+
+AI 智能体平台，用于智能协助、工具连接工作流、受控自动化以及跨业务系统的运营编排。
+
+### Sophistec Data Craft
+
+`数据` `分析` `智能` `集成`
+
+以数据为核心的系统，用于分析、互联智能与决策支持。
+
+### Sophistec C4C
+
+`互联生态系统` `平台` `社区` `集成`
+
+以共享平台能力连接组织、服务、社区与数字体验的互联生态系统平台。
 
 ### Sophistec Omnichannel
 
@@ -126,41 +142,37 @@ Sophistec 将商业策略、科技、创意、增长、教育与社区集成于�
 集成销售渠道、Marketplace 工作流、库存、订单、物流、支付与
 运营集成的全渠道商务作业。
 
+### Sophistec Market Craft
+
+`营销` `增长` `活动` `市场情报`
+
+面向市场的技术，用于品牌增长、营销活动运营、受众互动，以及以数据为依据的营销工作流。
+
+### Sophistec Vendix
+
+`自动售货机` `库存` `支付` `遥测`
+
+联网自动售货机平台，支持库存可视化、数字支付、设备遥测、补货工作流和运营管理。
+
+### Sophistec Smart Rack
+
+`智能运营` `资产管理` `库存` `监控`
+
+用于追踪资产、库存、可用性与实际运营活动的智能机架与运营管理能力。
+
 ### Sophistec Service Hub
 
 `支持` `工单管理` `客户账号` `工作流`
 
 集中式支持与服务管理基础架构，用于客户互动、服务流程与产品支持。
 
-### Sophistec Key Trust
+### Sophistec Medicore
 
-`PUF` `FIDO2` `设备身份` `身份验证`
+`医疗 SaaS` `EMR` `SATUSEHAT` `BPJS` `API 集成`
 
-以硬件为信任根基的设备身份与验证机制，旨在强化身份层的可信度。
-
-### Sophistec Data Craft
-
-`数据` `分析` `智能` `集成`
-
-以数据为核心的系统，用于分析、互联智能与决策支持。
-
-### Sophistec Optima Solutions
-
-`企业优化` `数字解决方案` `工作流` `自动化`
-
-将运营需求与实用软件、流程改进及可衡量成果连接起来的企业优化与数字解决方案能力。
-
-### Sophistec C4C
-
-`互联生态系统` `平台` `社区` `集成`
-
-以共享平台能力连接组织、服务、社区与数字体验的互联生态系统平台。
-
-### Sophistec Market Craft
-
-`营销` `增长` `活动` `市场情报`
-
-面向市场的技术，用于品牌增长、营销活动运营、受众互动，以及以数据为依据的营销工作流。
+为医院、诊所、药房、实验室和影像科提供互联医疗管理，
+涵盖患者流程、挂号、预约、计费、药房、检验／影像、库存、
+报表与医疗系统集成。
 
 ### Sophistec Denticon
 
@@ -168,11 +180,11 @@ Sophistec 将商业策略、科技、创意、增长、教育与社区集成于�
 
 为牙科诊所提供数字化运营能力，支持患者旅程、预约、临床行政、服务流程与互联式诊所管理。
 
-### Sophistec Smart Rack
+### Sophistec Key Trust
 
-`智能运营` `资产管理` `库存` `监控`
+`PUF` `FIDO2` `设备身份` `身份验证`
 
-用于追踪资产、库存、可用性与实际运营活动的智能机架与运营管理能力。
+以硬件为信任根基的设备身份与验证机制，旨在强化身份层的可信度。
 
 ### Sophistec Lumora
 
@@ -211,7 +223,7 @@ Sophistec 的平台方向连接身份、组织、计费、产品访问、智能�
 
 ``` text
 Sophistec Engineering
-├── 产品            → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── 产品            → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── 平台            → 身份 · 组织 · 计费 · 权益 · 支持
 ├── 智能            → Agents · RAG · 自动化 · Data / ML
 ├── 共用服务        → API · 集成 · 组件 · 共通服务
@@ -242,12 +254,14 @@ LLM、Agent、RAG、记忆、工具、MCP、API、权限与商业逻辑可以协
   <thead><tr><th width="336">平台</th><th width="120">SaaS</th><th width="216">API / 集成</th><th width="144">AI / 数据</th><th width="168">自动化</th><th width="216">身份 / 访问</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -271,7 +285,7 @@ LLM、Agent、RAG、记忆、工具、MCP、API、权限与商业逻辑可以协
 </p>
 
 ### 产品星系
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec 产品星系"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 产品星系"></p>
 
 ### 跨境协作
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 跨境协作"></p>
@@ -626,9 +640,9 @@ Unit Testing · Integration Testing · API Testing · End-to-End Testing · Regr
     <tr><td><strong>SaaS 与多租户平台</strong></td><td>具备组织上下文的身份、RBAC、订阅、计费、用量与产品访问平台。</td></tr>
     <tr><td><strong>机器学习与数据</strong></td><td>实用的数据 Pipeline、分析、预测模型与智能应用。</td></tr>
     <tr><td><strong>企业集成</strong></td><td>连接内部系统、第三方平台、政府服务、医疗、商务与 AI 供应商。</td></tr>
+    <tr><td><strong>云与基础架构</strong></td><td>正式环境部署、容器化、Web 基础架构、CI/CD、监控与运营可靠性。</td></tr>
   </tbody>
 </table>
-| **云与基础架构** | 正式环境部署、容器化、Web 基础架构、CI/CD、监控与运营可靠性。 |
 
 ## 从产品构想到正式环境
 

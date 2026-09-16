@@ -111,36 +111,18 @@ Sophistec는 비즈니스 전략, 기술, 창의성, 성장, 교육, 커뮤니�
 
 ## 주요 엔지니어링
 
-### Sophistec Medicore
+### Sophistec Optima Solutions
 
-`헬스케어 SaaS` `EMR` `SATUSEHAT` `BPJS` `API 통합`
+`비즈니스 최적화` `디지털 솔루션` `워크플로` `자동화`
 
-병원, 클리닉, 약국, 검사실, 영상의학을 위한 연결형 의료 관리로,
-환자 워크플로, 접수, 예약, 청구, 약국, 검사실/영상의학, 재고,
-보고, 의료 시스템 통합까지 폭넓게 지원합니다.
+운영 요구를 실용적인 소프트웨어, 프로세스 개선,
+측정 가능한 성과와 연결하는 비즈니스 최적화 및 디지털 솔루션 역량.
 
+### Sophistec Aivora
 
-### Sophistec Omnichannel
+`AI 에이전트` `워크플로 오케스트레이션` `도구 통합` `자동화`
 
-`커머스` `마켓플레이스 API` `물류` `결제` `자동화`
-
-판매 채널, 마켓플레이스 워크플로, 재고, 주문, 물류, 결제,
-운영 통합을 연결하는 통합 커머스 운영.
-
-
-### Sophistec Service Hub
-
-`지원` `티켓 관리` `고객 계정` `워크플로`
-
-고객 상호작용, 서비스 워크플로, 제품 지원을 위한
-중앙 집중형 지원 및 서비스 관리 인프라.
-
-### Sophistec Key Trust
-
-`PUF` `FIDO2` `디바이스 ID` `인증`
-
-ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
-디바이스 ID 및 인증.
+지능형 지원, 도구 연결 워크플로, 통제된 자동화 및 비즈니스 시스템 전반의 운영 오케스트레이션을 위한 AI 에이전트 플랫폼입니다.
 
 ### Sophistec Data Craft
 
@@ -149,14 +131,6 @@ ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
 분석, 연결된 인텔리전스, 의사결정 지원을 위한
 데이터 중심 시스템.
 
-### Sophistec Optima Solutions
-
-`비즈니스 최적화` `디지털 솔루션` `워크플로` `자동화`
-
-운영 요구를 실용적인 소프트웨어, 프로세스 개선,
-측정 가능한 성과와 연결하는 비즈니스 최적화 및 디지털 솔루션 역량.
-
-
 ### Sophistec C4C
 
 `연결형 생태계` `플랫폼` `커뮤니티` `통합`
@@ -164,6 +138,12 @@ ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
 조직, 서비스, 커뮤니티, 디지털 경험을 공유 플랫폼 역량을 통해
 하나로 연결하도록 설계된 연결형 생태계 플랫폼.
 
+### Sophistec Omnichannel
+
+`커머스` `마켓플레이스 API` `물류` `결제` `자동화`
+
+판매 채널, 마켓플레이스 워크플로, 재고, 주문, 물류, 결제,
+운영 통합을 연결하는 통합 커머스 운영.
 
 ### Sophistec Market Craft
 
@@ -172,13 +152,11 @@ ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
 브랜드 성장, 캠페인 운영, 오디언스 참여,
 데이터 기반 마케팅 워크플로를 위한 시장 접점 기술.
 
-### Sophistec Denticon
+### Sophistec Vendix
 
-`치과 운영` `환자 워크플로` `예약` `헬스케어`
+`자동판매기` `재고` `결제` `텔레메트리`
 
-환자 여정, 예약, 임상 관리, 서비스 워크플로,
-연결형 진료 관리까지 지원하는 치과용 디지털 운영.
-
+재고 가시성, 디지털 결제, 장치 텔레메트리, 보충 워크플로 및 운영 관리를 위한 연결형 자동판매기 플랫폼입니다.
 
 ### Sophistec Smart Rack
 
@@ -186,6 +164,35 @@ ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
 
 자산, 재고, 가용성, 실제 운영 활동을 추적하기 위한
 스마트 랙 및 운영 관리 역량.
+
+### Sophistec Service Hub
+
+`지원` `티켓 관리` `고객 계정` `워크플로`
+
+고객 상호작용, 서비스 워크플로, 제품 지원을 위한
+중앙 집중형 지원 및 서비스 관리 인프라.
+
+### Sophistec Medicore
+
+`헬스케어 SaaS` `EMR` `SATUSEHAT` `BPJS` `API 통합`
+
+병원, 클리닉, 약국, 검사실, 영상의학을 위한 연결형 의료 관리로,
+환자 워크플로, 접수, 예약, 청구, 약국, 검사실/영상의학, 재고,
+보고, 의료 시스템 통합까지 폭넓게 지원합니다.
+
+### Sophistec Denticon
+
+`치과 운영` `환자 워크플로` `예약` `헬스케어`
+
+환자 여정, 예약, 임상 관리, 서비스 워크플로,
+연결형 진료 관리까지 지원하는 치과용 디지털 운영.
+
+### Sophistec Key Trust
+
+`PUF` `FIDO2` `디바이스 ID` `인증`
+
+ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
+디바이스 ID 및 인증.
 
 ### Sophistec Lumora
 
@@ -200,7 +207,6 @@ ID 계층의 신뢰를 강화하도록 설계된 하드웨어 기반
 
 학습, 전문 기회, 커뮤니티, 성장 경로를 사람들과 연결하는
 커리어 및 인재 개발 플랫폼.
-
 
 ### Sophistec Edu Pro
 
@@ -230,7 +236,7 @@ Sophistec의 플랫폼 방향은 ID, 조직, 과금, 제품 접근,
 
 ``` text
 Sophistec Engineering
-├── 제품            → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── 제품            → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── 플랫폼          → ID · 조직 · 과금 · 권한 · 지원
 ├── 인텔리전스      → 에이전트 · RAG · 자동화 · 데이터 / ML
 ├── 공유 서비스     → API · 통합 · 컴포넌트 · 공통 서비스
@@ -262,12 +268,14 @@ LLM, 에이전트, RAG, 메모리, 도구, MCP, API, 권한, 비즈니스 로직
   <thead><tr><th width="336">플랫폼</th><th width="120">SaaS</th><th width="216">API / 통합</th><th width="144">AI / 데이터</th><th width="168">자동화</th><th width="216">ID / 접근</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -291,7 +299,7 @@ LLM, 에이전트, RAG, 메모리, 도구, MCP, API, 권한, 비즈니스 로직
 </p>
 
 ### 제품 컨스텔레이션
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec 제품 컨스텔레이션"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 제품 컨스텔레이션"></p>
 
 ### 국경 간 협업
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 국경 간 협업"></p>
@@ -683,9 +691,9 @@ Sophistec는 더 넓은 디지털 생태계와 연결되는 소프트웨어를 �
     <tr><td><strong>SaaS 및 멀티테넌트 플랫폼</strong></td><td>ID, RBAC, 구독, 과금, 사용량, 제품 접근을 포함하는 조직 인식형 플랫폼.</td></tr>
     <tr><td><strong>머신러닝 및 데이터</strong></td><td>실용적인 데이터 파이프라인, 분석, 예측 모델, 지능형 애플리케이션.</td></tr>
     <tr><td><strong>엔터프라이즈 통합</strong></td><td>내부 시스템, 타사 플랫폼, 정부 서비스, 헬스케어, 커머스, AI 제공자 간 연결.</td></tr>
+    <tr><td><strong>클라우드 및 인프라</strong></td><td>프로덕션 배포, 컨테이너화, 웹 인프라, CI/CD, 모니터링, 운영 신뢰성.</td></tr>
   </tbody>
 </table>
-| **클라우드 및 인프라** | 프로덕션 배포, 컨테이너화, 웹 인프라, CI/CD, 모니터링, 운영 신뢰성. |
 
 ## 제품 아이디어에서 프로덕션까지
 

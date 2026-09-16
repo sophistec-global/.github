@@ -111,44 +111,6 @@ Whether you are entering the Indonesian market, establishing a local presence, b
 
 ## Featured Engineering
 
-### Sophistec Medicore
-
-`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integration`
-
-Connected healthcare management for hospitals, clinics, pharmacies,
-laboratories, and radiology, spanning patient workflows, registration,
-appointments, billing, pharmacy, laboratory/radiology, inventory,
-reporting, and healthcare integrations.
-
-### Sophistec Omnichannel
-
-`Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
-
-Unified commerce operations connecting sales channels, marketplace
-workflows, inventory, orders, logistics, payments, and operational
-integration.
-
-### Sophistec Service Hub
-
-`Support` `Ticketing` `Customer Accounts` `Workflow`
-
-Centralized support and service-management infrastructure for customer
-interactions, service workflows, and product support.
-
-### Sophistec Key Trust
-
-`PUF` `FIDO2` `Device Identity` `Authentication`
-
-Hardware-rooted device identity and authentication designed to
-strengthen trust at the identity layer.
-
-### Sophistec Data Craft
-
-`Data` `Analytics` `Intelligence` `Integration`
-
-Data-oriented systems for analytics, connected intelligence, and
-decision support.
-
 ### Sophistec Optima Solutions
 
 `Business Optimization` `Digital Solutions` `Workflow` `Automation`
@@ -156,6 +118,19 @@ decision support.
 Business optimization and digital-solution capabilities that connect
 operational needs with practical software, process improvement, and
 measurable outcomes.
+
+### Sophistec Aivora
+
+`AI Agents` `Workflow Orchestration` `Tool Integration` `Automation`
+
+An AI-agent platform for intelligent assistance, tool-connected workflows, controlled automation, and operational orchestration across business systems.
+
+### Sophistec Data Craft
+
+`Data` `Analytics` `Intelligence` `Integration`
+
+Data-oriented systems for analytics, connected intelligence, and
+decision support.
 
 ### Sophistec C4C
 
@@ -165,12 +140,49 @@ A connected ecosystem platform designed to bring organizations,
 services, communities, and digital experiences together through shared
 platform capabilities.
 
+### Sophistec Omnichannel
+
+`Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
+
+Unified commerce operations connecting sales channels, marketplace
+workflows, inventory, orders, logistics, payments, and operational
+integration.
+
 ### Sophistec Market Craft
 
 `Marketing` `Growth` `Campaigns` `Market Intelligence`
 
 Market-facing technology for brand growth, campaign operations,
 audience engagement, and data-informed marketing workflows.
+
+### Sophistec Vendix
+
+`Vending Machines` `Inventory` `Payments` `Telemetry`
+
+A connected vending-machine platform for inventory visibility, digital payments, device telemetry, replenishment workflows, and operational management.
+
+### Sophistec Smart Rack
+
+`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+
+Smart-rack and operational-management capabilities for tracking assets,
+inventory, availability, and real-world operational activity.
+
+### Sophistec Service Hub
+
+`Support` `Ticketing` `Customer Accounts` `Workflow`
+
+Centralized support and service-management infrastructure for customer
+interactions, service workflows, and product support.
+
+### Sophistec Medicore
+
+`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integration`
+
+Connected healthcare management for hospitals, clinics, pharmacies,
+laboratories, and radiology, spanning patient workflows, registration,
+appointments, billing, pharmacy, laboratory/radiology, inventory,
+reporting, and healthcare integrations.
 
 ### Sophistec Denticon
 
@@ -180,12 +192,12 @@ Digital operations for dental practices, supporting patient journeys,
 appointments, clinical administration, service workflows, and connected
 practice management.
 
-### Sophistec Smart Rack
+### Sophistec Key Trust
 
-`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+`PUF` `FIDO2` `Device Identity` `Authentication`
 
-Smart-rack and operational-management capabilities for tracking assets,
-inventory, availability, and real-world operational activity.
+Hardware-rooted device identity and authentication designed to
+strengthen trust at the identity layer.
 
 ### Sophistec Lumora
 
@@ -230,7 +242,7 @@ while allowing individual products to evolve independently.
 
 ``` text
 Sophistec Engineering
-├── Products        → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── Products        → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── Platform        → Identity · Organization · Billing · Entitlements · Support
 ├── Intelligence    → Agents · RAG · Automation · Data / ML
 ├── Shared Services → APIs · Integrations · Components · Common Services
@@ -262,12 +274,14 @@ controlled real-world actions.
   <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integration</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identity / Access</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -291,7 +305,7 @@ controlled real-world actions.
 </p>
 
 ### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec Product Constellation"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec Product Constellation"></p>
 
 ### Cross-Border Collaboration
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
@@ -683,9 +697,9 @@ multi-product account access.
     <tr><td><strong>SaaS &amp; Multi-Tenant Platforms</strong></td><td>Organization-aware platforms with identity, RBAC, subscriptions, billing, usage, and product access.</td></tr>
     <tr><td><strong>Machine Learning &amp; Data</strong></td><td>Practical data pipelines, analytics, predictive models, and intelligent applications.</td></tr>
     <tr><td><strong>Enterprise Integration</strong></td><td>Connections between internal systems, third-party platforms, government services, healthcare, commerce, and AI providers.</td></tr>
+    <tr><td><strong>Cloud & Infrastructure</strong></td><td>Production deployment, containerization, web infrastructure, CI/CD, monitoring, and operational reliability.</td></tr>
   </tbody>
 </table>
-| **Cloud & Infrastructure** | Production deployment, containerization, web infrastructure, CI/CD, monitoring, and operational reliability. |
 
 ## From Product Idea to Production
 

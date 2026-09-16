@@ -111,36 +111,18 @@ Sophistec は、ビジネス戦略、テクノロジー、クリエイティビ�
 
 ## 注目のエンジニアリング
 
-### Sophistec Medicore
+### Sophistec Optima Solutions
 
-`ヘルスケア SaaS` `EMR` `SATUSEHAT` `BPJS` `API 統合`
+`業務最適化` `デジタルソリューション` `ワークフロー` `自動化`
 
-病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理を提供し、
-患者ワークフロー、受付、予約、請求、薬局、検査／放射線、在庫、
-レポーティング、医療システム連携まで幅広くカバーします。
+業務ニーズを実用的なソフトウェア、プロセス改善、
+測定可能な成果へつなぐ、業務最適化・デジタルソリューション機能。
 
+### Sophistec Aivora
 
-### Sophistec Omnichannel
+`AI エージェント` `ワークフローオーケストレーション` `ツール統合` `自動化`
 
-`コマース` `マーケットプレイス API` `物流` `決済` `自動化`
-
-販売チャネル、マーケットプレイスのワークフロー、在庫、注文、物流、
-決済、業務連携を接続する統一型コマース運用。
-
-
-### Sophistec Service Hub
-
-`サポート` `チケット管理` `顧客アカウント` `ワークフロー`
-
-顧客とのやり取り、サービスワークフロー、プロダクトサポートを支える、
-集中型のサポート／サービス管理基盤。
-
-### Sophistec Key Trust
-
-`PUF` `FIDO2` `デバイスID` `認証`
-
-IDレイヤーの信頼性を高めるために設計された、ハードウェアルートの
-デバイスIDと認証。
+インテリジェント支援、ツール連携ワークフロー、制御された自動化、業務システム横断の運用オーケストレーションを実現する AI エージェントプラットフォームです。
 
 ### Sophistec Data Craft
 
@@ -149,14 +131,6 @@ IDレイヤーの信頼性を高めるために設計された、ハードウェ
 分析、接続されたインテリジェンス、意思決定支援のための
 データ指向システム。
 
-### Sophistec Optima Solutions
-
-`業務最適化` `デジタルソリューション` `ワークフロー` `自動化`
-
-業務ニーズを実用的なソフトウェア、プロセス改善、
-測定可能な成果へつなぐ、業務最適化・デジタルソリューション機能。
-
-
 ### Sophistec C4C
 
 `接続型エコシステム` `プラットフォーム` `コミュニティ` `統合`
@@ -164,6 +138,12 @@ IDレイヤーの信頼性を高めるために設計された、ハードウェ
 組織、サービス、コミュニティ、デジタル体験を、共有プラットフォーム機能で
 結びつけるために設計された接続型エコシステムプラットフォーム。
 
+### Sophistec Omnichannel
+
+`コマース` `マーケットプレイス API` `物流` `決済` `自動化`
+
+販売チャネル、マーケットプレイスのワークフロー、在庫、注文、物流、
+決済、業務連携を接続する統一型コマース運用。
 
 ### Sophistec Market Craft
 
@@ -172,13 +152,11 @@ IDレイヤーの信頼性を高めるために設計された、ハードウェ
 ブランド成長、キャンペーン運用、オーディエンスエンゲージメント、
 データに基づくマーケティングワークフローのための市場接点テクノロジー。
 
-### Sophistec Denticon
+### Sophistec Vendix
 
-`歯科業務` `患者ワークフロー` `予約` `ヘルスケア`
+`自動販売機` `在庫` `決済` `テレメトリ`
 
-患者ジャーニー、予約、臨床管理、サービスワークフロー、
-接続型の診療所管理を支える歯科向けデジタル業務。
-
+在庫の可視化、デジタル決済、デバイステレメトリ、補充ワークフロー、運用管理に対応するコネクテッド自動販売機プラットフォームです。
 
 ### Sophistec Smart Rack
 
@@ -186,6 +164,35 @@ IDレイヤーの信頼性を高めるために設計された、ハードウェ
 
 資産、在庫、利用可能性、現場の業務活動を追跡するための
 スマートラック／業務管理機能。
+
+### Sophistec Service Hub
+
+`サポート` `チケット管理` `顧客アカウント` `ワークフロー`
+
+顧客とのやり取り、サービスワークフロー、プロダクトサポートを支える、
+集中型のサポート／サービス管理基盤。
+
+### Sophistec Medicore
+
+`ヘルスケア SaaS` `EMR` `SATUSEHAT` `BPJS` `API 統合`
+
+病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理を提供し、
+患者ワークフロー、受付、予約、請求、薬局、検査／放射線、在庫、
+レポーティング、医療システム連携まで幅広くカバーします。
+
+### Sophistec Denticon
+
+`歯科業務` `患者ワークフロー` `予約` `ヘルスケア`
+
+患者ジャーニー、予約、臨床管理、サービスワークフロー、
+接続型の診療所管理を支える歯科向けデジタル業務。
+
+### Sophistec Key Trust
+
+`PUF` `FIDO2` `デバイスID` `認証`
+
+IDレイヤーの信頼性を高めるために設計された、ハードウェアルートの
+デバイスIDと認証。
 
 ### Sophistec Lumora
 
@@ -200,7 +207,6 @@ IDレイヤーの信頼性を高めるために設計された、ハードウェ
 
 学習、プロフェッショナルな機会、コミュニティ、成長への道筋をつなぐ
 キャリア・人材育成プラットフォーム。
-
 
 ### Sophistec Edu Pro
 
@@ -230,7 +236,7 @@ Sophistec のプラットフォーム方針は、ID、組織、課金、プロ�
 
 ``` text
 Sophistec Engineering
-├── プロダクト        → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── プロダクト        → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── プラットフォーム  → ID · 組織 · 課金 · エンタイトルメント · サポート
 ├── インテリジェンス  → エージェント · RAG · 自動化 · データ / ML
 ├── 共通サービス      → API · 統合 · コンポーネント · 共通サービス
@@ -262,12 +268,14 @@ LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、�
   <thead><tr><th width="336">プラットフォーム</th><th width="120">SaaS</th><th width="216">API / 統合</th><th width="144">AI / データ</th><th width="168">自動化</th><th width="216">ID / アクセス</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -291,7 +299,7 @@ LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、�
 </p>
 
 ### プロダクト・コンステレーション
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec プロダクト・コンステレーション"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec プロダクト・コンステレーション"></p>
 
 ### 越境コラボレーション
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 越境コラボレーション"></p>
@@ -683,9 +691,9 @@ Git ベースのワークフロー、CI/CD、プロセス管理、デプロイ�
     <tr><td><strong>SaaS & マルチテナントプラットフォーム</strong></td><td>ID、RBAC、サブスクリプション、課金、利用量、プロダクトアクセスを備えた組織対応プラットフォーム。</td></tr>
     <tr><td><strong>機械学習 & データ</strong></td><td>実用的なデータパイプライン、分析、予測モデル、インテリジェントアプリケーション。</td></tr>
     <tr><td><strong>エンタープライズ統合</strong></td><td>社内システム、サードパーティプラットフォーム、政府サービス、医療、コマース、AIプロバイダー間の接続。</td></tr>
+    <tr><td><strong>クラウド & インフラストラクチャ</strong></td><td>本番デプロイ、コンテナ化、Webインフラ、CI/CD、モニタリング、運用信頼性。</td></tr>
   </tbody>
 </table>
-| **クラウド & インフラストラクチャ** | 本番デプロイ、コンテナ化、Webインフラ、CI/CD、モニタリング、運用信頼性。 |
 
 ## プロダクトアイデアから本番環境まで
 

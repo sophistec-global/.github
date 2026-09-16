@@ -111,44 +111,6 @@ Baik Anda sedang memasuki pasar Indonesia, membangun kehadiran lokal, mengembang
 
 ## Engineering Unggulan
 
-### Sophistec Medicore
-
-`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integrasi`
-
-Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek,
-laboratorium, dan radiologi, mencakup alur pasien, registrasi,
-janji temu, billing, apotek, laboratorium/radiologi, inventaris,
-pelaporan, dan integrasi layanan kesehatan.
-
-### Sophistec Omnichannel
-
-`Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
-
-Operasional perdagangan terpadu yang menghubungkan kanal penjualan, marketplace,
-alur kerja, inventaris, pesanan, logistik, pembayaran, dan integrasi
-operasional.
-
-### Sophistec Service Hub
-
-`Support` `Ticketing` `Customer Accounts` `Workflow`
-
-Infrastruktur dukungan dan manajemen layanan terpusat untuk interaksi pelanggan,
-alur layanan, dan dukungan produk.
-
-### Sophistec Key Trust
-
-`PUF` `FIDO2` `Device Identitas` `Authentication`
-
-Identitas dan autentikasi perangkat berbasis hardware yang dirancang untuk
-memperkuat kepercayaan pada lapisan identitas.
-
-### Sophistec Data Craft
-
-`Data` `Analytics` `Intelligence` `Integrasi`
-
-Sistem berorientasi data untuk analitik, kecerdasan terhubung, dan
-dukungan pengambilan keputusan.
-
 ### Sophistec Optima Solutions
 
 `Business Optimization` `Digital Solutions` `Workflow` `Automation`
@@ -156,6 +118,19 @@ dukungan pengambilan keputusan.
 Kapabilitas optimasi bisnis dan solusi digital yang menghubungkan
 kebutuhan operasional dengan perangkat lunak praktis, peningkatan proses, dan
 hasil yang dapat diukur.
+
+### Sophistec Aivora
+
+`Agen AI` `Orkestrasi Alur Kerja` `Integrasi Tool` `Otomasi`
+
+Platform agen AI untuk bantuan cerdas, alur kerja yang terhubung dengan tool, otomasi terkontrol, dan orkestrasi operasional lintas sistem bisnis.
+
+### Sophistec Data Craft
+
+`Data` `Analytics` `Intelligence` `Integrasi`
+
+Sistem berorientasi data untuk analitik, kecerdasan terhubung, dan
+dukungan pengambilan keputusan.
 
 ### Sophistec C4C
 
@@ -165,12 +140,49 @@ Platform ekosistem terhubung yang dirancang untuk menyatukan organisasi,
 layanan, komunitas, dan pengalaman digital melalui
 kapabilitas platform bersama.
 
+### Sophistec Omnichannel
+
+`Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
+
+Operasional perdagangan terpadu yang menghubungkan kanal penjualan, marketplace,
+alur kerja, inventaris, pesanan, logistik, pembayaran, dan integrasi
+operasional.
+
 ### Sophistec Market Craft
 
 `Marketing` `Growth` `Campaigns` `Market Intelligence`
 
 Teknologi yang berfokus pada kebutuhan pasar untuk pertumbuhan brand, operasional kampanye,
 keterlibatan audiens, dan alur pemasaran berbasis data.
+
+### Sophistec Vendix
+
+`Mesin Penjual Otomatis` `Inventaris` `Pembayaran` `Telemetri`
+
+Platform mesin penjual otomatis terhubung untuk visibilitas inventaris, pembayaran digital, telemetri perangkat, alur pengisian ulang, dan pengelolaan operasional.
+
+### Sophistec Smart Rack
+
+`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+
+Kapabilitas smart-rack dan manajemen operasional untuk melacak aset,
+inventaris, ketersediaan, dan aktivitas operasional dunia nyata.
+
+### Sophistec Service Hub
+
+`Support` `Ticketing` `Customer Accounts` `Workflow`
+
+Infrastruktur dukungan dan manajemen layanan terpusat untuk interaksi pelanggan,
+alur layanan, dan dukungan produk.
+
+### Sophistec Medicore
+
+`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integrasi`
+
+Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek,
+laboratorium, dan radiologi, mencakup alur pasien, registrasi,
+janji temu, billing, apotek, laboratorium/radiologi, inventaris,
+pelaporan, dan integrasi layanan kesehatan.
 
 ### Sophistec Denticon
 
@@ -180,12 +192,12 @@ Operasional digital untuk praktik kedokteran gigi, mendukung perjalanan pasien,
 janji temu, administrasi klinis, alur layanan, dan
 manajemen praktik yang terhubung.
 
-### Sophistec Smart Rack
+### Sophistec Key Trust
 
-`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+`PUF` `FIDO2` `Device Identitas` `Authentication`
 
-Kapabilitas smart-rack dan manajemen operasional untuk melacak aset,
-inventaris, ketersediaan, dan aktivitas operasional dunia nyata.
+Identitas dan autentikasi perangkat berbasis hardware yang dirancang untuk
+memperkuat kepercayaan pada lapisan identitas.
 
 ### Sophistec Lumora
 
@@ -230,9 +242,9 @@ sekaligus memungkinkan setiap produk berkembang secara independen.
 
 ``` text
 Sophistec Engineering
-├── Produks        → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── Produks        → Optima Solutions · Aivora · Data Craft · C4C · Omnichannel · Market Craft · Vendix · Smart Rack · Service Hub · Medicore · Denticon · Key Trust · Lumora · Career Hub · Edu Pro · Edu Plus
 ├── Platform        → Identitas · Organization · Billing · Entitlements · Support
-├── Intelligence    → Agents · RAG · Automation · Data / ML
+├── Kecerdasan      → Agen · RAG · Otomasi · Data / ML
 ├── Shared Services → APIs · Integrasis · Components · Common Services
 └── Infrastructure  → CI/CD · Deployment · Observability · Keamanan
 ```
@@ -262,12 +274,14 @@ aksi dunia nyata yang terkontrol.
   <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integrasi</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identitas / Access</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Aivora</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Market Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">◐</td></tr>
     <tr><td><strong>Sophistec Data Craft</strong></td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Medicore</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Denticon</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Omnichannel</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
+    <tr><td><strong>Sophistec Vendix</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Smart Rack</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Service Hub</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec Key Trust</strong></td><td align="center">◐</td><td align="center">●</td><td align="center">—</td><td align="center">●</td><td align="center">●</td></tr>
@@ -291,7 +305,7 @@ aksi dunia nyata yang terkontrol.
 </p>
 
 ### Konstelasi Produk
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec Konstelasi Produk"></p>
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec Konstelasi Produk"></p>
 
 ### Kolaborasi Lintas Negara
 <p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Kolaborasi Lintas Negara"></p>
@@ -338,7 +352,7 @@ Diagram-diagram ini merangkum pendekatan Sophistec terhadap product engineering 
 ### Identitas SaaS & Entitlement
 <p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identitas Flow"></p>
 
-### Observability & Reliability
+### Observabilitas & Keandalan
 <p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="Observability Loop"></p>
 
 ### Keamanan by Design
@@ -619,30 +633,29 @@ Untuk melengkapi core stack di atas, peta kapabilitas engineering Sophistec juga
 ### Engineering Observability & Reliability
 
 Logging · metrics · monitoring · health check · alerting · tracing ·
-distributed tracing · error tracking · uptime monitoring · performance
-profiling · incident troubleshooting · graceful failure · retry
-strategies · resilience patterns.
+distributed tracing · pelacakan error · pemantauan uptime · profiling
+performa · penanganan insiden · graceful failure · strategi retry ·
+pola resilience.
 
 ### Keamanan Engineering
 
-Authentication · authorization · OAuth 2.0 · JWT · RBAC · ABAC · API
-keys · secrets management · TLS · encryption in transit · encryption at
-rest · audit logging · rate limiting · input validation · least
-privilege · secure API design · session security · security headers.
+Autentikasi · otorisasi · OAuth 2.0 · JWT · RBAC · ABAC · kunci API ·
+manajemen secret · TLS · enkripsi saat transit · enkripsi saat tersimpan ·
+audit logging · rate limiting · validasi input · least privilege · desain
+API yang aman · keamanan sesi · security header.
 
 ### Testing & Kualitas Engineering
 
-Unit testing · integration testing · API testing · end-to-end testing ·
-regression testing · automated CI validation · linting · static analysis
-· code review · staging environments · performance testing ·
-documentation · maintainable architecture.
+Pengujian unit · pengujian integrasi · pengujian API · pengujian end-to-end ·
+pengujian regresi · validasi CI otomatis · linting · analisis statis ·
+code review · lingkungan staging · pengujian performa · dokumentasi ·
+arsitektur yang mudah dipelihara.
 
 ### Platform Engineering
 
-Centralized identity · organizations · tenants · teams · roles ·
-permissions · SSO · product entitlements · subscription plans · billing
-· usage tracking · quotas · API keys · provisioning · audit trails ·
-multi-product account access.
+Identitas terpusat · organisasi · tenant · tim · peran · izin · SSO ·
+hak akses produk · paket langganan · billing · pelacakan penggunaan ·
+kuota · kunci API · provisioning · jejak audit · akses akun multiproduk.
 
 ### Cakupan Engineering Tambahan
 
@@ -683,9 +696,9 @@ multi-product account access.
     <tr><td><strong>SaaS &amp; Multi-Tenant Platforms</strong></td><td>Platform yang memahami konteks organisasi dengan identitas, RBAC, subscription, billing, usage, dan akses produk.</td></tr>
     <tr><td><strong>Machine Learning &amp; Data</strong></td><td>Pipeline data praktis, analitik, model prediktif, dan aplikasi cerdas.</td></tr>
     <tr><td><strong>Integrasi Enterprise</strong></td><td>Koneksi antara sistem internal, platform pihak ketiga, layanan pemerintahan, healthcare, commerce, dan provider AI.</td></tr>
+    <tr><td><strong>Cloud & Infrastruktur</strong></td><td>Deployment produksi, containerization, infrastruktur web, CI/CD, monitoring, dan reliability operasional.</td></tr>
   </tbody>
 </table>
-| **Cloud & Infrastruktur** | Deployment produksi, containerization, infrastruktur web, CI/CD, monitoring, dan reliability operasional. |
 
 ## Dari Ide Produk ke Produksi
 
@@ -705,7 +718,7 @@ produk, operasional, dan sistem bisnis yang saling terhubung.
 
 Kami percaya teknologi terbaik lahir dari sinergi antara
 **kreativitas manusia, pemikiran kritis, pemahaman domain, dan
-artificial intelligence**.
+kecerdasan buatan**.
 
 AI dapat mempercepat pengembangan, mengotomasi pekerjaan berulang, meningkatkan akses
 terhadap knowledge, dan membuka pengalaman produk yang benar-benar baru. Namun
@@ -817,14 +830,14 @@ Produk premium tidak hanya ditentukan oleh framework yang digunakan. Kami memper
 karakteristik operasional yang menentukan apakah perangkat lunak siap
 menjadi infrastruktur bagi sebuah bisnis.
 
-  Build          Operate               Protect             Evolve
+  Bangun         Operasikan            Lindungi            Kembangkan
   -------------- --------------------- ------------------- ------------------------
-  Arsitektur   Monitoring            Identitas & Access   Modular Design
-  APIs           Logging               Encryption          Versioning
-  Data Models    Metrics               Auditability        Automated Testing
-  Integrasis   Health Checks         Validation          CI/CD
-  Automation     Incident Visibility   Least Privilege     Documentation
-  AI Workflows   Performance           Secure Secrets      Continuous Improvement
+  Arsitektur     Pemantauan             Identitas & Akses   Desain Modular
+  API            Logging                Enkripsi            Versioning
+  Model Data     Metrik                 Kemampuan Audit     Pengujian Otomatis
+  Integrasi      Pemeriksaan Kesehatan  Validasi            CI/CD
+  Otomasi        Visibilitas Insiden    Hak Akses Minimum   Dokumentasi
+  Alur Kerja AI  Performa               Pengamanan Secret   Peningkatan Berkelanjutan
 
 ---
 
@@ -859,7 +872,7 @@ Desain contract-first · OpenAPI / Swagger · versioning · autentikasi dan erro
 
 Delivery engineering terhubung kembali pada pengguna dan hasil: memahami masalah, memvalidasi asumsi, melakukan release secara iteratif, mengamati penggunaan nyata, dan menggunakan evidence untuk mengarahkan peningkatan.
 
-### Incident Response & Reliability
+### Respons Insiden & Keandalan
 <p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Incident Response Loop"></p>
 
 Kematangan produksi mencakup deteksi, triage, containment, diagnosis, recovery, review, dan peningkatan preventif.
@@ -942,14 +955,14 @@ Framework kami menggunakan delapan pilar: **Nilai Produk, Arsitektur, Keamanan &
 <p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Platform Enterprise Sophistec"></p>
 
 ```text
-Sophistec Platform
-├── Identitas & Organization
-├── Billing & Entitlements
+Platform Sophistec
+├── Identitas & Organisasi
+├── Billing & Hak Akses
 ├── API & Integrasi
 ├── Data & Intelligence
-├── Automation & Notifications
+├── Otomasi & Notifikasi
 ├── Observability & Keamanan
-└── Developer Platform
+└── Platform Developer
 ```
 
 Kapabilitas bersama mendukung domain produk sekaligus memungkinkan setiap produk berkembang secara independen.
@@ -959,7 +972,7 @@ Kapabilitas bersama mendukung domain produk sekaligus memungkinkan setiap produk
 
 Model extension modular dapat memisahkan **product core, module, extension, connector, webhook, dan custom workflow**, sehingga kustomisasi enterprise menjadi lebih terkontrol dan mudah dipelihara.
 
-### Developer Platform
+### Platform Developer
 <p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="Developer Platform"></p>
 
 Arah developer platform mencakup **dokumentasi, referensi API, SDK, CLI tooling, sandbox environment, contoh, starter kit, changelog, informasi status, dan panduan integrasi**.
@@ -969,17 +982,17 @@ Arah developer platform mencakup **dokumentasi, referensi API, SDK, CLI tooling,
 
 Tooling yang berpotensi didukung mencakup SDK JavaScript, Python, Go, dan PHP serta Sophistec CLI. Semua ini merupakan **konsep roadmap**, bukan klaim bahwa saat ini sudah tersedia secara umum kecuali dipublikasikan secara terpisah.
 
-## Reliability, Continuity & SRE
+## Keandalan, Kontinuitas & SRE
 <p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Reliability and SRE Model"></p>
 
 Operasional enterprise mempertimbangkan **SLI, SLO, SLA, availability, latency, error rate, RTO, RPO, disaster recovery, verifikasi backup, failover, incident response, dan business continuity**.
 
-## Cost & Capacity Engineering
+## Engineering Biaya & Kapasitas
 <p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Cost and Capacity Engineering"></p>
 
 Engineering berorientasi FinOps menghubungkan **traffic, usage metering, capacity planning, cost allocation, biaya per tenant/produk, right-sizing, forecasting, dan optimasi**.
 
-## Sustainable Engineering
+## Engineering Berkelanjutan
 <p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Sustainable Engineering"></p>
 
 Keberlanjutan engineering mencakup efisiensi resource, right-sizing, penjadwalan workload, retensi data yang wajar, storage yang efisien, pengurangan compute yang tidak perlu, dan umur panjang arsitektur.
@@ -1050,7 +1063,7 @@ Sistem besar dapat direview berdasarkan **nilai produk, arsitektur, scalability,
 </table>
 
 
-## Enterprise Trust & Assurance
+## Kepercayaan & Assurance Enterprise
 
 Teknologi enterprise membutuhkan lebih dari sekadar banyak fitur. Trust model Sophistec menyatukan keamanan, privasi, reliability, governance, evidence compliance, dan transparansi.
 
