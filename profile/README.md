@@ -272,7 +272,7 @@ controlled real-world actions.
   </tbody>
 </table>
 
-<sub>● core/relevant capability · ◐ selective use or capability direction · — not a primary product focus. Update this map as implementations evolve.</sub>
+<sub>● core/relevant capability · ◐ selective use or capability direction · not a primary product focus. Update this map as implementations evolve.</sub>
 
 ## Engineering Standards
 
@@ -1130,7 +1130,6 @@ Recommended principles:
 <p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Deployment Models"></p>
 
 Depending on the product and customer requirements, architecture may support different deployment patterns:
-
 - **Multi-tenant SaaS**
 - **Dedicated / isolated environments**
 - **Private deployment**
@@ -1144,7 +1143,7 @@ Availability of a deployment model should be stated per product rather than assu
 
 <p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
 
-A mature release process connects development with testing, preview channels, general availability, production observation, maintenance, patching, and—where appropriate—long-term support.
+A mature release process connects development with testing, preview channels, general availability, production observation, maintenance, patching, and where appropriate long-term support.
 
 ## Integration Catalog
 
@@ -1175,13 +1174,13 @@ We connect **strategy, product thinking, engineering, data, AI, infrastructure, 
 
 ### What We Optimize For
 
-- **Clarity** — architecture and ownership should be understandable.
-- **Interoperability** — products should connect through well-defined interfaces.
-- **Reliability** — production behavior matters as much as feature delivery.
-- **Security** — identity, access, validation, and auditability belong in the design.
-- **Automation** — repetitive operational work should be reduced where practical.
-- **Intelligence** — AI should have trusted context, controlled tools, and measurable purpose.
-- **Evolution** — systems should support change without unnecessary rewrites.
+- **Clarity**: architecture and ownership should be understandable.
+- **Interoperability**: products should connect through well-defined interfaces.
+- **Reliability**: production behavior matters as much as feature delivery.
+- **Security**: identity, access, validation, and auditability belong in the design.
+- **Automation**: repetitive operational work should be reduced where practical.
+- **Intelligence**: AI should have trusted context, controlled tools, and measurable purpose.
+- **Evolution**: systems should support change without unnecessary rewrites.
 
 ## Build With Us
 

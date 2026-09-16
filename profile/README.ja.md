@@ -2,13 +2,11 @@
 
 # SOPHISTEC GLOBAL
 
-> Language edition: **ja**
-
 <p align="center">
   <strong>言語を選択</strong><br>
-  <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-6D28D9?style=for-the-badge" alt="English (current language)"></a>
+  <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-1D3557?style=for-the-badge" alt="English"></a>
   <a href="./README.id.md" title="Indonesia"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-1D3557?style=for-the-badge" alt="Indonesia"></a>
-  <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
+  <a href="./README.ja.md" title="日本語（現在の言語）"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-6D28D9?style=for-the-badge" alt="日本語（現在の言語）"></a>
   <a href="./README.ko.md" title="한국어"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-1D3557?style=for-the-badge" alt="한국어"></a>
   <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
   <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
@@ -16,93 +14,93 @@
   <a href="./README.zh-cn.md" title="简体中文"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-简体中文-1D3557?style=for-the-badge" alt="简体中文"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Strategy+%C2%B7+Technology+%C2%B7+Education+%C2%B7+Creativity+%C2%B7+Community;From+Market+Entry+to+Digital+Growth" alt="Sophistec Global animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=%E6%88%A6%E7%95%A5+%C2%B7+%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC+%C2%B7+%E6%95%99%E8%82%B2+%C2%B7+%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3+%C2%B7+%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3;%E5%B8%82%E5%A0%B4%E5%8F%82%E5%85%A5%E3%81%8B%E3%82%89%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%88%90%E9%95%B7%E3%81%BE%E3%81%A7" alt="Sophistec Global アニメーション紹介">
 
-<sub>Strategy · Software · SaaS · Creative Technology · Education · Community</sub>
+<sub>戦略 · ソフトウェア · SaaS · クリエイティブテクノロジー · 教育 · コミュニティ</sub>
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Explore Sophistec Global">
+  <img src="https://img.shields.io/badge/%E8%A9%B3%E3%81%97%E3%81%8F%E8%A6%8B%E3%82%8B-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Sophistec Global を詳しく見る">
 </a>
 <a href="https://github.com/sophistec-solutions" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub">
+  <img src="https://img.shields.io/badge/%E8%A9%B3%E3%81%97%E3%81%8F%E8%A6%8B%E3%82%8B-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub を詳しく見る">
 </a>
 <a href="https://bio.sophistec.global/bio-sophistec-global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-Our%20Ecosystem-00A99D?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Explore Our Ecosystem">
+  <img src="https://img.shields.io/badge/%E8%A9%B3%E3%81%97%E3%81%8F%E8%A6%8B%E3%82%8B-%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-00A99D?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="私たちのエコシステムを見る">
 </a>
 
 </div>
 
 ---
 
-## 人とビジネスの前進を支えるものをつくります。
+## 人とビジネスの前進を支えるものを、私たちはつくります。
 
-**Sophistec Global** is a multi-disciplinary ecosystem that brings together business strategy, software development, SaaS products, creative media, education, and communities.
+**Sophistec Global** は、ビジネス戦略、ソフトウェア開発、SaaS プロダクト、クリエイティブメディア、教育、コミュニティを結びつける、分野横断型のエコシステムです。
 
-We help founders, organizations, and communities turn ideas into practical solutions: from digital products and integrated operational systems to meaningful stories, learning platforms, and collaborative programs.
+私たちは、創業者、組織、コミュニティがアイデアを実用的なソリューションへ変えることを支援します。デジタルプロダクトや統合型業務システムから、意義あるストーリー、学習プラットフォーム、協働プログラムまで幅広く対応します。
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=18&amp;pause=850&amp;color=00A99D&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Strategy+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Launch+%E2%86%92+Grow" alt="Strategy to growth workflow">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=18&amp;pause=850&amp;color=00A99D&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%E6%88%A6%E7%95%A5+%E2%86%92+%E8%A8%AD%E8%A8%88+%E2%86%92+%E6%A7%8B%E7%AF%89+%E2%86%92+%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81+%E2%86%92+%E6%88%90%E9%95%B7" alt="戦略から成長までのワークフロー">
 </p>
 
 ## 企業・ブランド
 
-| Logo | Brand | What It Does | Explore |
+| ロゴ | ブランド | 主な提供内容 | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | Indonesia market-entry consulting, company incorporation, Employer of Record (EOR), local hiring support, investment facilitation, and cross-border business expansion. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | Custom software development, mobile apps, API integration, AI, automation, cloud, data, UI/UX, and tech teams. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | Learning, executive training, founder education, and knowledge-sharing programs. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | Creative technology, photography, videography, event documentation, and brand experiences. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | Strategic marketing, public relations, social media, brand growth, and community engagement. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | A platform and podcast exploring business, innovation, leadership, and impact. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | A lifestyle and discovery-focused platform under the Sophistec ecosystem. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | A community-focused lifestyle brand. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **Sophistec Global** | インドネシア市場参入コンサルティング、会社設立、Employer of Record（EOR）、現地採用支援、投資支援、越境ビジネス展開。 | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House ロゴ"> | **Sophistec Dev House** | カスタムソフトウェア開発、モバイルアプリ、API 統合、AI、自動化、クラウド、データ、UI/UX、技術チーム。 | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy ロゴ"> | **Sophistec Academy** | 学習、エグゼクティブ研修、創業者向け教育、ナレッジ共有プログラム。 | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio ロゴ"> | **Sophistec Studio** | クリエイティブテクノロジー、写真、映像制作、イベント記録、ブランド体験。 | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub ロゴ"> | **Sophistec Growth Hub** | 戦略的マーケティング、広報、ソーシャルメディア、ブランド成長、コミュニティエンゲージメント。 | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape ロゴ"> | **Founder Scape** | ビジネス、イノベーション、リーダーシップ、インパクトを探究するプラットフォーム兼ポッドキャスト。 | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk ロゴ"> | **DD Walk** | Sophistec エコシステム内の、ライフスタイルと発見にフォーカスしたプラットフォーム。 | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama ロゴ"> | **Chill Mama** | コミュニティを中心としたライフスタイルブランド。 | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
 ## デジタルプロダクト
 
-| Logo | Product | Focus | Explore |
+| ロゴ | プロダクト | フォーカス | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Business optimization and digital solutions for organizations. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | A dedicated platform within the Sophistec ecosystem. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Digital growth, marketing, and market-facing solutions. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Data-oriented solutions, analytics, and digital intelligence. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Connected healthcare management for hospitals, clinics, pharmacies, laboratories, and radiology. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Digital solutions for dental practices and oral-health operations. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Unified commerce operations with marketplace, logistics, payment, and sales-channel integration. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Smart operational and rack-management solutions. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Centralized support and service-management solutions. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication, designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | A modern photobooth platform for on-site photo experiences, roaming or mingle photography, branded event frames, instant sharing, and virtual greetings. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | Professional education and learning solutions. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | Accessible education and learning solutions for wider communities. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions ロゴ"> | **Sophistec Optima Solutions** | 組織向けの業務最適化とデジタルソリューション。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C ロゴ"> | **Sophistec C4C** | Sophistec エコシステム内の専用プラットフォーム。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft ロゴ"> | **Sophistec Market Craft** | デジタル成長、マーケティング、市場接点に向けたソリューション。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft ロゴ"> | **Sophistec Data Craft** | データ指向のソリューション、アナリティクス、デジタルインテリジェンス。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore ロゴ"> | **Sophistec Medicore** | 病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon ロゴ"> | **Sophistec Denticon** | 歯科診療所および口腔医療業務向けのデジタルソリューション。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel ロゴ"> | **Sophistec Omnichannel** | マーケットプレイス、物流、決済、販売チャネルを統合する統一コマース運用。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack ロゴ"> | **Sophistec Smart Rack** | スマートな業務運用およびラック管理ソリューション。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub ロゴ"> | **Sophistec Service Hub** | 集中型のサポートおよびサービス管理ソリューション。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust ロゴ"> | **Sophistec Key Trust** | **Physical Unclonable Function（PUF）** 技術と **FIDO2** 認証を用いたハードウェアルートのデバイスID・セキュリティにより、IDを根本から保護します。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora ロゴ"> | **Sophistec Lumora** | 会場での撮影体験、ローミング／ミングル撮影、ブランド入りイベントフレーム、即時共有、バーチャルメッセージに対応するモダンなフォトブースプラットフォーム。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub ロゴ"> | **Sophistec Career Hub** | キャリアおよび人材育成プラットフォーム。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro ロゴ"> | **Sophistec Edu Pro** | プロフェッショナル向け教育・学習ソリューション。 | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus ロゴ"> | **Sophistec Edu Plus** | より幅広いコミュニティに向けた、アクセスしやすい教育・学習ソリューション。 | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
 ## コミュニティ
 
-| Logo | Community | Purpose | Explore |
+| ロゴ | コミュニティ | 目的 | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | A community for people who explore, document, and experience the world through visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | A photography community that creates opportunities to learn, connect, and explore together. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | A global innovation community and local program connecting people who use open data to solve real-world challenges. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens ロゴ"> | **Sophistec Wander Lens** | ビジュアルストーリーテリングを通じて世界を探索し、記録し、体験する人々のためのコミュニティ。 | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk ロゴ"> | **Sophistec Photo Walk** | 共に学び、つながり、探索する機会を生み出す写真コミュニティ。 | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **NASA Space Apps Challenge Indonesia** | オープンデータを活用して現実の課題を解決する人々をつなぐ、グローバルなイノベーションコミュニティと地域プログラム。 | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
-## ひとつのエコシステム、エンドツーエンドの支援
+## 1つのエコシステムで、エンドツーエンドの支援
 
-Sophistec brings business strategy, technology, creativity, growth, education, and community together in one connected ecosystem.
+Sophistec は、ビジネス戦略、テクノロジー、クリエイティビティ、成長、教育、コミュニティを、1つのつながったエコシステムに統合します。
 
-Whether you are entering the Indonesian market, establishing a local presence, building a digital product, launching a brand, producing content, or growing your audience, our companies and brands can support every stage of the journey.
+インドネシア市場への参入、現地拠点の設立、デジタルプロダクトの構築、ブランドの立ち上げ、コンテンツ制作、オーディエンス拡大など、どの段階でも私たちの企業・ブランドが支援できます。
 
 <div align="center">
 
-### Our End-to-End Journey
+### エンドツーエンドのジャーニー
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=650&color=0B5FFF&center=true&vCenter=true&width=900&lines=Discover+%E2%86%92+Strategy+%E2%86%92+Design+%E2%86%92+Build;Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Deploy;Deploy+%E2%86%92+Measure+%E2%86%92+Learn+%E2%86%92+Scale;Enter+a+Market+%E2%86%92+Establish+%E2%86%92+Build+%E2%86%92+Launch+%E2%86%92+Grow" alt="Sophistec animated end-to-end workflow">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=650&color=0B5FFF&center=true&vCenter=true&width=900&lines=%E7%99%BA%E8%A6%8B+%E2%86%92+%E6%88%A6%E7%95%A5+%E2%86%92+%E8%A8%AD%E8%A8%88+%E2%86%92+%E6%A7%8B%E7%AF%89;%E6%A7%8B%E7%AF%89+%E2%86%92+%E7%B5%B1%E5%90%88+%E2%86%92+%E8%87%AA%E5%8B%95%E5%8C%96+%E2%86%92+%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4;%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4+%E2%86%92+%E8%A8%88%E6%B8%AC+%E2%86%92+%E5%AD%A6%E7%BF%92+%E2%86%92+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB;%E5%B8%82%E5%A0%B4%E5%8F%82%E5%85%A5+%E2%86%92+%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89+%E2%86%92+%E6%A7%8B%E7%AF%89+%E2%86%92+%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81+%E2%86%92+%E6%88%90%E9%95%B7" alt="Sophistec エンドツーエンドワークフロー">
 
 </div>
 
-- **Enter & Establish**: Sophistec Global supports Indonesia market entry, company incorporation, Employer of Record (EOR), local hiring, investment facilitation, and cross-border expansion.
-- **Build & Scale**: Sophistec Dev House develops custom software, SaaS platforms, websites, mobile apps, API integrations, AI solutions, automation, and cloud systems.
-- **Learn & Connect**: Sophistec Academy, Founder Scape, and our communities create opportunities for education, collaboration, knowledge-sharing, and founder growth.
-- **Innovate & Inspire**: Sophistec Studio produces photography, videography, podcasts, event documentation, creative content, and photobooth experiences through Sophistec Lumora.
-- **Launch & Grow**: Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
+- **参入・基盤構築**: Sophistec Global は、インドネシア市場参入、会社設立、Employer of Record（EOR）、現地採用、投資支援、越境展開を支援します。
+- **構築・スケール**: Sophistec Dev House は、カスタムソフトウェア、SaaS プラットフォーム、Webサイト、モバイルアプリ、API 統合、AI ソリューション、自動化、クラウドシステムを開発します。
+- **学び・つながる**: Sophistec Academy、Founder Scape、各コミュニティは、教育、協働、知識共有、創業者の成長機会を提供します。
+- **革新・発信**: Sophistec Studio は、写真、映像、ポッドキャスト、イベント記録、クリエイティブコンテンツ、Sophistec Lumora を通じたフォトブース体験を提供します。
+- **ローンチ・成長**: Sophistec Growth Hub は、ブランド戦略、マーケティング、ソーシャルメディア、KOL キャンペーン、有料広告、広報、コミュニティ成長を支援します。
 
 
 
@@ -110,152 +108,152 @@ Whether you are entering the Indonesian market, establishing a local presence, b
 
 ### Sophistec Medicore
 
-`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integration`
+`ヘルスケア SaaS` `EMR` `SATUSEHAT` `BPJS` `API 統合`
 
-Connected healthcare management for hospitals, clinics, pharmacies,
-laboratories, and radiology, spanning patient workflows, registration,
-appointments, billing, pharmacy, laboratory/radiology, inventory,
-reporting, and healthcare integrations.
+病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理を提供し、
+患者ワークフロー、受付、予約、請求、薬局、検査／放射線、在庫、
+レポーティング、医療システム連携まで幅広くカバーします。
+
 
 ### Sophistec Omnichannel
 
-`Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
+`コマース` `マーケットプレイス API` `物流` `決済` `自動化`
 
-Unified commerce operations connecting sales channels, marketplace
-workflows, inventory, orders, logistics, payments, and operational
-integration.
+販売チャネル、マーケットプレイスのワークフロー、在庫、注文、物流、
+決済、業務連携を接続する統一型コマース運用。
+
 
 ### Sophistec Service Hub
 
-`Support` `Ticketing` `Customer Accounts` `Workflow`
+`サポート` `チケット管理` `顧客アカウント` `ワークフロー`
 
-Centralized support and service-management infrastructure for customer
-interactions, service workflows, and product support.
+顧客とのやり取り、サービスワークフロー、プロダクトサポートを支える、
+集中型のサポート／サービス管理基盤。
 
 ### Sophistec Key Trust
 
-`PUF` `FIDO2` `Device Identity` `Authentication`
+`PUF` `FIDO2` `デバイスID` `認証`
 
-Hardware-rooted device identity and authentication designed to
-strengthen trust at the identity layer.
+IDレイヤーの信頼性を高めるために設計された、ハードウェアルートの
+デバイスIDと認証。
 
 ### Sophistec Data Craft
 
-`Data` `Analytics` `Intelligence` `Integration`
+`データ` `分析` `インテリジェンス` `統合`
 
-Data-oriented systems for analytics, connected intelligence, and
-decision support.
+分析、接続されたインテリジェンス、意思決定支援のための
+データ指向システム。
 
 ### Sophistec Optima Solutions
 
-`Business Optimization` `Digital Solutions` `Workflow` `Automation`
+`業務最適化` `デジタルソリューション` `ワークフロー` `自動化`
 
-Business optimization and digital-solution capabilities that connect
-operational needs with practical software, process improvement, and
-measurable outcomes.
+業務ニーズを実用的なソフトウェア、プロセス改善、
+測定可能な成果へつなぐ、業務最適化・デジタルソリューション機能。
+
 
 ### Sophistec C4C
 
-`Connected Ecosystem` `Platform` `Community` `Integration`
+`接続型エコシステム` `プラットフォーム` `コミュニティ` `統合`
 
-A connected ecosystem platform designed to bring organizations,
-services, communities, and digital experiences together through shared
-platform capabilities.
+組織、サービス、コミュニティ、デジタル体験を、共有プラットフォーム機能で
+結びつけるために設計された接続型エコシステムプラットフォーム。
+
 
 ### Sophistec Market Craft
 
-`Marketing` `Growth` `Campaigns` `Market Intelligence`
+`マーケティング` `成長` `キャンペーン` `市場インテリジェンス`
 
-Market-facing technology for brand growth, campaign operations,
-audience engagement, and data-informed marketing workflows.
+ブランド成長、キャンペーン運用、オーディエンスエンゲージメント、
+データに基づくマーケティングワークフローのための市場接点テクノロジー。
 
 ### Sophistec Denticon
 
-`Dental Operations` `Patient Workflow` `Appointments` `Healthcare`
+`歯科業務` `患者ワークフロー` `予約` `ヘルスケア`
 
-Digital operations for dental practices, supporting patient journeys,
-appointments, clinical administration, service workflows, and connected
-practice management.
+患者ジャーニー、予約、臨床管理、サービスワークフロー、
+接続型の診療所管理を支える歯科向けデジタル業務。
+
 
 ### Sophistec Smart Rack
 
-`Smart Operations` `Asset Management` `Inventory` `Monitoring`
+`スマート運用` `資産管理` `在庫` `モニタリング`
 
-Smart-rack and operational-management capabilities for tracking assets,
-inventory, availability, and real-world operational activity.
+資産、在庫、利用可能性、現場の業務活動を追跡するための
+スマートラック／業務管理機能。
 
 ### Sophistec Lumora
 
-`Photobooth` `Creative Experience` `Events` `Media`
+`フォトブース` `クリエイティブ体験` `イベント` `メディア`
 
-Modern photobooth and creative-media experiences for events, campaigns,
-communities, and memorable audience engagement.
+イベント、キャンペーン、コミュニティ、印象に残るオーディエンス体験のための
+モダンなフォトブースとクリエイティブメディア体験。
 
 ### Sophistec Career Hub
 
-`Career Platform` `Talent` `Development` `Community`
+`キャリアプラットフォーム` `人材` `育成` `コミュニティ`
 
-A career and talent-development platform connecting people with
-learning, professional opportunities, community, and pathways for
-growth.
+学習、プロフェッショナルな機会、コミュニティ、成長への道筋をつなぐ
+キャリア・人材育成プラットフォーム。
+
 
 ### Sophistec Edu Pro
 
-`Professional Learning` `Education` `Courses` `Skills`
+`プロフェッショナル学習` `教育` `コース` `スキル`
 
-Professional learning solutions designed to support structured skills
-development, practical education, and continuous career advancement.
+体系的なスキル開発、実践的な教育、継続的なキャリア成長を支える
+プロフェッショナル向け学習ソリューション。
 
 ### Sophistec Edu Plus
 
-`Community Education` `Accessible Learning` `Knowledge` `Development`
+`コミュニティ教育` `アクセシブルな学習` `知識` `成長`
 
-Accessible community-education experiences that broaden access to
-knowledge, practical learning, and personal development.
+知識、実践的な学習、個人の成長へのアクセスを広げる
+コミュニティ向けの学習体験。
 
-## プラットフォーム＆エコシステム・アーキテクチャ
+## プラットフォーム & エコシステムアーキテクチャ
 
-Sophistec's platform direction connects identity, organizations,
-billing, product access, intelligence, integrations, and infrastructure
-while allowing individual products to evolve independently.
+Sophistec のプラットフォーム方針は、ID、組織、課金、プロダクトアクセス、
+インテリジェンス、統合、インフラストラクチャを接続しながら、
+各プロダクトが独立して進化できる構造を目指します。
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
+<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 接続型プラットフォームアーキテクチャ">
 </p>
-### Engineering Domain Map
+### エンジニアリングドメインマップ
 
 ``` text
 Sophistec Engineering
-├── Products        → Medicore · Omnichannel · Service Hub · Data Craft · ...
-├── Platform        → Identity · Organization · Billing · Entitlements · Support
-├── Intelligence    → Agents · RAG · Automation · Data / ML
-├── Shared Services → APIs · Integrations · Components · Common Services
-└── Infrastructure  → CI/CD · Deployment · Observability · Security
+├── プロダクト        → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── プラットフォーム  → ID · 組織 · 課金 · エンタイトルメント · サポート
+├── インテリジェンス  → エージェント · RAG · 自動化 · データ / ML
+├── 共通サービス      → API · 統合 · コンポーネント · 共通サービス
+└── インフラ          → CI/CD · デプロイ · 可観測性 · セキュリティ
 ```
 
-## Sophistec Intelligence Layer
+## Sophistec インテリジェンスレイヤー
 
-AI is treated as an intelligence layer connected to products and
-operations---not simply as a chatbot feature.
-
-<p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec Intelligence Layer">
-</p>
-LLMs, agents, RAG, memory, tools, MCP, APIs, permissions, and business
-logic can work together to retrieve trusted context and support
-controlled real-world actions.
-
-## Animated Engineering Workflow
+AI は単なるチャットボット機能ではなく、プロダクトや業務に接続された
+インテリジェンスレイヤーとして扱います。
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec animated engineering workflow">
+<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec インテリジェンスレイヤー">
+</p>
+LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、ビジネスロジックを
+連携させることで、信頼できるコンテキストを取得し、制御された現実世界の
+アクションを支援できます。
+
+## アニメーション付きエンジニアリングワークフロー
+
+<p align="center">
+<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec エンジニアリングワークフロー">
 </p>
 
-## Product × Engineering Capability Map
+## プロダクト × エンジニアリング機能マップ
 
 <table width="1200" cellspacing="0" cellpadding="6">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
-  <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integration</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identity / Access</th></tr></thead>
+  <thead><tr><th width="336">プラットフォーム</th><th width="120">SaaS</th><th width="216">API / 統合</th><th width="144">AI / データ</th><th width="168">自動化</th><th width="216">ID / アクセス</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
@@ -274,82 +272,82 @@ controlled real-world actions.
   </tbody>
 </table>
 
-<sub>● core/relevant capability · ◐ selective use or capability direction · — not a primary product focus. Update this map as implementations evolve.</sub>
+<sub>● コア／関連機能 · ◐ 選択的利用または今後の機能方向性 · 主なプロダクトフォーカスではない領域。実装の進化に合わせてこのマップを更新します。</sub>
 
 ## エンジニアリング標準
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="エンジニアリング標準 table covering Build, Operate, Protect, and Evolve"></p>
+<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="構築・運用・保護・進化を扱うエンジニアリング標準表"></p>
 
-## Sophistec Visual System
-
-<p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec Technology Ecosystem">
-</p>
-
-### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec Product Constellation"></p>
-
-### Cross-Border Collaboration
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
-
-### Request Lifecycle
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Request to Production Lifecycle"></p>
-
-### Agentic Execution
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Agentic Execution Loop"></p>
-
-### Data to Intelligence
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Data Intelligence Lifecycle"></p>
-
-### Engineering Principles
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="Engineering Principles"></p>
-
-### Capability System
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="Engineering Capability System"></p>
-
-## Premium Engineering Visuals
-
-These diagrams summarize how Sophistec approaches product engineering as connected systems rather than isolated technologies.
-
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Engineering Journey"></p>
-
-### Connected Platform
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Connected Platform Architecture"></p>
-
-### Microservices & Distributed Systems
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices Architecture"></p>
-
-### AI-Native Intelligence
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI Intelligence Layer"></p>
-
-### Enterprise RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Enterprise RAG Pipeline"></p>
-
-### CI/CD & Production Delivery
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI CD Pipeline"></p>
-
-### Enterprise Integration
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Integration Ecosystem"></p>
-
-### SaaS Identity & Entitlements
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identity Flow"></p>
-
-### Observability & Reliability
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="Observability Loop"></p>
-
-### Security by Design
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="Security by Design"></p>
-
-## テクノロジー＆エンジニアリング能力
-
-Sophistec combines product thinking, software engineering, artificial
-intelligence, data, infrastructure, and system integration to build
-practical digital products from end to end.
+## Sophistec ビジュアルシステム
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Data+%E2%86%92+AI+%E2%86%92+Infrastructure;Design+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Scale" alt="Sophistec technology workflow">
+  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec テクノロジーエコシステム">
 </p>
-### Frontend Development
+
+### プロダクト・コンステレーション
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec プロダクト・コンステレーション"></p>
+
+### 越境コラボレーション
+<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 越境コラボレーション"></p>
+
+### リクエストライフサイクル
+<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="リクエストから本番までのライフサイクル"></p>
+
+### エージェント実行
+<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="エージェント実行ループ"></p>
+
+### データからインテリジェンスへ
+<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="データ・インテリジェンスライフサイクル"></p>
+
+### エンジニアリング原則
+<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="エンジニアリング原則"></p>
+
+### 機能体系
+<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="エンジニアリング機能体系"></p>
+
+## プレミアム・エンジニアリングビジュアル
+
+これらの図は、Sophistec がプロダクトエンジニアリングを孤立した技術ではなく、接続されたシステムとして捉える方法をまとめたものです。
+
+<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="エンジニアリングジャーニー"></p>
+
+### 接続型プラットフォーム
+<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="接続型プラットフォームアーキテクチャ"></p>
+
+### マイクロサービス & 分散システム
+<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="マイクロサービスアーキテクチャ"></p>
+
+### AIネイティブ・インテリジェンス
+<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI インテリジェンスレイヤー"></p>
+
+### エンタープライズ RAG
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="エンタープライズ RAG パイプライン"></p>
+
+### CI/CD & 本番デリバリー
+<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD パイプライン"></p>
+
+### エンタープライズ統合
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="統合エコシステム"></p>
+
+### SaaS ID & エンタイトルメント
+<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS ID フロー"></p>
+
+### 可観測性 & 信頼性
+<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="可観測性ループ"></p>
+
+### セキュリティ・バイ・デザイン
+<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="セキュリティ・バイ・デザイン"></p>
+
+## テクノロジー & エンジニアリング機能
+
+Sophistec は、プロダクト思考、ソフトウェアエンジニアリング、AI、
+データ、インフラストラクチャ、システム統合を組み合わせ、
+実用的なデジタルプロダクトをエンドツーエンドで構築します。
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89+%E2%86%92+%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89+%E2%86%92+%E3%83%87%E3%83%BC%E3%82%BF+%E2%86%92+AI+%E2%86%92+%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9;%E8%A8%AD%E8%A8%88+%E2%86%92+%E6%A7%8B%E7%AF%89+%E2%86%92+%E7%B5%B1%E5%90%88+%E2%86%92+%E8%87%AA%E5%8B%95%E5%8C%96+%E2%86%92+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB" alt="Sophistec テクノロジーワークフロー">
+</p>
+### フロントエンド開発
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -365,9 +363,9 @@ practical digital products from end to end.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-We build SPA, SSR, and SSG experiences for responsive web applications, SaaS interfaces, management dashboards, admin panels, and customer portals. Our frontend work covers reusable component architecture, state management, design systems, authentication flows, API-first and real-time integration, accessibility, and performance optimization.
+レスポンシブWebアプリケーション、SaaS インターフェース、管理ダッシュボード、管理者パネル、顧客ポータル向けに SPA、SSR、SSG の体験を構築します。フロントエンドでは、再利用可能なコンポーネント設計、状態管理、デザインシステム、認証フロー、APIファースト／リアルタイム統合、アクセシビリティ、パフォーマンス最適化を扱います。
 
-### Backend & API Engineering
+### バックエンド & API エンジニアリング
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -384,9 +382,9 @@ We build SPA, SSR, and SSG experiences for responsive web applications, SaaS int
   <img src="https://img.shields.io/badge/Webhooks-2C5BB4?style=flat-square&logo=webhook&logoColor=white" alt="Webhooks">
 </p>
 
-Our backend work includes Go services, REST, GraphQL, gRPC, WebSockets, authentication and authorization with OAuth 2.0, JWT, and RBAC/ABAC, plus business logic, API gateways, service-to-service communication, background jobs, queues, workers, scheduled tasks, event processing, webhooks, notifications, audit trails, versioning, idempotency, rate limiting, caching, and third-party integrations.
+バックエンドでは、Go サービス、REST、GraphQL、gRPC、WebSocket、OAuth 2.0・JWT・RBAC/ABAC による認証／認可、ビジネスロジック、API Gateway、サービス間通信、バックグラウンドジョブ、キュー、ワーカー、スケジュールタスク、イベント処理、Webhook、通知、監査証跡、バージョニング、冪等性、レート制限、キャッシュ、サードパーティ統合などを扱います。
 
-### AI, LLM & Intelligent Systems
+### AI・LLM・インテリジェントシステム
 
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI">
@@ -398,41 +396,41 @@ Our backend work includes Go services, REST, GraphQL, gRPC, WebSockets, authenti
 <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1D3557?style=flat-square" alt="MCP">
 <img src="https://img.shields.io/badge/AI-Automation-00A99D?style=flat-square" alt="AI Automation">
 </p>
-We explore and build AI-powered systems around:
+私たちは、以下の領域を中心に AI を活用したシステムを研究・構築しています。
 
--   **Large Language Models (LLMs)** and generative AI applications
--   **AI Agents** that can reason across tools, APIs, databases, and
-    workflows
--   **Multi-Agent Systems** and agent orchestration
--   **Retrieval-Augmented Generation (RAG)** for grounded,
-    knowledge-aware applications
--   **Agentic RAG** for multi-step retrieval, reasoning, and tool
-    execution
--   **Embeddings, Vector Search & Semantic Search**
+-   **Large Language Models（LLM）** と生成AIアプリケーション
+-   ツール、API、データベース、ワークフローを横断して推論できる **AIエージェント**
+
+-   **マルチエージェントシステム** とエージェントオーケストレーション
+-   信頼できる根拠に基づくナレッジ対応アプリケーションのための **Retrieval-Augmented Generation（RAG）**
+
+-   複数ステップの検索、推論、ツール実行を行う **Agentic RAG**
+
+-   **Embeddings、ベクトル検索、セマンティック検索**
 -   **Function Calling & Tool Calling**
--   **Prompt Engineering & Context Engineering**
--   **Model Context Protocol (MCP)**
--   **Knowledge Base Systems & Document Intelligence**
--   **AI Workflow & Business Process Automation**
--   **Human-in-the-Loop AI Systems**
+-   **プロンプトエンジニアリング & コンテキストエンジニアリング**
+-   **Model Context Protocol（MCP）**
+-   **ナレッジベースシステム & ドキュメントインテリジェンス**
+-   **AI ワークフロー & ビジネスプロセス自動化**
+-   **Human-in-the-Loop AI システム**
 
-A typical intelligent application can connect models with private
-knowledge and operational tools:
+一般的なインテリジェントアプリケーションでは、モデルをプライベートな
+知識や業務ツールと接続できます。
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識と業務ツールに接続するインテリジェントアプリケーションアーキテクチャ"></p>
 
-### RAG & Enterprise Knowledge Systems
+### RAG & エンタープライズナレッジシステム
 
-Our RAG-oriented architecture can include:
+RAG 指向のアーキテクチャには、次の要素を含めることができます。
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="ナレッジソースから根拠付き応答・アクションまでのエンタープライズ RAG パイプライン"></p>
 
-Key areas include document processing, chunking strategies, metadata,
-embeddings, vector databases, semantic retrieval, hybrid search,
-re-ranking, context construction, grounded generation, citations, and
-enterprise knowledge integration.
+主な領域には、ドキュメント処理、チャンク戦略、メタデータ、Embedding、
+ベクトルデータベース、セマンティック検索、ハイブリッド検索、再ランキング、
+コンテキスト構築、根拠付き生成、引用、エンタープライズナレッジ統合が含まれます。
 
-### Machine Learning & Data
+
+### 機械学習 & データ
 
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
@@ -441,24 +439,24 @@ enterprise knowledge integration.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
-Our data and machine-learning capabilities cover data preparation,
-analysis, visualization, feature engineering, classification,
-regression, clustering, predictive workflows, ML pipelines, model
-evaluation, and computer-vision-oriented applications.
+データおよび機械学習の機能には、データ準備、分析、可視化、特徴量エンジニアリング、
+分類、回帰、クラスタリング、予測ワークフロー、ML パイプライン、
+モデル評価、コンピュータビジョン関連アプリケーションが含まれます。
 
-### Databases, Cache, Search & Data Infrastructure
+
+### データベース・キャッシュ・検索・データ基盤
 
 <p>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Vector_Search-6D28D9?style=flat-square">
 </p>
-**Extended data capabilities:** relational modeling · indexing ·
-transactions · migrations · query optimization · caching · full-text
-search · search indexes · vector storage · semantic retrieval ·
-backup/recovery strategies · data integrity.
+**拡張データ機能:** リレーショナルモデリング · インデックス ·
+トランザクション · マイグレーション · クエリ最適化 · キャッシュ · 全文検索 ·
+検索インデックス · ベクトル保存 · セマンティック検索 · バックアップ／復旧戦略 ·
+データ整合性。
 
-### Databases & Data Infrastructure
+### データベース & データ基盤
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -466,13 +464,13 @@ backup/recovery strategies · data integrity.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
-<img src="https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat-square" alt="Vector Databases">
+<img src="https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat-square" alt="ベクトルデータベース">
 </p>
-We work with relational data modeling, schema design, indexing, query
-optimization, caching, transactions, data integrity, migrations, vector
-storage, and semantic retrieval infrastructure.
+リレーショナルデータモデリング、スキーマ設計、インデックス、クエリ最適化、
+キャッシュ、トランザクション、データ整合性、マイグレーション、ベクトル保存、
+セマンティック検索基盤を扱います。
 
-### Microservices, Distributed Systems & Event-Driven Architecture
+### マイクロサービス・分散システム・イベント駆動アーキテクチャ
 
 <p>
 <img src="https://img.shields.io/badge/Microservices-Architecture-0B5FFF?style=flat-square">
@@ -482,93 +480,93 @@ storage, and semantic retrieval infrastructure.
 <img src="https://img.shields.io/badge/Modular_Monolith-Architecture-00A99D?style=flat-square">
 <img src="https://img.shields.io/badge/Multi--Tenant-SaaS-457B9D?style=flat-square">
 </p>
-Sophistec designs architecture according to product scale and
-operational requirements, including:
+Sophistec は、プロダクト規模と業務要件に応じてアーキテクチャを設計します。
+主な選択肢は次のとおりです。
 
--   Monolithic and modular-monolith architecture
--   Microservices and service-oriented architecture
--   Distributed systems
--   API-first architecture
--   Event-driven architecture
--   Domain-oriented service boundaries
--   API Gateway / Backend-for-Frontend patterns
--   Service-to-service communication
--   Asynchronous processing
--   Horizontal scaling and load balancing
--   Fault isolation, retries, timeouts and resilience patterns
--   Eventual consistency where appropriate
--   Observability and distributed tracing
+-   モノリスおよびモジュラーモノリスアーキテクチャ
+-   マイクロサービスおよびサービス指向アーキテクチャ
+-   分散システム
+-   APIファーストアーキテクチャ
+-   イベント駆動アーキテクチャ
+-   ドメイン指向のサービス境界
+-   API Gateway / Backend-for-Frontend パターン
+-   サービス間通信
+-   非同期処理
+-   水平スケーリングとロードバランシング
+-   障害分離、リトライ、タイムアウト、レジリエンスパターン
+-   必要に応じた結果整合性
+-   可観測性と分散トレーシング
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
+<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="クライアントから API Gateway、ドメインサービス、イベント、ワーカー、自動化、データ処理へつながるマイクロサービスアーキテクチャ"></p>
 
-### Messaging, Queues & Event Processing
+### メッセージング・キュー・イベント処理
 
 <p>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 </p>
-Message queues · publish/subscribe · background workers · asynchronous
-jobs · event consumers · retry/dead-letter strategies · notification
-pipelines · scheduled processing · data synchronization.
+メッセージキュー · Publish/Subscribe · バックグラウンドワーカー · 非同期ジョブ ·
+イベントコンシューマー · リトライ／デッドレター戦略 · 通知パイプライン ·
+スケジュール処理 · データ同期。
 
-### SaaS & Software Architecture
+### SaaS & ソフトウェアアーキテクチャ
 
-Our engineering approach covers architecture beyond individual
-applications:
+私たちのエンジニアリングアプローチは、個別アプリケーションを超えた
+アーキテクチャ領域も対象とします。
 
--   SaaS & multi-tenant platforms
--   Modular monoliths and service-oriented systems
--   Microservices where appropriate
--   API-first architecture
--   Event-driven workflows
--   Centralized identity and account systems
--   Organization and tenant management
+-   SaaS & マルチテナントプラットフォーム
+-   モジュラーモノリスとサービス指向システム
+-   必要に応じたマイクロサービス
+-   APIファーストアーキテクチャ
+-   イベント駆動ワークフロー
+-   集中型ID・アカウントシステム
+-   組織・テナント管理
 -   SSO, OAuth, JWT & RBAC
--   Product entitlements and access control
--   Subscription, billing & usage architecture
--   Audit logging
--   Webhooks and integration layers
--   Scalable product and service architecture
+-   プロダクトエンタイトルメントとアクセス制御
+-   サブスクリプション・課金・利用量アーキテクチャ
+-   監査ログ
+-   Webhook と統合レイヤー
+-   スケーラブルなプロダクト／サービスアーキテクチャ
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
+  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="ユーザー、ID、テナント、権限、エンタイトルメント、課金、利用量、監査、プロダクトを接続する SaaS 組織アーキテクチャ">
 </p>
 
-### Integration Engineering
+### 統合エンジニアリング
 
-Sophistec builds software that connects with wider digital ecosystems.
+Sophistec は、より広いデジタルエコシステムと接続するソフトウェアを構築します。
 
-Integration areas can include:
+主な統合対象には次が含まれます。
 
 -   REST APIs
 -   Webhooks
--   Authentication providers
--   Payment gateways
--   Marketplace platforms
--   Logistics providers
--   Communication services
--   Healthcare systems
--   Government systems
--   AI providers
--   External SaaS platforms
--   Internal enterprise systems
+-   認証プロバイダー
+-   決済ゲートウェイ
+-   マーケットプレイスプラットフォーム
+-   物流プロバイダー
+-   コミュニケーションサービス
+-   医療システム
+-   政府系システム
+-   AI プロバイダー
+-   外部 SaaS プラットフォーム
+-   社内エンタープライズシステム
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, AI providers, and third-party SaaS"></p>
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="アプリケーションを社内サービス、外部API、決済、マーケットプレイス、物流、政府・医療システム、AIプロバイダー、外部SaaSへ接続するエンタープライズ統合アーキテクチャ"></p>
 
-### DevOps, Cloud, Containers & Infrastructure
+### DevOps・クラウド・コンテナ・インフラストラクチャ
 
 <p>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/CI%2FCD-Automation-0B5FFF?style=flat-square">
 </p>
-**Extended infrastructure capabilities:** containerization ·
-orchestration · reverse proxy · load balancing · deployment automation ·
-environment management · horizontal scaling · backups · health checks ·
-production monitoring.
+**拡張インフラ機能:** コンテナ化 ·
+オーケストレーション · リバースプロキシ · ロードバランシング · デプロイ自動化 ·
+環境管理 · 水平スケーリング · バックアップ · ヘルスチェック ·
+本番モニタリング。
 
-### DevOps, Cloud & Infrastructure
+### DevOps・クラウド & インフラストラクチャ
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -578,16 +576,16 @@ production monitoring.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
-Infrastructure capabilities include Linux environments, Docker, Nginx,
-reverse proxies, SSL/TLS, DNS, Git-based workflows, CI/CD, process
-management, deployment, logging, monitoring, and production
-troubleshooting.
+インフラ機能には、Linux 環境、Docker、Nginx、リバースプロキシ、SSL/TLS、DNS、
+Git ベースのワークフロー、CI/CD、プロセス管理、デプロイ、ログ、モニタリング、
+本番環境のトラブルシューティングが含まれます。
+
 
 ---
 
-### Additional Modern Engineering Capabilities
+### その他のモダンエンジニアリング機能
 
-To complement the core stack above, Sophistec's engineering capability map also covers several important production-system areas:
+上記のコアスタックを補完するため、Sophistec のエンジニアリング機能マップでは、本番システムに重要な以下の領域も扱います。
 
 <p>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
@@ -597,200 +595,200 @@ To complement the core stack above, Sophistec's engineering capability map also 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="Object Storage">
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="オブジェクトストレージ">
 </p>
 
-- **API Contracts & Developer Experience:** OpenAPI / Swagger, API schemas, versioning, SDK-oriented interfaces, API documentation, contract validation, and Postman-based API workflows.
-- **Infrastructure as Code:** declarative infrastructure and repeatable environment provisioning patterns, including Terraform-oriented workflows where appropriate.
-- **Observability Stack:** metrics, dashboards, distributed telemetry, traces, logs, alerting, and OpenTelemetry-oriented instrumentation.
-- **Object & File Storage:** object-storage patterns for documents, media, exports, backups, and application assets.
-- **Caching & Performance:** distributed caching, query optimization, connection management, background processing, CDN-aware delivery, and performance profiling.
-- **Resilience Engineering:** retries, timeouts, circuit breakers, idempotency, graceful degradation, dead-letter handling, and failure isolation.
-- **API & Application Security:** OWASP-aware secure development, CORS/CSP/security headers, validation, secrets management, dependency hygiene, auditability, and secure-by-default API patterns.
-- **Testing Strategy:** unit, integration, contract, API, end-to-end, load/performance, and regression testing integrated into delivery pipelines.
-- **Data Governance Foundations:** data lifecycle, retention, access boundaries, audit trails, backups, recovery, and privacy-aware system design.
-- **Developer Platform Practices:** reusable shared services, common components, internal APIs, templates, automation, documentation, and standardized delivery workflows.
+- **API 契約 & 開発者体験:** OpenAPI / Swagger、API スキーマ、バージョニング、SDK 指向インターフェース、API ドキュメント、契約検証、Postman ベースの API ワークフロー。
+- **Infrastructure as Code:** 宣言的なインフラと再現可能な環境プロビジョニングパターン。必要に応じて Terraform 指向のワークフローも含みます。
+- **可観測性スタック:** メトリクス、ダッシュボード、分散テレメトリ、トレース、ログ、アラート、OpenTelemetry 指向の計装。
+- **オブジェクト & ファイルストレージ:** ドキュメント、メディア、エクスポート、バックアップ、アプリケーション資産のためのオブジェクトストレージパターン。
+- **キャッシュ & パフォーマンス:** 分散キャッシュ、クエリ最適化、コネクション管理、バックグラウンド処理、CDN を考慮した配信、パフォーマンスプロファイリング。
+- **レジリエンスエンジニアリング:** リトライ、タイムアウト、サーキットブレーカー、冪等性、グレースフルデグラデーション、デッドレター処理、障害分離。
+- **API & アプリケーションセキュリティ:** OWASP を意識したセキュア開発、CORS/CSP/セキュリティヘッダー、検証、シークレット管理、依存関係の健全性、監査可能性、セキュア・バイ・デフォルトの API パターン。
+- **テスト戦略:** 単体、統合、契約、API、E2E、負荷／性能、回帰テストをデリバリーパイプラインへ統合。
+- **データガバナンス基盤:** データライフサイクル、保持、アクセス境界、監査証跡、バックアップ、復旧、プライバシーを考慮したシステム設計。
+- **開発者プラットフォーム実践:** 再利用可能な共通サービス、共通コンポーネント、内部 API、テンプレート、自動化、ドキュメント、標準化されたデリバリーワークフロー。
 
-### Observability & Reliability Engineering
+### 可観測性 & 信頼性エンジニアリング
 
-Logging · metrics · monitoring · health checks · alerting · tracing ·
-distributed tracing · error tracking · uptime monitoring · performance
-profiling · incident troubleshooting · graceful failure · retry
-strategies · resilience patterns.
+ログ · メトリクス · モニタリング · ヘルスチェック · アラート · トレーシング ·
+分散トレーシング · エラートラッキング · 稼働監視 · パフォーマンス
+プロファイリング · インシデント対応 · グレースフルフェイル · リトライ戦略 ·
+レジリエンスパターン。
 
-### Security Engineering
+### セキュリティエンジニアリング
 
-Authentication · authorization · OAuth 2.0 · JWT · RBAC · ABAC · API
-keys · secrets management · TLS · encryption in transit · encryption at
-rest · audit logging · rate limiting · input validation · least
-privilege · secure API design · session security · security headers.
+認証 · 認可 · OAuth 2.0 · JWT · RBAC · ABAC · APIキー ·
+シークレット管理 · TLS · 通信時暗号化 · 保存時暗号化 · 監査ログ ·
+レート制限 · 入力検証 · 最小権限 · セキュア API 設計 · セッションセキュリティ ·
+セキュリティヘッダー。
 
-### Testing & Quality Engineering
+### テスト & 品質エンジニアリング
 
-Unit testing · integration testing · API testing · end-to-end testing ·
-regression testing · automated CI validation · linting · static analysis
-· code review · staging environments · performance testing ·
-documentation · maintainable architecture.
+単体テスト · 統合テスト · API テスト · E2E テスト · 回帰テスト ·
+自動 CI 検証 · Lint · 静的解析 · コードレビュー · ステージング環境 ·
+パフォーマンステスト · ドキュメント · 保守可能なアーキテクチャ。
 
-### Platform Engineering
 
-Centralized identity · organizations · tenants · teams · roles ·
-permissions · SSO · product entitlements · subscription plans · billing
-· usage tracking · quotas · API keys · provisioning · audit trails ·
-multi-product account access.
+### プラットフォームエンジニアリング
 
-### Additional Engineering Coverage
+集中型ID · 組織 · テナント · チーム · ロール · 権限 · SSO ·
+プロダクトエンタイトルメント · サブスクリプションプラン · 課金 · 利用量追跡 ·
+クォータ · APIキー · プロビジョニング · 監査証跡 ·
+複数プロダクトへのアカウントアクセス。
+
+### その他のエンジニアリング領域
 
 <table width="1260">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
-  <thead><tr><th width="174">Area</th><th width="1086">Technologies / Capabilities</th></tr></thead>
+  <thead><tr><th width="174">領域</th><th width="1086">テクノロジー / 機能</th></tr></thead>
   <tbody>
-    <tr><td><strong>Frontend</strong></td><td>React, Next.js, Vue.js, Nuxt, JavaScript, TypeScript, Vite, Tailwind CSS, Bootstrap, SSR, SSG, SPA</td></tr>
-    <tr><td><strong>Backend</strong></td><td>Go (Golang), PHP, Laravel, Python, FastAPI, Flask, Node.js, REST, GraphQL, gRPC, WebSockets</td></tr>
-    <tr><td><strong>Architecture</strong></td><td>Modular Monolith, Microservices, SOA, Distributed Systems, Event-Driven Architecture, API-First, Multi-Tenant SaaS</td></tr>
-    <tr><td><strong>Messaging</strong></td><td>RabbitMQ, Kafka concepts, Redis, queues, workers, pub/sub, asynchronous processing</td></tr>
-    <tr><td><strong>AI Engineering</strong></td><td>LLMs, Generative AI, AI Agents, Multi-Agent Systems, RAG, Agentic RAG, MCP, Tool Calling, Function Calling</td></tr>
-    <tr><td><strong>AI Retrieval</strong></td><td>Embeddings, Vector Search, Semantic Search, Hybrid Search, Re-Ranking, Knowledge Bases</td></tr>
-    <tr><td><strong>ML &amp; Data</strong></td><td>scikit-learn, XGBoost, Pandas, NumPy, Jupyter, ETL/ELT, analytics, computer vision</td></tr>
-    <tr><td><strong>Data</strong></td><td>MySQL, PostgreSQL, SQLite, Redis, pgvector, vector databases, Elasticsearch/search</td></tr>
-    <tr><td><strong>Identity</strong></td><td>SSO, OAuth 2.0, JWT, RBAC, ABAC, API Keys, centralized identity</td></tr>
-    <tr><td><strong>SaaS Platform</strong></td><td>Organizations, tenants, subscriptions, billing, usage, quotas, entitlements, provisioning</td></tr>
-    <tr><td><strong>DevOps</strong></td><td>Docker, Kubernetes concepts, Linux, Nginx, Git, GitHub Actions, CI/CD, deployment automation</td></tr>
-    <tr><td><strong>Reliability</strong></td><td>Logging, monitoring, metrics, tracing, health checks, alerting, retries, resilience</td></tr>
-    <tr><td><strong>Security</strong></td><td>TLS, encryption, secrets, audit logs, rate limiting, validation, least privilege</td></tr>
-    <tr><td><strong>Integration</strong></td><td>REST, GraphQL, gRPC, Webhooks, Payments, Marketplace, Logistics, Healthcare, Government, Third-Party SaaS</td></tr>
-    <tr><td><strong>Quality</strong></td><td>Unit, Integration, API, E2E, Regression, CI validation, Code Review, Documentation</td></tr>
+    <tr><td><strong>フロントエンド</strong></td><td>React, Next.js, Vue.js, Nuxt, JavaScript, TypeScript, Vite, Tailwind CSS, Bootstrap, SSR, SSG, SPA</td></tr>
+    <tr><td><strong>バックエンド</strong></td><td>Go (Golang), PHP, Laravel, Python, FastAPI, Flask, Node.js, REST, GraphQL, gRPC, WebSockets</td></tr>
+    <tr><td><strong>アーキテクチャ</strong></td><td>Modular Monolith, Microservices, SOA, Distributed Systems, Event-Driven Architecture, API-First, Multi-Tenant SaaS</td></tr>
+    <tr><td><strong>メッセージング</strong></td><td>RabbitMQ, Kafka concepts, Redis, キュー, ワーカー, pub/sub, 非同期処理</td></tr>
+    <tr><td><strong>AI エンジニアリング</strong></td><td>LLMs, Generative AI, AI Agents, Multi-Agent Systems, RAG, Agentic RAG, MCP, Tool Calling, Function Calling</td></tr>
+    <tr><td><strong>AI 検索</strong></td><td>Embeddings, Vector Search, Semantic Search, Hybrid Search, Re-Ranking, Knowledge Bases</td></tr>
+    <tr><td><strong>ML &amp; データ</strong></td><td>scikit-learn, XGBoost, Pandas, NumPy, Jupyter, ETL/ELT, アナリティクス, コンピュータビジョン</td></tr>
+    <tr><td><strong>データ</strong></td><td>MySQL, PostgreSQL, SQLite, Redis, pgvector, ベクトルデータベース, Elasticsearch/search</td></tr>
+    <tr><td><strong>ID</strong></td><td>SSO, OAuth 2.0, JWT, RBAC, ABAC, API Keys, centralized identity</td></tr>
+    <tr><td><strong>SaaS プラットフォーム</strong></td><td>組織, テナント, サブスクリプション, 課金, 利用量, クォータ, エンタイトルメント, プロビジョニング</td></tr>
+    <tr><td><strong>DevOps</strong></td><td>Docker, Kubernetes concepts, Linux, Nginx, Git, GitHub Actions, CI/CD, デプロイ自動化</td></tr>
+    <tr><td><strong>信頼性</strong></td><td>ログ, モニタリング, メトリクス, トレーシング, ヘルスチェック, アラート, リトライ, レジリエンス</td></tr>
+    <tr><td><strong>セキュリティ</strong></td><td>TLS, 暗号化, シークレット, 監査ログ, レート制限, 検証, 最小権限</td></tr>
+    <tr><td><strong>統合</strong></td><td>REST, GraphQL, gRPC, Webhooks, 決済, マーケットプレイス, 物流, 医療, 政府, Third-Party SaaS</td></tr>
+    <tr><td><strong>品質</strong></td><td>Unit, Integration, API, E2E, Regression, CI validation, Code Review, Documentation</td></tr>
   </tbody>
 </table>
 
-## Engineering Focus Areas
+## エンジニアリング重点領域
 
 <table width="1260">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
-  <thead><tr><th width="330">Focus</th><th width="930">What We Build</th></tr></thead>
+  <thead><tr><th width="330">フォーカス</th><th width="930">構築するもの</th></tr></thead>
   <tbody>
-    <tr><td><strong>Full-Stack Product Engineering</strong></td><td>End-to-end digital products spanning frontend, backend, APIs, databases, and infrastructure.</td></tr>
-    <tr><td><strong>AI Agents &amp; Intelligent Automation</strong></td><td>AI systems that interact with tools, APIs, databases, knowledge, and operational workflows.</td></tr>
-    <tr><td><strong>RAG &amp; Enterprise Knowledge</strong></td><td>Grounded AI applications using private documents, structured data, embeddings, and semantic retrieval.</td></tr>
-    <tr><td><strong>Backend &amp; API Architecture</strong></td><td>Robust application services, authentication, business logic, integrations, queues, and APIs.</td></tr>
-    <tr><td><strong>SaaS &amp; Multi-Tenant Platforms</strong></td><td>Organization-aware platforms with identity, RBAC, subscriptions, billing, usage, and product access.</td></tr>
-    <tr><td><strong>Machine Learning &amp; Data</strong></td><td>Practical data pipelines, analytics, predictive models, and intelligent applications.</td></tr>
-    <tr><td><strong>Enterprise Integration</strong></td><td>Connections between internal systems, third-party platforms, government services, healthcare, commerce, and AI providers.</td></tr>
+    <tr><td><strong>フルスタック・プロダクトエンジニアリング</strong></td><td>フロントエンド、バックエンド、API、データベース、インフラにまたがるエンドツーエンドのデジタルプロダクト。</td></tr>
+    <tr><td><strong>AIエージェント & インテリジェント自動化</strong></td><td>ツール、API、データベース、知識、業務ワークフローと連携する AI システム。</td></tr>
+    <tr><td><strong>RAG & エンタープライズナレッジ</strong></td><td>プライベート文書、構造化データ、Embedding、セマンティック検索を用いる根拠付き AI アプリケーション。</td></tr>
+    <tr><td><strong>バックエンド & API アーキテクチャ</strong></td><td>堅牢なアプリケーションサービス、認証、ビジネスロジック、統合、キュー、API。</td></tr>
+    <tr><td><strong>SaaS & マルチテナントプラットフォーム</strong></td><td>ID、RBAC、サブスクリプション、課金、利用量、プロダクトアクセスを備えた組織対応プラットフォーム。</td></tr>
+    <tr><td><strong>機械学習 & データ</strong></td><td>実用的なデータパイプライン、分析、予測モデル、インテリジェントアプリケーション。</td></tr>
+    <tr><td><strong>エンタープライズ統合</strong></td><td>社内システム、サードパーティプラットフォーム、政府サービス、医療、コマース、AIプロバイダー間の接続。</td></tr>
   </tbody>
 </table>
-| **Cloud & Infrastructure** | Production deployment, containerization, web infrastructure, CI/CD, monitoring, and operational reliability. |
+| **クラウド & インフラストラクチャ** | 本番デプロイ、コンテナ化、Webインフラ、CI/CD、モニタリング、運用信頼性。 |
 
-## From Product Idea to Production
+## プロダクトアイデアから本番環境まで
 
-Sophistec's technology work is designed around the complete lifecycle of
-a digital product:
-
-<p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="From Product Idea to Production lifecycle">
-</p>
-
-This allows us to approach technology not as isolated code, but as a
-connected product, operational, and business system.
-
-## Our Technology Philosophy
-
-> **Human ingenuity. AI acceleration. Practical impact.**
-
-We believe the strongest technology comes from the synergy between
-**human creativity, critical thinking, domain understanding, and
-artificial intelligence**.
-
-AI can accelerate development, automate repetitive work, improve access
-to knowledge, and unlock entirely new product experiences. But
-meaningful technology still depends on thoughtful architecture, product
-judgment, security, reliability, and a clear understanding of the people
-and organizations it serves.
+Sophistec のテクノロジー開発は、デジタルプロダクトの完全な
+ライフサイクルを中心に設計されています。
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
+  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="プロダクトアイデアから本番環境までのライフサイクル">
 </p>
 
-Our goal is not simply to add AI to software.
+これにより、テクノロジーを孤立したコードとしてではなく、
+プロダクト・運用・ビジネスがつながったシステムとして捉えられます。
 
-Our goal is to build technology that is **useful, connected, scalable,
-responsible, and designed to evolve**.
+## 私たちのテクノロジー哲学
+
+> **人の創造力。AI による加速。実践的なインパクト。**
+
+最も強いテクノロジーは、
+**人間の創造性、批判的思考、ドメイン理解、そして
+人工知能** の相乗効果から生まれると私たちは考えています。
+
+AI は開発を加速し、反復作業を自動化し、知識へのアクセスを改善し、
+まったく新しいプロダクト体験を可能にします。しかし、意味のあるテクノロジーには
+慎重なアーキテクチャ設計、プロダクト判断、セキュリティ、信頼性、そして
+それを利用する人々や組織への明確な理解が依然として不可欠です。
+
+
+<p align="center">
+  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="人間の創造性、エンジニアリング判断、AI がより良いテクノロジー、実用価値、現実世界のインパクトへつながる流れ">
+</p>
+
+私たちの目標は、単にソフトウェアへ AI を追加することではありません。
+
+私たちの目標は、**有用で、接続され、スケーラブルで、責任ある、
+そして進化できるよう設計された** テクノロジーを構築することです。
 
 ---
 
-## The Sophistec Engineering Loop
+## Sophistec エンジニアリングループ
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=700&color=00A99D&center=true&vCenter=true&width=920&lines=%F0%9F%94%8E+Discover+the+Problem;%F0%9F%A7%AD+Define+the+Strategy;%F0%9F%8F%97%EF%B8%8F+Architect+the+System;%F0%9F%92%BB+Build+the+Product;%F0%9F%94%97+Integrate+the+Ecosystem;%F0%9F%A4%96+Automate+with+AI;%F0%9F%9A%80+Deploy+to+Production;%F0%9F%93%88+Observe%2C+Learn+%26+Scale" alt="Sophistec engineering loop animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=700&color=00A99D&center=true&vCenter=true&width=920&lines=%F0%9F%94%8E+%E5%95%8F%E9%A1%8C%E3%82%92%E7%99%BA%E8%A6%8B;%F0%9F%A7%AD+%E6%88%A6%E7%95%A5%E3%82%92%E5%AE%9A%E7%BE%A9;%F0%9F%8F%97%EF%B8%8F+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E8%A8%AD%E8%A8%88;%F0%9F%92%BB+%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%A7%8B%E7%AF%89;%F0%9F%94%97+%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E7%B5%B1%E5%90%88;%F0%9F%A4%96+AI%E3%81%A7%E8%87%AA%E5%8B%95%E5%8C%96;%F0%9F%9A%80+%E6%9C%AC%E7%95%AA%E3%81%B8%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4;%F0%9F%93%88+%E8%A6%B3%E6%B8%AC%E3%83%BB%E5%AD%A6%E7%BF%92%E3%83%BB%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB" alt="Sophistec エンジニアリングループ">
 </p>
 <div align="center">
-`DISCOVER` → `STRATEGY` → `ARCHITECT` → `BUILD` → `INTEGRATE` →
-`AUTOMATE` → `DEPLOY` → `SCALE`
+`発見` → `戦略` → `設計` → `構築` → `統合` →
+`自動化` → `デプロイ` → `スケール`
 
-<sub>Product thinking and engineering operate as one continuous
-improvement loop.</sub>
+<sub>プロダクト思考とエンジニアリングは、継続的な
+改善ループとして一体で機能します。</sub>
 </div>
 
 ---
 
-## From Interface to Intelligence
+## インターフェースからインテリジェンスへ
 
-Sophistec is designed to work across the complete technology stack
-rather than treating frontend, backend, infrastructure, data, and AI as
-isolated disciplines.
+Sophistec は、フロントエンド、バックエンド、インフラ、データ、AI を
+孤立した分野として扱うのではなく、テクノロジースタック全体を横断して
+機能するよう設計されています。
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="ユーザー体験からアプリケーション、インテリジェンス、データ、クラウドプラットフォーム、統合までを結ぶ6つのレイヤー">
 </p>
 
 ---
 
-## Architecture Principles
+## アーキテクチャ原則
 
-| Principle | How We Apply It |
+| 原則 | 適用方法 |
 | --- | --- |
-| **API-First** | Capabilities are designed to be reusable across products, interfaces, and integrations. |
-| **Modular by Default** | Clear domain boundaries make systems easier to evolve and scale. |
-| **Microservices When They Earn Their Complexity** | Independent services are introduced when scale, ownership, resilience, or deployment boundaries justify them. |
-| **Event-Driven Where It Helps** | Queues and events decouple long-running, asynchronous, and cross-system workflows. |
-| **Secure by Design** | Identity, authorization, auditability, validation, and least privilege are considered at architecture level. |
-| **Observable in Production** | Logs, metrics, health checks, traces, and operational visibility are part of the system---not an afterthought. |
-| **AI with Grounding & Control** | Retrieval, tools, structured outputs, permissions, and human oversight make AI useful in real workflows. |
-| **Built to Evolve** | Architecture should support iteration without requiring unnecessary rewrites. |
+| **APIファースト** | プロダクト、インターフェース、統合をまたいで再利用できる機能として設計します。 |
+| **デフォルトでモジュール化** | 明確なドメイン境界により、システムを進化・スケールしやすくします。 |
+| **複雑性に見合う場合のみマイクロサービス** | スケール、所有権、レジリエンス、デプロイ境界が正当化する場合に独立サービスを導入します。 |
+| **有効な箇所でイベント駆動** | キューとイベントにより、長時間・非同期・システム横断のワークフローを分離します。 |
+| **セキュア・バイ・デザイン** | ID、認可、監査可能性、検証、最小権限をアーキテクチャレベルで考慮します。 |
+| **本番で可観測** | ログ、メトリクス、ヘルスチェック、トレース、運用可視性は後付けではなくシステムの一部です。 |
+| **根拠と制御を備えた AI** | 検索、ツール、構造化出力、権限、人による監督により、AI を実業務で有用にします。 |
+| **進化できる設計** | 不要な全面書き換えなしに反復改善できるアーキテクチャを目指します。 |
 
 ---
 
-## AI-Native Product Architecture
+## AIネイティブ・プロダクトアーキテクチャ
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=User+%E2%86%92+Agent+%E2%86%92+Knowledge+%E2%86%92+Tools+%E2%86%92+Action;LLM+%2B+RAG+%2B+Memory+%2B+APIs+%2B+Business+Logic;From+AI+Chat+to+AI-Powered+Operations" alt="Sophistec AI-native architecture animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC+%E2%86%92+%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+%E2%86%92+%E7%9F%A5%E8%AD%98+%E2%86%92+%E3%83%84%E3%83%BC%E3%83%AB+%E2%86%92+%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3;LLM+++RAG+++%E3%83%A1%E3%83%A2%E3%83%AA+++API+++%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF;AI%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%8B%E3%82%89+AI+%E6%90%AD%E8%BC%89%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B8" alt="Sophistec AIネイティブアーキテクチャ">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
+<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識、データ、API、業務ツールへ接続するインテリジェントアプリケーションアーキテクチャ"></p>
 
-The objective is to move beyond isolated chat interfaces toward AI
-systems that can retrieve trusted context, use permitted tools, interact
-with software, and support real operational workflows.
+目的は、孤立したチャットインターフェースを超え、信頼できるコンテキストを取得し、
+許可されたツールを使用し、ソフトウェアと連携し、実際の業務ワークフローを
+支援できる AI システムへ進化することです。
 
 ---
 
-## Delivery Lifecycle
+## デリバリーライフサイクル
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
+  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="発見、戦略、アーキテクチャ、構築、検証、デプロイ、観測、スケールの8段階デリバリーライフサイクル">
 </p>
 
-**Discover** the real problem → **define** product and technical
-direction → **architect** the system → **build** in iterations →
-**validate** quality and security → **deploy** reliably → **observe**
-production behavior → **improve and scale**.
+**発見**: 本当の問題を見つける → **定義**: プロダクトと技術の方向性を定める →
+**設計**: システムをアーキテクトする → **構築**: 反復的に開発する →
+**検証**: 品質とセキュリティを確認する → **デプロイ**: 信頼性高く本番へ届ける →
+**観測**: 本番挙動を把握する → **改善・スケール**。
 
 ---
 
-## Built for Real-World Systems
+## 現実世界のシステムのために
 
-Our engineering capabilities are especially relevant to platforms where
-multiple domains need to work together:
+私たちのエンジニアリング機能は、複数のドメインが連携する必要のある
+プラットフォームで特に力を発揮します。
 
 <p align="center">
 <img src="https://img.shields.io/badge/Healthcare-Digital_Operations-00A99D?style=for-the-badge">
@@ -799,95 +797,95 @@ multiple domains need to work together:
 <img src="https://img.shields.io/badge/AI-Intelligent_Automation-6D28D9?style=for-the-badge">
 <img src="https://img.shields.io/badge/Identity-Security-181717?style=for-the-badge">
 </p>
-Healthcare workflows, omnichannel commerce, enterprise operations,
-customer support, centralized identity, billing, integrations,
-analytics, and AI automation can be designed as connected parts of a
-wider platform ecosystem.
+医療ワークフロー、オムニチャネルコマース、エンタープライズ運用、
+カスタマーサポート、集中型ID、課金、統合、分析、AI 自動化は、
+より広いプラットフォームエコシステムの接続された構成要素として
+設計できます。
 
 ---
 
-## Engineering Maturity
+## エンジニアリング成熟度
 
-A premium product is not defined only by its framework. We consider the
-operational characteristics that determine whether software is ready to
-become infrastructure for a business.
+プレミアムなプロダクトは、フレームワークだけでは定義されません。
+ソフトウェアがビジネスの基盤として利用できる状態かを判断するため、
+運用面の特性も重視します。
 
-  Build          Operate               Protect             Evolve
+  構築           運用                   保護                 進化
   -------------- --------------------- ------------------- ------------------------
-  Architecture   Monitoring            Identity & Access   Modular Design
-  APIs           Logging               Encryption          Versioning
-  Data Models    Metrics               Auditability        Automated Testing
-  Integrations   Health Checks         Validation          CI/CD
-  Automation     Incident Visibility   Least Privilege     Documentation
-  AI Workflows   Performance           Secure Secrets      Continuous Improvement
+  アーキテクチャ  モニタリング           ID & アクセス        モジュール設計
+  API             ロギング               暗号化               バージョニング
+  データモデル     メトリクス             監査可能性           自動テスト
+  統合            ヘルスチェック          検証                 CI/CD
+  自動化          インシデント可視性       最小権限             ドキュメント
+  AIワークフロー   パフォーマンス          セキュアなシークレット 継続的改善
 
 ---
 
-## 私たちの働き方
+## 私たちの進め方
 
-> We make ambitious ideas usable.
+> 私たちは、野心的なアイデアを「使えるもの」にします。
 
-We combine strategic thinking with hands-on execution. Every project
-starts from a real problem, moves through clear product thinking and
-design, and ends with a solution that can create practical value.
+戦略的思考とハンズオンの実行を組み合わせます。すべてのプロジェクトは
+現実の問題から始まり、明確なプロダクト思考と設計を経て、
+実用的な価値を生み出せるソリューションへつながります。
 
--   **Impact first**: build for meaningful, measurable outcomes.
--   **Human by design**: technology should feel useful and accessible.
--   **Ownership in the details**: care deeply about quality, clarity,
-    and follow-through.
--   **Built to evolve**: launch quickly, learn continuously, and improve
-    deliberately.
--   **Stronger together**: create with clients, partners, developers,
-    creators, and communities.
+-   **インパクトを最優先**: 意味があり、測定可能な成果のために構築します。
+-   **人を中心に設計**: テクノロジーは便利でアクセスしやすいものであるべきです。
+-   **細部まで責任を持つ**: 品質、明確さ、
+    最後までやり切ることを重視します。
+-   **進化できるよう構築**: 素早くローンチし、継続的に学び、
+    意図を持って改善します。
+-   **共に強くなる**: クライアント、パートナー、開発者、
+    クリエイター、コミュニティと共に創ります。
 
-## Engineering Governance & Operational Maturity
+## エンジニアリングガバナンス & 運用成熟度
 
-As systems become business-critical, engineering quality depends on more than implementation. Sophistec also considers how systems are changed, released, supported, documented, and continuously improved.
+システムがビジネス上重要になるほど、エンジニアリング品質は実装だけでは決まりません。Sophistec は、システムの変更、リリース、サポート、ドキュメント化、継続的改善の方法も重視します。
 
-### API Lifecycle & Developer Experience
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API Lifecycle"></p>
+### API ライフサイクル & 開発者体験
+<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API ライフサイクル"></p>
 
-Contract-first design · OpenAPI / Swagger · versioning · consistent authentication and errors · contract testing · API observability · developer documentation.
+契約ファースト設計 · OpenAPI / Swagger · バージョニング · 一貫した認証とエラー · 契約テスト · API 可観測性 · 開発者ドキュメント。
 
-### Product Learning Loop
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Product Learning Loop"></p>
+### プロダクト学習ループ
+<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="プロダクト学習ループ"></p>
 
-Engineering delivery connects back to users and outcomes: understand the problem, validate assumptions, release iteratively, observe real usage, and use evidence to guide improvement.
+エンジニアリングデリバリーをユーザーと成果へ接続します。問題を理解し、仮説を検証し、反復的にリリースし、実際の利用状況を観測し、証拠に基づいて改善します。
 
-### Incident Response & Reliability
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Incident Response Loop"></p>
+### インシデント対応 & 信頼性
+<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="インシデント対応ループ"></p>
 
-Production maturity includes detection, triage, containment, diagnosis, recovery, review, and preventive improvement.
+本番運用の成熟度には、検知、トリアージ、封じ込め、診断、復旧、レビュー、予防的改善が含まれます。
 
-### Data Governance & Lifecycle
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Data Governance Lifecycle"></p>
+### データガバナンス & ライフサイクル
+<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="データガバナンスライフサイクル"></p>
 
-Architecture considers data purpose, classification, access boundaries, retention, auditability, backup/recovery, privacy-aware processing, and secure disposal.
+アーキテクチャでは、データの目的、分類、アクセス境界、保持、監査可能性、バックアップ／復旧、プライバシーを考慮した処理、安全な廃棄を扱います。
 
-## Documentation as Engineering
+## エンジニアリングとしてのドキュメント
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
-      <th width="360">Artifact</th>
-      <th width="840">Purpose</th>
+      <th width="360">成果物</th>
+      <th width="840">目的</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Architecture Decision Records (ADR)</strong></td><td>Preserve important technical decisions and their reasoning.</td></tr>
-    <tr><td><strong>API Documentation</strong></td><td>Define contracts, authentication, payloads, errors, and examples.</td></tr>
-    <tr><td><strong>System Architecture</strong></td><td>Explain services, boundaries, data flows, and dependencies.</td></tr>
-    <tr><td><strong>Runbooks</strong></td><td>Repeatable procedures for deployment, recovery, and incidents.</td></tr>
-    <tr><td><strong>Data Dictionary</strong></td><td>Clarify important entities, fields, ownership, and meaning.</td></tr>
-    <tr><td><strong>Security Notes</strong></td><td>Document access models, secrets, audit behavior, and assumptions.</td></tr>
-    <tr><td><strong>Changelog / Release Notes</strong></td><td>Make product and platform changes visible over time.</td></tr>
-    <tr><td><strong>Developer Onboarding</strong></td><td>Help engineers understand and contribute safely.</td></tr>
+    <tr><td><strong>Architecture Decision Records (ADR)</strong></td><td>重要な技術判断と、その理由を保存します。</td></tr>
+    <tr><td><strong>API ドキュメント</strong></td><td>契約、認証、ペイロード、エラー、例を定義します。</td></tr>
+    <tr><td><strong>システムアーキテクチャ</strong></td><td>サービス、境界、データフロー、依存関係を説明します。</td></tr>
+    <tr><td><strong>Runbook</strong></td><td>デプロイ、復旧、インシデント対応の再現可能な手順を定義します。</td></tr>
+    <tr><td><strong>データディクショナリ</strong></td><td>重要なエンティティ、フィールド、所有権、意味を明確にします。</td></tr>
+    <tr><td><strong>セキュリティノート</strong></td><td>アクセスモデル、シークレット、監査動作、前提条件を記録します。</td></tr>
+    <tr><td><strong>Changelog / リリースノート</strong></td><td>プロダクトとプラットフォームの変更を継続的に可視化します。</td></tr>
+    <tr><td><strong>開発者オンボーディング</strong></td><td>エンジニアが安全に理解し、貢献できるよう支援します。</td></tr>
   </tbody>
 </table>
 
-## Repository Standards
+## リポジトリ標準
 
 ```text
 repository/
@@ -912,87 +910,87 @@ repository/
 
 `README` · `Architecture` · `API Docs` · `Tests` · `CI/CD` · `Security Policy` · `Contributing Guide` · `Changelog`
 
-## Open Source & Collaboration
+## オープンソース & コラボレーション
 
-Where appropriate, Sophistec can use GitHub as a public engineering surface for reusable libraries and SDKs, API examples, developer tooling, selected reference architectures, technical documentation, community contributions, and engineering research.
+適切な場合、Sophistec は GitHub を、再利用可能なライブラリや SDK、API サンプル、開発者ツール、選択したリファレンスアーキテクチャ、技術ドキュメント、コミュニティ貢献、エンジニアリング研究のための公開エンジニアリング基盤として活用できます。
 
-> **Build openly where it creates value. Protect what must remain private. Document both deliberately.**
+> **価値を生むところではオープンに構築する。非公開にすべきものは守る。どちらも意図を持って文書化する。**
 
-## Engineering Trust
+## エンジニアリングの信頼性
 
-Technical credibility should come from evidence rather than buzzwords: working products, clear architecture, maintained repositories, meaningful releases, automated testing, documented APIs, security practices, observable systems, reproducible deployment, and thoughtful engineering decisions.
+技術的な信頼性は、バズワードではなく証拠から生まれるべきです。実際に動くプロダクト、明確なアーキテクチャ、保守されたリポジトリ、意味のあるリリース、自動テスト、文書化された API、セキュリティ実践、可観測なシステム、再現可能なデプロイ、慎重なエンジニアリング判断を重視します。
 
-**The technology stack explains what we can use. The products and engineering practices demonstrate how we build.**
+**テクノロジースタックは「何を使えるか」を示し、プロダクトとエンジニアリング実践は「どのように構築するか」を示します。**
 
-## Enterprise Engineering & Platform Direction
+## エンタープライズエンジニアリング & プラットフォーム方針
 
-The next stage of Sophistec engineering is to evolve from a collection of products and technologies into a **coherent platform, architecture framework, developer ecosystem, and operational model**. The sections below describe that direction. Roadmap capabilities such as SDKs and CLI tooling should only be presented as generally available once implemented and supported.
+Sophistec エンジニアリングの次の段階は、プロダクトと技術の集合体から、**一貫したプラットフォーム、アーキテクチャフレームワーク、開発者エコシステム、運用モデル**へ進化することです。以下ではその方向性を示します。SDK や CLI などのロードマップ機能は、実装・サポートされた後にのみ一般提供として示すべきです。
 
-### Sophistec Engineering Framework
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec Engineering Framework"></p>
+### Sophistec エンジニアリングフレームワーク
+<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec エンジニアリングフレームワーク"></p>
 
-Our framework uses eight pillars: **Product Value, Architecture, Security & Trust, Reliability, Performance, Operational Excellence, Cost Efficiency, and Sustainability & Evolution**.
+私たちのフレームワークは、**プロダクト価値、アーキテクチャ、セキュリティ & 信頼、信頼性、パフォーマンス、運用卓越性、コスト効率、持続可能性 & 進化** の8つの柱で構成されます。
 
-### Sophistec Enterprise Platform
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec Enterprise Platform"></p>
+### Sophistec エンタープライズプラットフォーム
+<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec エンタープライズプラットフォーム"></p>
 
 ```text
 Sophistec Platform
-├── Identity & Organization
-├── Billing & Entitlements
-├── API & Integration
-├── Data & Intelligence
-├── Automation & Notifications
-├── Observability & Security
-└── Developer Platform
+├── ID & 組織
+├── 課金 & エンタイトルメント
+├── API & 統合
+├── データ & インテリジェンス
+├── 自動化 & 通知
+├── 可観測性 & セキュリティ
+└── 開発者プラットフォーム
 ```
 
-Shared capabilities support product domains while allowing products to evolve independently.
+共通機能はプロダクトドメインを支えつつ、各プロダクトが独立して進化できるようにします。
 
-### Extension & Connector Framework
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
+### 拡張機能 & コネクターフレームワーク
+<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="拡張機能フレームワーク"></p>
 
-A modular extension model can separate **product core, modules, extensions, connectors, webhooks, and custom workflows**, making enterprise customization more controlled and maintainable.
+モジュール型の拡張モデルでは、**プロダクトコア、モジュール、拡張機能、コネクター、Webhook、カスタムワークフロー**を分離し、エンタープライズ向けカスタマイズをより制御しやすく、保守しやすくできます。
 
-### Developer Platform
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="Developer Platform"></p>
+### 開発者プラットフォーム
+<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="開発者プラットフォーム"></p>
 
-The developer-platform direction includes **documentation, API reference, SDKs, CLI tooling, sandbox environments, examples, starter kits, changelogs, status information, and integration guides**.
+開発者プラットフォームの方向性には、**ドキュメント、API リファレンス、SDK、CLI ツール、サンドボックス環境、サンプル、スターターキット、Changelog、ステータス情報、統合ガイド**が含まれます。
 
-### Developer Tooling Roadmap
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Developer Tooling Roadmap"></p>
+### 開発者ツール・ロードマップ
+<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="開発者ツールロードマップ"></p>
 
-Potential supported tooling includes JavaScript, Python, Go, and PHP SDKs plus a Sophistec CLI. These are **roadmap concepts**, not claims of current general availability unless separately published.
+将来的な対応候補には、JavaScript、Python、Go、PHP の SDK と Sophistec CLI が含まれます。これらは**ロードマップ上の構想**であり、別途公開・提供されるまでは現在の一般提供を意味しません。
 
-## Reliability, Continuity & SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Reliability and SRE Model"></p>
+## 信頼性・継続性 & SRE
+<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="信頼性 & SRE モデル"></p>
 
-Enterprise operations consider **SLIs, SLOs, SLAs, availability, latency, error rates, RTO, RPO, disaster recovery, backup verification, failover, incident response, and business continuity**.
+エンタープライズ運用では、**SLI、SLO、SLA、可用性、レイテンシ、エラー率、RTO、RPO、災害復旧、バックアップ検証、フェイルオーバー、インシデント対応、事業継続性**を考慮します。
 
-## Cost & Capacity Engineering
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Cost and Capacity Engineering"></p>
+## コスト & キャパシティエンジニアリング
+<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="コスト & キャパシティエンジニアリング"></p>
 
-FinOps-oriented engineering connects **traffic, usage metering, capacity planning, cost allocation, cost per tenant/product, right-sizing, forecasting, and optimization**.
+FinOps 指向のエンジニアリングは、**トラフィック、利用量計測、キャパシティ計画、コスト配賦、テナント／プロダクト単位のコスト、ライトサイジング、予測、最適化**を接続します。
 
-## Sustainable Engineering
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Sustainable Engineering"></p>
+## サステナブルエンジニアリング
+<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="サステナブルエンジニアリング"></p>
 
-Engineering sustainability includes resource efficiency, right-sizing, workload scheduling, sensible data retention, efficient storage, reduced unnecessary compute, and architecture longevity.
+エンジニアリングの持続可能性には、リソース効率、ライトサイジング、ワークロードスケジューリング、適切なデータ保持、効率的なストレージ、不要な計算処理の削減、長寿命なアーキテクチャが含まれます。
 
-## Business Process Architecture
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Business Process Architecture"></p>
+## ビジネスプロセスアーキテクチャ
+<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="ビジネスプロセスアーキテクチャ"></p>
 
-Sophistec connects technology to business processes across **finance, operations, sales, customer service, healthcare, commerce, data, and intelligent automation**.
+Sophistec は、**財務、業務、営業、カスタマーサービス、医療、コマース、データ、インテリジェント自動化**にまたがるビジネスプロセスへテクノロジーを接続します。
 
-## Industry Solution Map
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="Industry Solution Map"></p>
+## 業界ソリューションマップ
+<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="業界ソリューションマップ"></p>
 
-Current and adjacent solution contexts include **healthcare, commerce & retail, professional services, education, enterprise operations, data & analytics, and cross-border digital business**.
+現在および隣接するソリューション領域には、**医療、コマース & 小売、プロフェッショナルサービス、教育、エンタープライズ運用、データ & 分析、越境デジタルビジネス**が含まれます。
 
-## Sophistec Architecture Center
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec Architecture Center"></p>
+## Sophistec アーキテクチャセンター
+<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec アーキテクチャセンター"></p>
 
-The Architecture Center is a knowledge model for organizing reusable engineering guidance:
+Architecture Center は、再利用可能なエンジニアリングガイダンスを整理するためのナレッジモデルです。
 
 ```text
 architecture/
@@ -1012,194 +1010,193 @@ architecture/
 └── runbooks/
 ```
 
-## Architecture Review Framework
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="Architecture Review Framework"></p>
+## アーキテクチャレビューフレームワーク
+<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="アーキテクチャレビューフレームワーク"></p>
 
-Major systems can be reviewed against **product value, architecture, scalability, security, reliability, performance, observability, data, integration, AI controls, cost, maintainability, disaster recovery, and documentation**. Important decisions should be captured through Architecture Decision Records (ADRs).
+主要システムは、**プロダクト価値、アーキテクチャ、スケーラビリティ、セキュリティ、信頼性、パフォーマンス、可観測性、データ、統合、AI コントロール、コスト、保守性、災害復旧、ドキュメント**の観点からレビューできます。重要な判断は Architecture Decision Records（ADR）として記録するべきです。
 
-## Enterprise Architecture Checklist
+## エンタープライズアーキテクチャ・チェックリスト
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
-      <th width="264">Domain</th>
-      <th width="936">Review Questions</th>
+      <th width="264">ドメイン</th>
+      <th width="936">レビュー質問</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Product Value</strong></td><td>What measurable user or business outcome does the system create?</td></tr>
-    <tr><td><strong>Architecture</strong></td><td>Are boundaries, dependencies, interfaces, and ownership clear?</td></tr>
-    <tr><td><strong>Security</strong></td><td>Are identity, permissions, secrets, validation, encryption, and auditability designed in?</td></tr>
-    <tr><td><strong>Reliability</strong></td><td>What fails, how is it detected, and how is service restored?</td></tr>
-    <tr><td><strong>Performance</strong></td><td>What are the latency, throughput, capacity, and scaling expectations?</td></tr>
-    <tr><td><strong>Data</strong></td><td>Who owns the data, how is it protected, retained, recovered, and governed?</td></tr>
-    <tr><td><strong>Integration</strong></td><td>Are APIs, events, contracts, retries, and failure modes explicit?</td></tr>
-    <tr><td><strong>AI</strong></td><td>Is context grounded, tool access controlled, output validated, and human oversight appropriate?</td></tr>
-    <tr><td><strong>Operations</strong></td><td>Can the system be deployed, observed, diagnosed, supported, and rolled back?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Can usage and infrastructure cost be understood and optimized?</td></tr>
-    <tr><td><strong>Continuity</strong></td><td>Are backups, RTO/RPO, recovery procedures, and failover expectations defined?</td></tr>
-    <tr><td><strong>Documentation</strong></td><td>Can another engineer safely understand, operate, and evolve the system?</td></tr>
+    <tr><td><strong>プロダクト価値</strong></td><td>このシステムは、どのような測定可能なユーザー／ビジネス成果を生み出すか？</td></tr>
+    <tr><td><strong>アーキテクチャ</strong></td><td>境界、依存関係、インターフェース、所有権は明確か？</td></tr>
+    <tr><td><strong>セキュリティ</strong></td><td>ID、権限、シークレット、検証、暗号化、監査可能性が設計に組み込まれているか？</td></tr>
+    <tr><td><strong>信頼性</strong></td><td>何が障害になり得るか、どう検知し、どう復旧するか？</td></tr>
+    <tr><td><strong>パフォーマンス</strong></td><td>レイテンシ、スループット、容量、スケーリングの期待値は何か？</td></tr>
+    <tr><td><strong>データ</strong></td><td>誰がデータを所有し、どのように保護・保持・復旧・ガバナンスするか？</td></tr>
+    <tr><td><strong>統合</strong></td><td>API、イベント、契約、リトライ、障害モードは明確か？</td></tr>
+    <tr><td><strong>AI</strong></td><td>コンテキストに根拠があり、ツールアクセスが制御され、出力が検証され、人による監督が適切か？</td></tr>
+    <tr><td><strong>運用</strong></td><td>デプロイ、観測、診断、サポート、ロールバックが可能か？</td></tr>
+    <tr><td><strong>コスト</strong></td><td>利用量とインフラコストを理解し、最適化できるか？</td></tr>
+    <tr><td><strong>継続性</strong></td><td>バックアップ、RTO/RPO、復旧手順、フェイルオーバーの期待値が定義されているか？</td></tr>
+    <tr><td><strong>ドキュメント</strong></td><td>別のエンジニアが安全に理解し、運用し、進化させられるか？</td></tr>
   </tbody>
 </table>
 
 
-## Enterprise Trust & Assurance
+## エンタープライズの信頼 & 保証
 
-Enterprise technology requires more than feature breadth. Sophistec's trust model brings together security, privacy, reliability, governance, compliance evidence, and transparency.
+エンタープライズテクノロジーに必要なのは、機能の多さだけではありません。Sophistec の信頼モデルは、セキュリティ、プライバシー、信頼性、ガバナンス、コンプライアンス証跡、透明性を統合します。
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Enterprise Trust Model"></p>
+<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="エンタープライズ信頼モデル"></p>
 
-### Trust Center Direction
+### Trust Center の方向性
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center Information Model"></p>
+<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 情報モデル"></p>
 
-A future Sophistec Trust Center can centralize information such as:
+将来の Sophistec Trust Center では、次のような情報を一元化できます。
 
-- security practices and vulnerability disclosure,
-- privacy and data-processing information,
-- data residency and subprocessors,
-- reliability, service health, and incident communication,
-- business continuity and disaster recovery,
-- responsible AI principles,
-- compliance evidence and certifications **only where actually applicable**,
-- security advisories and operational transparency.
+- セキュリティ実践と脆弱性開示、
+- プライバシーおよびデータ処理情報、
+- データ所在地とサブプロセッサー、
+- 信頼性、サービス稼働状況、インシデントコミュニケーション、
+- 事業継続性と災害復旧、
+- 責任ある AI の原則、
+- **実際に適用可能な場合に限る** コンプライアンス証跡と認証、
+- セキュリティアドバイザリと運用透明性。
 
-> Sophistec should distinguish between **compliance-aware architecture**, **compliance readiness**, and an independently verified **certification**. Certifications should never be claimed unless they have actually been obtained.
+> Sophistec は、**コンプライアンスを考慮したアーキテクチャ**、**コンプライアンス準備状況**、独立機関によって検証された **認証** を明確に区別すべきです。実際に取得していない認証を主張してはなりません。
 
-## Responsible AI Framework
+## 責任ある AI フレームワーク
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Responsible AI Lifecycle"></p>
+<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="責任ある AI ライフサイクル"></p>
 
-Sophistec's AI direction should be governed by:
+Sophistec の AI 方針は、以下の原則でガバナンスされるべきです。
 
-- **Human oversight** for consequential or ambiguous actions.
-- **Grounded outputs** using trusted context where factual accuracy matters.
-- **Permission boundaries** around tools, APIs, data, and actions.
-- **Data minimization** and purpose-aware access.
-- **Authentication & authorization** before privileged AI operations.
-- **Structured output & validation** for machine-executed workflows.
-- **Auditability** of important agent actions and system decisions.
-- **Privacy & security** across prompts, retrieval, memory, tools, and logs.
-- **Failure handling** for unavailable tools, uncertain context, and unsafe actions.
-- **Responsible automation** so AI accelerates people without silently bypassing controls.
+- **人による監督**: 重大な、または曖昧なアクションには人の確認を入れる。
+- **根拠付き出力**: 事実精度が重要な場合は、信頼できるコンテキストを用いる。
+- **権限境界**: ツール、API、データ、アクションへのアクセスを制御する。
+- **データ最小化** と目的を意識したアクセス。
+- 特権的な AI 操作の前に **認証 & 認可** を行う。
+- 機械実行ワークフローでは **構造化出力 & 検証** を行う。
+- 重要なエージェントアクションとシステム判断の **監査可能性**。
+- プロンプト、検索、メモリ、ツール、ログ全体の **プライバシー & セキュリティ**。
+- 利用不能なツール、不確実なコンテキスト、安全でないアクションへの **障害処理**。
+- AI が制御を密かに迂回することなく人を加速できる **責任ある自動化**。
 
-## Product Maturity Model
+## プロダクト成熟度モデル
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Product Maturity Lifecycle"></p>
+<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="プロダクト成熟度ライフサイクル"></p>
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
-      <th width="300">Stage</th>
-      <th width="900">Meaning</th>
+      <th width="300">ステージ</th>
+      <th width="900">意味</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Research</strong></td><td>Exploration, validation, and technical investigation.</td></tr>
-    <tr><td><strong>Experimental</strong></td><td>Prototype; behavior and interfaces may change significantly.</td></tr>
-    <tr><td><strong>Alpha</strong></td><td>Early implementation for internal or tightly controlled use.</td></tr>
-    <tr><td><strong>Beta</strong></td><td>Limited production use with active feedback and known constraints.</td></tr>
-    <tr><td><strong>General Availability (GA)</strong></td><td>Supported production release with defined operational expectations.</td></tr>
-    <tr><td><strong>Enterprise</strong></td><td>Mature deployment, governance, integration, support, and reliability expectations.</td></tr>
-    <tr><td><strong>LTS</strong></td><td>Long-term support where a product or release warrants an extended maintenance lifecycle.</td></tr>
+    <tr><td><strong>Research</strong></td><td>探索、検証、技術調査。</td></tr>
+    <tr><td><strong>Experimental</strong></td><td>プロトタイプ段階。挙動やインターフェースが大きく変わる可能性があります。</td></tr>
+    <tr><td><strong>Alpha</strong></td><td>社内または厳密に制御された用途向けの初期実装。</td></tr>
+    <tr><td><strong>Beta</strong></td><td>既知の制約のもと、フィードバックを受けながら限定的に本番利用する段階。</td></tr>
+    <tr><td><strong>General Availability (GA)</strong></td><td>運用上の期待値が定義された、サポート対象の本番リリース。</td></tr>
+    <tr><td><strong>Enterprise</strong></td><td>成熟したデプロイ、ガバナンス、統合、サポート、信頼性が求められる段階。</td></tr>
+    <tr><td><strong>LTS</strong></td><td>プロダクトまたはリリースに長期保守ライフサイクルが必要な場合の長期サポート。</td></tr>
   </tbody>
 </table>
 
-Product repositories should clearly communicate maturity rather than making every project appear equally production-ready.
+プロダクトリポジトリでは、すべてのプロジェクトを同じ本番成熟度に見せるのではなく、成熟度を明確に伝えるべきです。
 
-## API Versioning & Deprecation
+## API バージョニング & 非推奨化
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API Version Lifecycle"></p>
+<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API バージョンライフサイクル"></p>
 
-API evolution should include stable contracts, documented versions, backward-compatibility expectations, migration guidance, deprecation notices, and a defined sunset process.
+API の進化には、安定した契約、文書化されたバージョン、後方互換性の期待値、移行ガイド、非推奨通知、明確な終了プロセスを含めるべきです。
 
-Recommended principles:
+推奨原則:
 
-- avoid silent breaking changes,
-- version public contracts deliberately,
-- publish changelogs,
-- communicate deprecation windows,
-- provide migration documentation,
-- maintain compatibility where reasonable,
-- monitor usage before retiring an API.
+- 通知なしの破壊的変更を避ける、
+- 公開契約を意図的にバージョン管理する、
+- Changelog を公開する、
+- 非推奨期間を周知する、
+- 移行ドキュメントを提供する、
+- 合理的な範囲で互換性を維持する、
+- API を廃止する前に利用状況を確認する。
 
-## Deployment Models
+## デプロイモデル
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Deployment Models"></p>
+<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="デプロイモデル"></p>
 
-Depending on the product and customer requirements, architecture may support different deployment patterns:
+プロダクトおよび顧客要件に応じて、アーキテクチャは以下のデプロイパターンをサポートできます。
+- **マルチテナント SaaS**
+- **専用／分離環境**
+- **プライベートデプロイ**
+- **ハイブリッド統合**
+- **リージョンを考慮したデプロイ**
+- **顧客固有の統合境界**
 
-- **Multi-tenant SaaS**
-- **Dedicated / isolated environments**
-- **Private deployment**
-- **Hybrid integration**
-- **Region-aware deployment**
-- **Customer-specific integration boundaries**
+デプロイモデルの提供可否は、全プロダクト共通と仮定せず、プロダクトごとに明示するべきです。
 
-Availability of a deployment model should be stated per product rather than assumed globally.
+## リリース・保守・サポートライフサイクル
 
-## Release, Maintenance & Support Lifecycle
+<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="リリース & サポートライフサイクル"></p>
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
+成熟したリリースプロセスは、開発、テスト、プレビューチャネル、一般提供、本番観測、保守、パッチ適用、必要に応じた長期サポートをつなぎます。
 
-A mature release process connects development with testing, preview channels, general availability, production observation, maintenance, patching, and—where appropriate—long-term support.
+## 統合カタログ
 
-## Integration Catalog
+<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="統合カタログ"></p>
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="Integration Catalog"></p>
-
-Sophistec's integration ecosystem can be organized as a reusable catalog rather than a collection of one-off connections:
+Sophistec の統合エコシステムは、個別接続の寄せ集めではなく、再利用可能なカタログとして整理できます。
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
-  <thead><tr><th width="264">Domain</th><th width="936">Examples of Integration Capability</th></tr></thead>
+  <thead><tr><th width="264">ドメイン</th><th width="936">統合機能の例</th></tr></thead>
   <tbody>
-    <tr><td><strong>Identity</strong></td><td>SSO, OAuth, external identity providers</td></tr>
-    <tr><td><strong>Payments</strong></td><td>Payment gateways and transaction services</td></tr>
-    <tr><td><strong>Healthcare</strong></td><td>Clinical, insurance, laboratory, and healthcare APIs</td></tr>
-    <tr><td><strong>Government</strong></td><td>Public-sector and regulatory system integrations</td></tr>
-    <tr><td><strong>Commerce</strong></td><td>Marketplace, order, inventory, and sales-channel APIs</td></tr>
-    <tr><td><strong>Logistics</strong></td><td>Shipping, fulfillment, and delivery services</td></tr>
-    <tr><td><strong>AI &amp; SaaS</strong></td><td>Model providers, communication platforms, and external SaaS</td></tr>
+    <tr><td><strong>ID</strong></td><td>SSO、OAuth、外部IDプロバイダー</td></tr>
+    <tr><td><strong>決済</strong></td><td>決済ゲートウェイとトランザクションサービス</td></tr>
+    <tr><td><strong>医療</strong></td><td>臨床、保険、検査、医療 API</td></tr>
+    <tr><td><strong>政府</strong></td><td>公共部門・規制システム統合</td></tr>
+    <tr><td><strong>コマース</strong></td><td>マーケットプレイス、注文、在庫、販売チャネル API</td></tr>
+    <tr><td><strong>物流</strong></td><td>配送、フルフィルメント、デリバリーサービス</td></tr>
+    <tr><td><strong>AI &amp; SaaS</strong></td><td>モデルプロバイダー、コミュニケーションプラットフォーム、外部 SaaS</td></tr>
   </tbody>
 </table>
 
-Each production connector should ultimately have ownership, versioning, authentication, observability, error handling, retry behavior, documentation, and support expectations.
+各本番コネクターには最終的に、所有権、バージョニング、認証、可観測性、エラー処理、リトライ動作、ドキュメント、サポート期待値を定義するべきです。
 
-## Why Sophistec Engineering
+## Sophistec Engineering を選ぶ理由
 
-We connect **strategy, product thinking, engineering, data, AI, infrastructure, and integration** so digital products are designed as complete operating systems rather than isolated applications.
+**戦略、プロダクト思考、エンジニアリング、データ、AI、インフラ、統合**を接続し、デジタルプロダクトを孤立したアプリケーションではなく、完全な業務システムとして設計します。
 
-### What We Optimize For
+### 最適化するもの
 
-- **Clarity** — architecture and ownership should be understandable.
-- **Interoperability** — products should connect through well-defined interfaces.
-- **Reliability** — production behavior matters as much as feature delivery.
-- **Security** — identity, access, validation, and auditability belong in the design.
-- **Automation** — repetitive operational work should be reduced where practical.
-- **Intelligence** — AI should have trusted context, controlled tools, and measurable purpose.
-- **Evolution** — systems should support change without unnecessary rewrites.
+- **明確さ**: アーキテクチャと所有権が理解しやすいこと。
+- **相互運用性**: 明確に定義されたインターフェースを通じてプロダクト同士が接続できること。
+- **信頼性**: 機能提供と同じくらい本番での挙動を重視すること。
+- **セキュリティ**: ID、アクセス、検証、監査可能性を設計に組み込むこと。
+- **自動化**: 反復的な業務を、実用的な範囲で削減すること。
+- **インテリジェンス**: AI が信頼できるコンテキスト、制御されたツール、測定可能な目的を持つこと。
+- **進化**: 不要な全面書き換えなしに変化へ対応できること。
 
-## 共に創る
+## 私たちと一緒に構築する
 
-Sophistec is interested in collaborations around **SaaS, enterprise software, healthcare technology, omnichannel systems, AI agents, RAG, automation, data platforms, integrations, and cross-border digital products**.
+Sophistec は、**SaaS、エンタープライズソフトウェア、ヘルスケアテクノロジー、オムニチャネルシステム、AIエージェント、RAG、自動化、データプラットフォーム、統合、越境デジタルプロダクト**に関するコラボレーションに関心があります。
 
-For product, engineering, partnership, or ecosystem conversations, use the contact channels below.
+プロダクト、エンジニアリング、パートナーシップ、エコシステムに関するご相談は、以下の連絡先をご利用ください。
 
 ## お問い合わせ
 
 <div align="center">
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Website-0B5FFF?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88-0B5FFF?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="ウェブサイト">
 </a>
 <a href="mailto:management@sophistec.global">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="メール">
 </a>
 <a href="https://api.whatsapp.com/send/?phone=886971688450&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -1220,7 +1217,7 @@ For product, engineering, partnership, or ecosystem conversations, use the conta
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 <a href="https://x.com/SophistecGlobal" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Sophistec on X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Sophistec を X でフォロー">
 </a>
 
 <br><br>
@@ -1231,10 +1228,10 @@ For product, engineering, partnership, or ecosystem conversations, use the conta
 
 <div align="center">
 
-### "Building the future, one step at a time." 🚀
+### 「未来を、一歩ずつ築く。」 🚀
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sophistec-solutions&label=Profile%20Views&color=7B2CBF&style=flat)
+![プロフィール閲覧数](https://komarev.com/ghpvc/?username=sophistec-solutions&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0&color=7B2CBF&style=flat)
 
 </div>

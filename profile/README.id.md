@@ -234,7 +234,7 @@ Sophistec Engineering
 ## Lapisan Intelligence Sophistec
 
 AI diperlakukan sebagai lapisan intelligence yang terhubung dengan produk dan
-operasional—bukan sekadar fitur chatbot.
+operasional bukan sekadar fitur chatbot.
 
 <p align="center">
 <img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Lapisan Intelligence Sophistec">
@@ -272,7 +272,7 @@ aksi dunia nyata yang terkontrol.
   </tbody>
 </table>
 
-<sub>● kapabilitas inti/relevan · ◐ penggunaan selektif atau arah kapabilitas · — bukan fokus utama produk. Perbarui peta ini seiring berkembangnya implementasi.</sub>
+<sub>● kapabilitas inti/relevan · ◐ penggunaan selektif atau arah kapabilitas · bukan fokus utama produk. Perbarui peta ini seiring berkembangnya implementasi.</sub>
 
 ## Standar Engineering
 
@@ -753,7 +753,7 @@ disiplin yang terpisah.
 | **Microservices When They Earn Their Complexity** | Layanan independen diperkenalkan ketika skala, ownership, resilience, atau batas deployment memang membutuhkannya. |
 | **Event-Driven Bila Bermanfaat** | Queue dan event memisahkan workflow jangka panjang, asynchronous, dan lintas sistem. |
 | **Secure by Design** | Identitas, otorisasi, auditability, validasi, dan least privilege dipertimbangkan sejak level arsitektur. |
-| **Observable in Produkion** | Log, metric, health check, trace, dan visibilitas operasional merupakan bagian dari sistem—bukan tambahan belakangan. |
+| **Observable in Produkion** | Log, metric, health check, trace, dan visibilitas operasional merupakan bagian dari sistem bukan tambahan belakangan. |
 | **AI dengan Grounding & Kontrol** | Retrieval, tool, structured output, permission, dan human oversight membuat AI berguna dalam workflow nyata. |
 | **Built to Evolve** | Arsitektur harus mendukung iterasi tanpa memerlukan rewrite yang tidak perlu. |
 
@@ -1144,7 +1144,7 @@ Ketersediaan model deployment harus dinyatakan per produk, bukan diasumsikan ber
 
 <p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
 
-Proses release yang matang menghubungkan development dengan testing, preview channel, general availability, observasi produksi, maintenance, patching, dan—bila sesuai—long-term support.
+Proses release yang matang menghubungkan development dengan testing, preview channel, general availability, observasi produksi, maintenance, patching, dan bila sesuai long-term support.
 
 ## Katalog Integrasi
 
@@ -1175,13 +1175,13 @@ Kami menghubungkan **strategi, product thinking, engineering, data, AI, infrastr
 
 ### Yang Kami Optimalkan
 
-- **Clarity** — arsitektur dan ownership harus mudah dipahami.
-- **Interoperability** — produk harus terhubung melalui interface yang didefinisikan dengan baik.
-- **Reliability** — perilaku di produksi sama pentingnya dengan delivery fitur.
-- **Keamanan** — identitas, akses, validasi, dan auditability harus menjadi bagian dari desain.
-- **Automation** — pekerjaan operasional berulang harus dikurangi bila memungkinkan.
-- **Intelligence** — AI harus memiliki konteks tepercaya, tool yang terkontrol, dan tujuan yang dapat diukur.
-- **Evolution** — sistem harus mendukung perubahan tanpa rewrite yang tidak perlu.
+- **Clarity**: arsitektur dan ownership harus mudah dipahami.
+- **Interoperability**: produk harus terhubung melalui interface yang didefinisikan dengan baik.
+- **Reliability**: perilaku di produksi sama pentingnya dengan delivery fitur.
+- **Keamanan**: identitas, akses, validasi, dan auditability harus menjadi bagian dari desain.
+- **Automation**: pekerjaan operasional berulang harus dikurangi bila memungkinkan.
+- **Intelligence**: AI harus memiliki konteks tepercaya, tool yang terkontrol, dan tujuan yang dapat diukur.
+- **Evolution**: sistem harus mendukung perubahan tanpa rewrite yang tidak perlu.
 
 ## Bangun Bersama Kami
 
