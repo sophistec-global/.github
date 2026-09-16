@@ -1,6 +1,8 @@
 <div align="center">
 
-# SOPHISTEC GLOBAL
+<p align="center">
+  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+</p>
 
 <p align="center">
   <strong>Choose your language</strong><br>
