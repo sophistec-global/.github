@@ -2,12 +2,10 @@
 
 # SOPHISTEC GLOBAL
 
-> Language edition: **id**
-
 <p align="center">
   <strong>Pilih bahasa Anda</strong><br>
-  <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-6D28D9?style=for-the-badge" alt="English (current language)"></a>
-  <a href="./README.id.md" title="Indonesia"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-1D3557?style=for-the-badge" alt="Indonesia"></a>
+  <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-1D3557?style=for-the-badge" alt="English"></a>
+  <a href="./README.id.md" title="Indonesia (bahasa saat ini)"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-6D28D9?style=for-the-badge" alt="Indonesia (bahasa saat ini)"></a>
   <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
   <a href="./README.ko.md" title="한국어"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-1D3557?style=for-the-badge" alt="한국어"></a>
   <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
@@ -16,93 +14,93 @@
   <a href="./README.zh-cn.md" title="简体中文"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-简体中文-1D3557?style=for-the-badge" alt="简体中文"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Strategy+%C2%B7+Technology+%C2%B7+Education+%C2%B7+Creativity+%C2%B7+Community;From+Market+Entry+to+Digital+Growth" alt="Sophistec Global animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Strategy+%C2%B7+Technology+%C2%B7+Education+%C2%B7+Creativity+%C2%B7+Komunitas;From+Market+Entry+to+Digital+Growth" alt="Sophistec Global animated introduction">
 
-<sub>Strategy · Software · SaaS · Creative Technology · Education · Community</sub>
+<sub>Strategy · Software · SaaS · Creative Technology · Education · Komunitas</sub>
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Explore Sophistec Global">
+  <img src="https://img.shields.io/badge/Jelajahi-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Jelajahi Sophistec Global">
 </a>
 <a href="https://github.com/sophistec-solutions" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub">
+  <img src="https://img.shields.io/badge/Jelajahi-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Jelajahi GitHub">
 </a>
 <a href="https://bio.sophistec.global/bio-sophistec-global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-Our%20Ecosystem-00A99D?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Explore Our Ecosystem">
+  <img src="https://img.shields.io/badge/Jelajahi-Ekosistem%20Kami-00A99D?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Jelajahi Ekosistem Kami">
 </a>
 
 </div>
 
 ---
 
-## Kami Membangun Solusi yang Membantu Orang dan Bisnis Melangkah Maju.
+## Kami Membangun Solusi yang Membantu Individu dan Bisnis Bergerak Maju.
 
-**Sophistec Global** is a multi-disciplinary ecosystem that brings together business strategy, software development, SaaS products, creative media, education, and communities.
+**Sophistec Global** adalah ekosistem multidisiplin yang menyatukan strategi bisnis, pengembangan perangkat lunak, produk SaaS, media kreatif, pendidikan, dan komunitas.
 
-We help founders, organizations, and communities turn ideas into practical solutions: from digital products and integrated operational systems to meaningful stories, learning platforms, and collaborative programs.
+Kami membantu founder, organisasi, dan komunitas mengubah ide menjadi solusi praktis: mulai dari produk digital dan sistem operasional terintegrasi hingga cerita yang bermakna, platform pembelajaran, dan program kolaboratif.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=18&amp;pause=850&amp;color=00A99D&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Strategy+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Launch+%E2%86%92+Grow" alt="Strategy to growth workflow">
 </p>
 
-## Perusahaan & Merek Kami
+## Perusahaan & Brand Kami
 
-| Logo | Brand | What It Does | Explore |
+| Logo | Brand | Fungsinya | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | Indonesia market-entry consulting, company incorporation, Employer of Record (EOR), local hiring support, investment facilitation, and cross-border business expansion. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | Custom software development, mobile apps, API integration, AI, automation, cloud, data, UI/UX, and tech teams. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | Learning, executive training, founder education, and knowledge-sharing programs. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | Creative technology, photography, videography, event documentation, and brand experiences. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | Strategic marketing, public relations, social media, brand growth, and community engagement. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | A platform and podcast exploring business, innovation, leadership, and impact. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | A lifestyle and discovery-focused platform under the Sophistec ecosystem. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | A community-focused lifestyle brand. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | Konsultasi masuk pasar Indonesia, pendirian perusahaan, Employer of Record (EOR), dukungan perekrutan lokal, fasilitasi investasi, dan ekspansi bisnis lintas negara. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | Pengembangan perangkat lunak kustom, aplikasi mobile, integrasi API, AI, otomasi, cloud, data, UI/UX, dan tim teknologi. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | Program pembelajaran, pelatihan eksekutif, edukasi founder, dan berbagi pengetahuan. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | Teknologi kreatif, fotografi, videografi, dokumentasi acara, dan pengalaman brand. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | Pemasaran strategis, hubungan masyarakat, media sosial, pertumbuhan brand, dan keterlibatan komunitas. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | Platform dan podcast yang membahas bisnis, inovasi, kepemimpinan, dan dampak. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | Platform yang berfokus pada gaya hidup dan eksplorasi di bawah ekosistem Sophistec. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | Brand gaya hidup yang berfokus pada komunitas. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
 ## Produk Digital Kami
 
-| Logo | Product | Focus | Explore |
+| Logo | Produk | Fokus | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Business optimization and digital solutions for organizations. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | A dedicated platform within the Sophistec ecosystem. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Digital growth, marketing, and market-facing solutions. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Data-oriented solutions, analytics, and digital intelligence. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Connected healthcare management for hospitals, clinics, pharmacies, laboratories, and radiology. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Digital solutions for dental practices and oral-health operations. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Unified commerce operations with marketplace, logistics, payment, and sales-channel integration. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Smart operational and rack-management solutions. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Centralized support and service-management solutions. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication, designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | A modern photobooth platform for on-site photo experiences, roaming or mingle photography, branded event frames, instant sharing, and virtual greetings. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | Professional education and learning solutions. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | Accessible education and learning solutions for wider communities. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Optimasi bisnis dan solusi digital untuk organisasi. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Platform khusus dalam ekosistem Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Solusi pertumbuhan digital, pemasaran, dan kebutuhan yang berhadapan langsung dengan pasar. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Solusi berbasis data, analitik, dan kecerdasan digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek, laboratorium, dan radiologi. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Solusi digital untuk praktik kedokteran gigi dan operasional kesehatan mulut. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Operasional perdagangan terpadu dengan integrasi marketplace, logistik, pembayaran, dan kanal penjualan. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Solusi operasional pintar dan pengelolaan rak. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Solusi dukungan dan manajemen layanan terpusat. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Identitas dan keamanan perangkat berbasis hardware menggunakan teknologi **Physical Unclonable Function (PUF)** dan autentikasi **FIDO2**, yang dirancang untuk mengamankan setiap identitas dari lapisan paling dasar. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | Platform photobooth modern untuk pengalaman foto di lokasi acara, roaming/mingle photography, frame acara ber-branding, berbagi instan, dan ucapan virtual. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Platform pengembangan karier dan talenta. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | Solusi pendidikan dan pembelajaran profesional. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | Solusi pendidikan dan pembelajaran yang mudah diakses untuk komunitas yang lebih luas. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
 ## Komunitas
 
-| Logo | Community | Purpose | Explore |
+| Logo | Komunitas | Tujuan | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | A community for people who explore, document, and experience the world through visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | A photography community that creates opportunities to learn, connect, and explore together. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | A global innovation community and local program connecting people who use open data to solve real-world challenges. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | Komunitas bagi orang-orang yang menjelajah, mendokumentasikan, dan mengalami dunia melalui visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | Komunitas fotografi yang menciptakan peluang untuk belajar, terhubung, dan menjelajah bersama. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | Komunitas inovasi global dan program lokal yang menghubungkan orang-orang yang menggunakan open data untuk menyelesaikan tantangan dunia nyata. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
-## Satu Ekosistem, Dukungan Menyeluruh
+## Satu Ekosistem, Dukungan End-to-End
 
-Sophistec brings business strategy, technology, creativity, growth, education, and community together in one connected ecosystem.
+Sophistec menyatukan strategi bisnis, teknologi, kreativitas, pertumbuhan, pendidikan, dan komunitas dalam satu ekosistem yang saling terhubung.
 
-Whether you are entering the Indonesian market, establishing a local presence, building a digital product, launching a brand, producing content, or growing your audience, our companies and brands can support every stage of the journey.
+Baik Anda sedang memasuki pasar Indonesia, membangun kehadiran lokal, mengembangkan produk digital, meluncurkan brand, memproduksi konten, maupun memperluas audiens, perusahaan dan brand kami dapat mendukung setiap tahap perjalanan tersebut.
 
 <div align="center">
 
-### Our End-to-End Journey
+### Perjalanan End-to-End Kami
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=650&color=0B5FFF&center=true&vCenter=true&width=900&lines=Discover+%E2%86%92+Strategy+%E2%86%92+Design+%E2%86%92+Build;Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Deploy;Deploy+%E2%86%92+Measure+%E2%86%92+Learn+%E2%86%92+Scale;Enter+a+Market+%E2%86%92+Establish+%E2%86%92+Build+%E2%86%92+Launch+%E2%86%92+Grow" alt="Sophistec animated end-to-end workflow">
 
 </div>
 
-- **Enter & Establish**: Sophistec Global supports Indonesia market entry, company incorporation, Employer of Record (EOR), local hiring, investment facilitation, and cross-border expansion.
-- **Build & Scale**: Sophistec Dev House develops custom software, SaaS platforms, websites, mobile apps, API integrations, AI solutions, automation, and cloud systems.
-- **Learn & Connect**: Sophistec Academy, Founder Scape, and our communities create opportunities for education, collaboration, knowledge-sharing, and founder growth.
-- **Innovate & Inspire**: Sophistec Studio produces photography, videography, podcasts, event documentation, creative content, and photobooth experiences through Sophistec Lumora.
-- **Launch & Grow**: Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
+- **Masuk & Bangun Kehadiran**: Sophistec Global mendukung masuk pasar Indonesia, pendirian perusahaan, Employer of Record (EOR), perekrutan lokal, fasilitasi investasi, dan ekspansi lintas negara.
+- **Bangun & Skalakan**: Sophistec Dev House mengembangkan perangkat lunak kustom, platform SaaS, website, aplikasi mobile, integrasi API, solusi AI, otomasi, dan sistem cloud.
+- **Belajar & Terhubung**: Sophistec Academy, Founder Scape, dan komunitas kami menciptakan peluang untuk pendidikan, kolaborasi, berbagi pengetahuan, dan pertumbuhan founder.
+- **Berinovasi & Menginspirasi**: Sophistec Studio menghasilkan fotografi, videografi, podcast, dokumentasi acara, konten kreatif, dan pengalaman photobooth melalui Sophistec Lumora.
+- **Luncurkan & Tumbuhkan**: Sophistec Growth Hub mendukung strategi brand, pemasaran, media sosial, kampanye KOL, iklan berbayar, public relations, dan pertumbuhan komunitas.
 
 
 
@@ -110,152 +108,152 @@ Whether you are entering the Indonesian market, establishing a local presence, b
 
 ### Sophistec Medicore
 
-`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integration`
+`Healthcare SaaS` `EMR` `SATUSEHAT` `BPJS` `API Integrasi`
 
-Connected healthcare management for hospitals, clinics, pharmacies,
-laboratories, and radiology, spanning patient workflows, registration,
-appointments, billing, pharmacy, laboratory/radiology, inventory,
-reporting, and healthcare integrations.
+Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek,
+laboratorium, dan radiologi, mencakup alur pasien, registrasi,
+janji temu, billing, apotek, laboratorium/radiologi, inventaris,
+pelaporan, dan integrasi layanan kesehatan.
 
 ### Sophistec Omnichannel
 
 `Commerce` `Marketplace APIs` `Logistics` `Payments` `Automation`
 
-Unified commerce operations connecting sales channels, marketplace
-workflows, inventory, orders, logistics, payments, and operational
-integration.
+Operasional perdagangan terpadu yang menghubungkan kanal penjualan, marketplace,
+alur kerja, inventaris, pesanan, logistik, pembayaran, dan integrasi
+operasional.
 
 ### Sophistec Service Hub
 
 `Support` `Ticketing` `Customer Accounts` `Workflow`
 
-Centralized support and service-management infrastructure for customer
-interactions, service workflows, and product support.
+Infrastruktur dukungan dan manajemen layanan terpusat untuk interaksi pelanggan,
+alur layanan, dan dukungan produk.
 
 ### Sophistec Key Trust
 
-`PUF` `FIDO2` `Device Identity` `Authentication`
+`PUF` `FIDO2` `Device Identitas` `Authentication`
 
-Hardware-rooted device identity and authentication designed to
-strengthen trust at the identity layer.
+Identitas dan autentikasi perangkat berbasis hardware yang dirancang untuk
+memperkuat kepercayaan pada lapisan identitas.
 
 ### Sophistec Data Craft
 
-`Data` `Analytics` `Intelligence` `Integration`
+`Data` `Analytics` `Intelligence` `Integrasi`
 
-Data-oriented systems for analytics, connected intelligence, and
-decision support.
+Sistem berorientasi data untuk analitik, kecerdasan terhubung, dan
+dukungan pengambilan keputusan.
 
 ### Sophistec Optima Solutions
 
 `Business Optimization` `Digital Solutions` `Workflow` `Automation`
 
-Business optimization and digital-solution capabilities that connect
-operational needs with practical software, process improvement, and
-measurable outcomes.
+Kapabilitas optimasi bisnis dan solusi digital yang menghubungkan
+kebutuhan operasional dengan perangkat lunak praktis, peningkatan proses, dan
+hasil yang dapat diukur.
 
 ### Sophistec C4C
 
-`Connected Ecosystem` `Platform` `Community` `Integration`
+`Connected Ecosystem` `Platform` `Komunitas` `Integrasi`
 
-A connected ecosystem platform designed to bring organizations,
-services, communities, and digital experiences together through shared
-platform capabilities.
+Platform ekosistem terhubung yang dirancang untuk menyatukan organisasi,
+layanan, komunitas, dan pengalaman digital melalui
+kapabilitas platform bersama.
 
 ### Sophistec Market Craft
 
 `Marketing` `Growth` `Campaigns` `Market Intelligence`
 
-Market-facing technology for brand growth, campaign operations,
-audience engagement, and data-informed marketing workflows.
+Teknologi yang berfokus pada kebutuhan pasar untuk pertumbuhan brand, operasional kampanye,
+keterlibatan audiens, dan alur pemasaran berbasis data.
 
 ### Sophistec Denticon
 
 `Dental Operations` `Patient Workflow` `Appointments` `Healthcare`
 
-Digital operations for dental practices, supporting patient journeys,
-appointments, clinical administration, service workflows, and connected
-practice management.
+Operasional digital untuk praktik kedokteran gigi, mendukung perjalanan pasien,
+janji temu, administrasi klinis, alur layanan, dan
+manajemen praktik yang terhubung.
 
 ### Sophistec Smart Rack
 
 `Smart Operations` `Asset Management` `Inventory` `Monitoring`
 
-Smart-rack and operational-management capabilities for tracking assets,
-inventory, availability, and real-world operational activity.
+Kapabilitas smart-rack dan manajemen operasional untuk melacak aset,
+inventaris, ketersediaan, dan aktivitas operasional dunia nyata.
 
 ### Sophistec Lumora
 
 `Photobooth` `Creative Experience` `Events` `Media`
 
-Modern photobooth and creative-media experiences for events, campaigns,
-communities, and memorable audience engagement.
+Pengalaman photobooth modern dan media kreatif untuk acara, kampanye,
+komunitas, dan keterlibatan audiens yang berkesan.
 
 ### Sophistec Career Hub
 
-`Career Platform` `Talent` `Development` `Community`
+`Career Platform` `Talent` `Development` `Komunitas`
 
-A career and talent-development platform connecting people with
-learning, professional opportunities, community, and pathways for
-growth.
+Platform pengembangan karier dan talenta yang menghubungkan orang dengan
+pembelajaran, peluang profesional, komunitas, dan jalur untuk
+bertumbuh.
 
 ### Sophistec Edu Pro
 
 `Professional Learning` `Education` `Courses` `Skills`
 
-Professional learning solutions designed to support structured skills
-development, practical education, and continuous career advancement.
+Solusi pembelajaran profesional yang dirancang untuk mendukung pengembangan keterampilan
+yang terstruktur, pendidikan praktis, dan kemajuan karier berkelanjutan.
 
 ### Sophistec Edu Plus
 
-`Community Education` `Accessible Learning` `Knowledge` `Development`
+`Komunitas Education` `Accessible Learning` `Knowledge` `Development`
 
-Accessible community-education experiences that broaden access to
-knowledge, practical learning, and personal development.
+Pengalaman pendidikan komunitas yang mudah diakses dan memperluas akses terhadap
+pengetahuan, pembelajaran praktis, dan pengembangan diri.
 
 ## Arsitektur Platform & Ekosistem
 
-Sophistec's platform direction connects identity, organizations,
-billing, product access, intelligence, integrations, and infrastructure
-while allowing individual products to evolve independently.
+Arah platform Sophistec menghubungkan identitas, organisasi,
+billing, akses produk, intelligence, integrasi, dan infrastruktur
+sekaligus memungkinkan setiap produk berkembang secara independen.
 
 <p align="center">
 <img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
 </p>
-### Engineering Domain Map
+### Peta Domain Engineering
 
 ``` text
 Sophistec Engineering
-├── Products        → Medicore · Omnichannel · Service Hub · Data Craft · ...
-├── Platform        → Identity · Organization · Billing · Entitlements · Support
+├── Produks        → Medicore · Omnichannel · Service Hub · Data Craft · ...
+├── Platform        → Identitas · Organization · Billing · Entitlements · Support
 ├── Intelligence    → Agents · RAG · Automation · Data / ML
-├── Shared Services → APIs · Integrations · Components · Common Services
-└── Infrastructure  → CI/CD · Deployment · Observability · Security
+├── Shared Services → APIs · Integrasis · Components · Common Services
+└── Infrastructure  → CI/CD · Deployment · Observability · Keamanan
 ```
 
-## Sophistec Intelligence Layer
+## Lapisan Intelligence Sophistec
 
-AI is treated as an intelligence layer connected to products and
-operations---not simply as a chatbot feature.
+AI diperlakukan sebagai lapisan intelligence yang terhubung dengan produk dan
+operasional—bukan sekadar fitur chatbot.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec Intelligence Layer">
+<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Lapisan Intelligence Sophistec">
 </p>
-LLMs, agents, RAG, memory, tools, MCP, APIs, permissions, and business
-logic can work together to retrieve trusted context and support
-controlled real-world actions.
+LLM, agent, RAG, memory, tools, MCP, API, permission, dan business
+logic dapat bekerja bersama untuk mengambil konteks tepercaya dan mendukung
+aksi dunia nyata yang terkontrol.
 
-## Animated Engineering Workflow
+## Alur Engineering Animasi
 
 <p align="center">
 <img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec animated engineering workflow">
 </p>
 
-## Product × Engineering Capability Map
+## Peta Kapabilitas Produk × Engineering
 
 <table width="1200" cellspacing="0" cellpadding="6">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
-  <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integration</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identity / Access</th></tr></thead>
+  <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integrasi</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identitas / Access</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
     <tr><td><strong>Sophistec C4C</strong></td><td align="center">●</td><td align="center">◐</td><td align="center">◐</td><td align="center">◐</td><td align="center">●</td></tr>
@@ -274,82 +272,82 @@ controlled real-world actions.
   </tbody>
 </table>
 
-<sub>● core/relevant capability · ◐ selective use or capability direction · — not a primary product focus. Update this map as implementations evolve.</sub>
+<sub>● kapabilitas inti/relevan · ◐ penggunaan selektif atau arah kapabilitas · — bukan fokus utama produk. Perbarui peta ini seiring berkembangnya implementasi.</sub>
 
 ## Standar Engineering
 
 <p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="Standar Engineering table covering Build, Operate, Protect, and Evolve"></p>
 
-## Sophistec Visual System
+## Sistem Visual Sophistec
 
 <p align="center">
   <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec Technology Ecosystem">
 </p>
 
-### Product Constellation
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec Product Constellation"></p>
+### Konstelasi Produk
+<p align="center"><img src="../assets/svg/product-constellation.svg?v=12" width="100%" alt="Sophistec Konstelasi Produk"></p>
 
-### Cross-Border Collaboration
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Cross-Border Collaboration"></p>
+### Kolaborasi Lintas Negara
+<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Kolaborasi Lintas Negara"></p>
 
-### Request Lifecycle
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Request to Production Lifecycle"></p>
+### Siklus Permintaan
+<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Request to Produkion Lifecycle"></p>
 
-### Agentic Execution
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Agentic Execution Loop"></p>
+### Eksekusi Agentic
+<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Eksekusi Agentic Loop"></p>
 
-### Data to Intelligence
+### Data menjadi Intelligence
 <p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Data Intelligence Lifecycle"></p>
 
-### Engineering Principles
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="Engineering Principles"></p>
+### Prinsip Engineering
+<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="Prinsip Engineering"></p>
 
-### Capability System
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="Engineering Capability System"></p>
+### Sistem Kapabilitas
+<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="Engineering Sistem Kapabilitas"></p>
 
-## Premium Engineering Visuals
+## Visual Engineering Premium
 
-These diagrams summarize how Sophistec approaches product engineering as connected systems rather than isolated technologies.
+Diagram-diagram ini merangkum pendekatan Sophistec terhadap product engineering sebagai sistem yang saling terhubung, bukan sekadar teknologi yang berdiri sendiri.
 
 <p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Engineering Journey"></p>
 
-### Connected Platform
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Connected Platform Architecture"></p>
+### Platform Terhubung
+<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Platform Terhubung Arsitektur"></p>
 
-### Microservices & Distributed Systems
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices Architecture"></p>
+### Microservices & Sistem Terdistribusi
+<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices Arsitektur"></p>
 
-### AI-Native Intelligence
+### Intelligence AI-Native
 <p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI Intelligence Layer"></p>
 
-### Enterprise RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Enterprise RAG Pipeline"></p>
+### RAG Enterprise
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise Pipeline"></p>
 
-### CI/CD & Production Delivery
+### CI/CD & Delivery ke Produksi
 <p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI CD Pipeline"></p>
 
-### Enterprise Integration
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Integration Ecosystem"></p>
+### Integrasi Enterprise
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Integrasi Ecosystem"></p>
 
-### SaaS Identity & Entitlements
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identity Flow"></p>
+### Identitas SaaS & Entitlement
+<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identitas Flow"></p>
 
 ### Observability & Reliability
 <p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="Observability Loop"></p>
 
-### Security by Design
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="Security by Design"></p>
+### Keamanan by Design
+<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="Keamanan by Design"></p>
 
 ## Kapabilitas Teknologi & Engineering
 
-Sophistec combines product thinking, software engineering, artificial
-intelligence, data, infrastructure, and system integration to build
-practical digital products from end to end.
+Sophistec menggabungkan product thinking, software engineering, artificial
+intelligence, data, infrastruktur, dan integrasi sistem untuk membangun
+produk digital praktis secara end-to-end.
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=900&color=0B5FFF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Data+%E2%86%92+AI+%E2%86%92+Infrastructure;Design+%E2%86%92+Build+%E2%86%92+Integrate+%E2%86%92+Automate+%E2%86%92+Scale" alt="Sophistec technology workflow">
 </p>
-### Frontend Development
+### Pengembangan Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -365,9 +363,9 @@ practical digital products from end to end.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-We build SPA, SSR, and SSG experiences for responsive web applications, SaaS interfaces, management dashboards, admin panels, and customer portals. Our frontend work covers reusable component architecture, state management, design systems, authentication flows, API-first and real-time integration, accessibility, and performance optimization.
+Kami membangun pengalaman SPA, SSR, dan SSG untuk aplikasi web responsif, antarmuka SaaS, dashboard manajemen, admin panel, dan portal pelanggan. Pekerjaan frontend kami mencakup arsitektur komponen reusable, state management, design system, alur autentikasi, integrasi API-first dan real-time, aksesibilitas, serta optimasi performa.
 
-### Backend & API Engineering
+### Engineering Backend & API
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -384,53 +382,53 @@ We build SPA, SSR, and SSG experiences for responsive web applications, SaaS int
   <img src="https://img.shields.io/badge/Webhooks-2C5BB4?style=flat-square&logo=webhook&logoColor=white" alt="Webhooks">
 </p>
 
-Our backend work includes Go services, REST, GraphQL, gRPC, WebSockets, authentication and authorization with OAuth 2.0, JWT, and RBAC/ABAC, plus business logic, API gateways, service-to-service communication, background jobs, queues, workers, scheduled tasks, event processing, webhooks, notifications, audit trails, versioning, idempotency, rate limiting, caching, and third-party integrations.
+Pekerjaan backend kami mencakup layanan Go, REST, GraphQL, gRPC, WebSockets, autentikasi dan otorisasi menggunakan OAuth 2.0, JWT, serta RBAC/ABAC, ditambah business logic, API gateway, komunikasi service-to-service, background job, queue, worker, scheduled task, event processing, webhook, notifikasi, audit trail, versioning, idempotency, rate limiting, caching, dan integrasi pihak ketiga.
 
-### AI, LLM & Intelligent Systems
+### AI, LLM & Sistem Cerdas
 
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI">
 <img src="https://img.shields.io/badge/LLM-Applications-5A189A?style=flat-square" alt="LLM Applications">
-<img src="https://img.shields.io/badge/AI-Agents-7B2CBF?style=flat-square" alt="AI Agents">
+<img src="https://img.shields.io/badge/AI-Agents-7B2CBF?style=flat-square" alt="AI Agent">
 <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=flat-square" alt="RAG">
 <img src="https://img.shields.io/badge/Agentic-RAG-4F46E5?style=flat-square" alt="Agentic RAG">
 <img src="https://img.shields.io/badge/Vector-Semantic_Search-457B9D?style=flat-square" alt="Vector Search">
 <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1D3557?style=flat-square" alt="MCP">
 <img src="https://img.shields.io/badge/AI-Automation-00A99D?style=flat-square" alt="AI Automation">
 </p>
-We explore and build AI-powered systems around:
+Kami mengeksplorasi dan membangun sistem berbasis AI yang mencakup:
 
--   **Large Language Models (LLMs)** and generative AI applications
--   **AI Agents** that can reason across tools, APIs, databases, and
-    workflows
--   **Multi-Agent Systems** and agent orchestration
--   **Retrieval-Augmented Generation (RAG)** for grounded,
-    knowledge-aware applications
--   **Agentic RAG** for multi-step retrieval, reasoning, and tool
+-   **Large Language Models (LLM)** dan aplikasi generative AI
+-   **AI Agent** yang dapat melakukan reasoning di berbagai tool, API, database, dan
+    workflow
+-   **Sistem Multi-Agent** dan orkestrasi agent
+-   **Retrieval-Augmented Generation (RAG)** untuk output yang grounded,
+    aplikasi yang memahami knowledge
+-   **Agentic RAG** untuk retrieval multi-langkah, reasoning, dan tool
     execution
 -   **Embeddings, Vector Search & Semantic Search**
 -   **Function Calling & Tool Calling**
 -   **Prompt Engineering & Context Engineering**
 -   **Model Context Protocol (MCP)**
--   **Knowledge Base Systems & Document Intelligence**
--   **AI Workflow & Business Process Automation**
--   **Human-in-the-Loop AI Systems**
+-   **Sistem Knowledge Base & Document Intelligence**
+-   **Workflow AI & Otomasi Proses Bisnis**
+-   **Sistem AI Human-in-the-Loop**
 
-A typical intelligent application can connect models with private
-knowledge and operational tools:
+Aplikasi cerdas pada umumnya dapat menghubungkan model dengan
+knowledge privat dan tool operasional:
 
 <p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
 
-### RAG & Enterprise Knowledge Systems
+### RAG & Sistem Knowledge Enterprise
 
-Our RAG-oriented architecture can include:
+Arsitektur berbasis RAG kami dapat mencakup:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Enterprise RAG pipeline from knowledge sources to grounded response and action"></p>
+<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise pipeline from knowledge sources to grounded response and action"></p>
 
-Key areas include document processing, chunking strategies, metadata,
-embeddings, vector databases, semantic retrieval, hybrid search,
-re-ranking, context construction, grounded generation, citations, and
-enterprise knowledge integration.
+Area utama mencakup pemrosesan dokumen, strategi chunking, metadata,
+embeddings, vector database, semantic retrieval, hybrid search,
+re-ranking, penyusunan konteks, grounded generation, sitasi, dan
+integrasi knowledge enterprise.
 
 ### Machine Learning & Data
 
@@ -441,24 +439,24 @@ enterprise knowledge integration.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
-Our data and machine-learning capabilities cover data preparation,
-analysis, visualization, feature engineering, classification,
-regression, clustering, predictive workflows, ML pipelines, model
-evaluation, and computer-vision-oriented applications.
+Kapabilitas data dan machine learning kami mencakup persiapan data,
+analisis, visualisasi, feature engineering, klasifikasi,
+regresi, clustering, workflow prediktif, pipeline ML, evaluasi model,
+serta aplikasi yang berorientasi computer vision.
 
-### Databases, Cache, Search & Data Infrastructure
+### Database, Cache, Search & Infrastruktur Data
 
 <p>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Vector_Search-6D28D9?style=flat-square">
 </p>
-**Extended data capabilities:** relational modeling · indexing ·
-transactions · migrations · query optimization · caching · full-text
-search · search indexes · vector storage · semantic retrieval ·
-backup/recovery strategies · data integrity.
+**Kapabilitas data lanjutan:** pemodelan relasional · indexing ·
+transaksi · migrasi · optimasi query · caching · full-text
+search · search index · penyimpanan vector · semantic retrieval ·
+strategi backup/recovery · integritas data.
 
-### Databases & Data Infrastructure
+### Database & Infrastruktur Data
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -468,107 +466,107 @@ backup/recovery strategies · data integrity.
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
 <img src="https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat-square" alt="Vector Databases">
 </p>
-We work with relational data modeling, schema design, indexing, query
-optimization, caching, transactions, data integrity, migrations, vector
-storage, and semantic retrieval infrastructure.
+Kami bekerja dengan pemodelan data relasional, desain schema, indexing, query
+optimization, caching, transaksi, integritas data, migrasi, vector
+storage, dan infrastruktur semantic retrieval.
 
-### Microservices, Distributed Systems & Event-Driven Architecture
+### Microservices, Sistem Terdistribusi & Arsitektur Event-Driven
 
 <p>
-<img src="https://img.shields.io/badge/Microservices-Architecture-0B5FFF?style=flat-square">
+<img src="https://img.shields.io/badge/Microservices-Arsitektur-0B5FFF?style=flat-square">
 <img src="https://img.shields.io/badge/Distributed-Systems-1D3557?style=flat-square">
-<img src="https://img.shields.io/badge/Event--Driven-Architecture-FF6F00?style=flat-square">
-<img src="https://img.shields.io/badge/API--First-Architecture-6D28D9?style=flat-square">
-<img src="https://img.shields.io/badge/Modular_Monolith-Architecture-00A99D?style=flat-square">
+<img src="https://img.shields.io/badge/Event--Driven-Arsitektur-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/API--First-Arsitektur-6D28D9?style=flat-square">
+<img src="https://img.shields.io/badge/Modular_Monolith-Arsitektur-00A99D?style=flat-square">
 <img src="https://img.shields.io/badge/Multi--Tenant-SaaS-457B9D?style=flat-square">
 </p>
-Sophistec designs architecture according to product scale and
-operational requirements, including:
+Sophistec merancang arsitektur sesuai skala produk dan
+kebutuhan operasional, termasuk:
 
--   Monolithic and modular-monolith architecture
--   Microservices and service-oriented architecture
--   Distributed systems
--   API-first architecture
--   Event-driven architecture
--   Domain-oriented service boundaries
--   API Gateway / Backend-for-Frontend patterns
--   Service-to-service communication
--   Asynchronous processing
--   Horizontal scaling and load balancing
--   Fault isolation, retries, timeouts and resilience patterns
--   Eventual consistency where appropriate
--   Observability and distributed tracing
+-   Arsitektur monolithic dan modular monolith
+-   Microservices dan service-oriented architecture
+-   Sistem terdistribusi
+-   Arsitektur API-first
+-   Arsitektur event-driven
+-   Batas layanan berorientasi domain
+-   Pola API Gateway / Backend-for-Frontend
+-   Komunikasi service-to-service
+-   Pemrosesan asynchronous
+-   Horizontal scaling dan load balancing
+-   Fault isolation, retry, timeout, dan pola resilience
+-   Eventual consistency bila sesuai
+-   Observability dan distributed tracing
 
 <p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
 
-### Messaging, Queues & Event Processing
+### Messaging, Queue & Event Processing
 
 <p>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 </p>
-Message queues · publish/subscribe · background workers · asynchronous
-jobs · event consumers · retry/dead-letter strategies · notification
-pipelines · scheduled processing · data synchronization.
+Message queue · publish/subscribe · background worker · asynchronous
+jobs · event consumer · strategi retry/dead-letter · notification
+pipelines · pemrosesan terjadwal · sinkronisasi data.
 
-### SaaS & Software Architecture
+### Arsitektur SaaS & Perangkat Lunak
 
-Our engineering approach covers architecture beyond individual
-applications:
+Pendekatan engineering kami mencakup arsitektur yang melampaui
+aplikasi individual:
 
--   SaaS & multi-tenant platforms
--   Modular monoliths and service-oriented systems
--   Microservices where appropriate
--   API-first architecture
--   Event-driven workflows
--   Centralized identity and account systems
--   Organization and tenant management
+-   Platform SaaS & multi-tenant
+-   Modular monolith dan sistem service-oriented
+-   Microservices bila sesuai
+-   Arsitektur API-first
+-   Event-driven workflow
+-   Sistem identitas dan akun terpusat
+-   Manajemen organisasi dan tenant
 -   SSO, OAuth, JWT & RBAC
--   Product entitlements and access control
--   Subscription, billing & usage architecture
+-   Entitlement produk dan kontrol akses
+-   Arsitektur subscription, billing & usage
 -   Audit logging
--   Webhooks and integration layers
--   Scalable product and service architecture
+-   Webhook dan lapisan integrasi
+-   Arsitektur produk dan layanan yang scalable
 
 <p align="center">
   <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
 </p>
 
-### Integration Engineering
+### Engineering Integrasi
 
-Sophistec builds software that connects with wider digital ecosystems.
+Sophistec membangun perangkat lunak yang terhubung dengan ekosistem digital yang lebih luas.
 
-Integration areas can include:
+Area integrasi dapat mencakup:
 
 -   REST APIs
 -   Webhooks
--   Authentication providers
--   Payment gateways
--   Marketplace platforms
--   Logistics providers
--   Communication services
--   Healthcare systems
--   Government systems
--   AI providers
--   External SaaS platforms
--   Internal enterprise systems
+-   Provider autentikasi
+-   Payment gateway
+-   Platform marketplace
+-   Provider logistik
+-   Layanan komunikasi
+-   Sistem layanan kesehatan
+-   Sistem pemerintahan
+-   Provider AI
+-   Platform SaaS eksternal
+-   Sistem enterprise internal
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, AI providers, and third-party SaaS"></p>
+<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, Provider AI, and third-party SaaS"></p>
 
-### DevOps, Cloud, Containers & Infrastructure
+### DevOps, Cloud, Container & Infrastruktur
 
 <p>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/CI%2FCD-Automation-0B5FFF?style=flat-square">
 </p>
-**Extended infrastructure capabilities:** containerization ·
-orchestration · reverse proxy · load balancing · deployment automation ·
-environment management · horizontal scaling · backups · health checks ·
-production monitoring.
+**Kapabilitas infrastruktur lanjutan:** containerization ·
+orkestrasi · reverse proxy · load balancing · otomasi deployment ·
+manajemen environment · horizontal scaling · backup · health check ·
+monitoring produksi.
 
-### DevOps, Cloud & Infrastructure
+### DevOps, Cloud & Infrastruktur
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -578,16 +576,16 @@ production monitoring.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
-Infrastructure capabilities include Linux environments, Docker, Nginx,
-reverse proxies, SSL/TLS, DNS, Git-based workflows, CI/CD, process
-management, deployment, logging, monitoring, and production
-troubleshooting.
+Kapabilitas infrastruktur mencakup environment Linux, Docker, Nginx,
+reverse proxy, SSL/TLS, DNS, workflow berbasis Git, CI/CD, process
+management, deployment, logging, monitoring, dan troubleshooting
+produksi.
 
 ---
 
-### Additional Modern Engineering Capabilities
+### Kapabilitas Engineering Modern Tambahan
 
-To complement the core stack above, Sophistec's engineering capability map also covers several important production-system areas:
+Untuk melengkapi core stack di atas, peta kapabilitas engineering Sophistec juga mencakup beberapa area penting dalam sistem produksi:
 
 <p>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
@@ -600,32 +598,32 @@ To complement the core stack above, Sophistec's engineering capability map also 
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="Object Storage">
 </p>
 
-- **API Contracts & Developer Experience:** OpenAPI / Swagger, API schemas, versioning, SDK-oriented interfaces, API documentation, contract validation, and Postman-based API workflows.
-- **Infrastructure as Code:** declarative infrastructure and repeatable environment provisioning patterns, including Terraform-oriented workflows where appropriate.
-- **Observability Stack:** metrics, dashboards, distributed telemetry, traces, logs, alerting, and OpenTelemetry-oriented instrumentation.
-- **Object & File Storage:** object-storage patterns for documents, media, exports, backups, and application assets.
-- **Caching & Performance:** distributed caching, query optimization, connection management, background processing, CDN-aware delivery, and performance profiling.
-- **Resilience Engineering:** retries, timeouts, circuit breakers, idempotency, graceful degradation, dead-letter handling, and failure isolation.
-- **API & Application Security:** OWASP-aware secure development, CORS/CSP/security headers, validation, secrets management, dependency hygiene, auditability, and secure-by-default API patterns.
-- **Testing Strategy:** unit, integration, contract, API, end-to-end, load/performance, and regression testing integrated into delivery pipelines.
-- **Data Governance Foundations:** data lifecycle, retention, access boundaries, audit trails, backups, recovery, and privacy-aware system design.
-- **Developer Platform Practices:** reusable shared services, common components, internal APIs, templates, automation, documentation, and standardized delivery workflows.
+- **Kontrak API & Developer Experience:** OpenAPI / Swagger, schema API, versioning, interface berorientasi SDK, dokumentasi API, validasi contract, dan workflow API berbasis Postman.
+- **Infrastructure as Code:** infrastruktur deklaratif dan pola provisioning environment yang dapat diulang, termasuk workflow berorientasi Terraform bila sesuai.
+- **Stack Observability:** metric, dashboard, distributed telemetry, trace, log, alerting, dan instrumentation berorientasi OpenTelemetry.
+- **Object & File Storage:** pola object storage untuk dokumen, media, export, backup, dan asset aplikasi.
+- **Caching & Performa:** distributed caching, optimasi query, connection management, background processing, delivery yang mempertimbangkan CDN, dan performance profiling.
+- **Resilience Engineering:** retry, timeout, circuit breaker, idempotency, graceful degradation, dead-letter handling, dan failure isolation.
+- **Keamanan API & Aplikasi:** secure development yang mempertimbangkan OWASP, CORS/CSP/security header, validasi, secrets management, dependency hygiene, auditability, dan pola API secure-by-default.
+- **Strategi Testing:** unit testing, integration testing, contract testing, API testing, end-to-end testing, load/performance testing, dan regression testing yang terintegrasi ke dalam delivery pipeline.
+- **Fondasi Tata Kelola Data:** data lifecycle, retensi, access boundary, audit trail, backup, recovery, dan desain sistem yang mempertimbangkan privasi.
+- **Praktik Developer Platform:** shared service reusable, common component, API internal, template, automation, dokumentasi, dan delivery workflow yang terstandarisasi.
 
-### Observability & Reliability Engineering
+### Engineering Observability & Reliability
 
-Logging · metrics · monitoring · health checks · alerting · tracing ·
+Logging · metrics · monitoring · health check · alerting · tracing ·
 distributed tracing · error tracking · uptime monitoring · performance
 profiling · incident troubleshooting · graceful failure · retry
 strategies · resilience patterns.
 
-### Security Engineering
+### Keamanan Engineering
 
 Authentication · authorization · OAuth 2.0 · JWT · RBAC · ABAC · API
 keys · secrets management · TLS · encryption in transit · encryption at
 rest · audit logging · rate limiting · input validation · least
 privilege · secure API design · session security · security headers.
 
-### Testing & Quality Engineering
+### Testing & Kualitas Engineering
 
 Unit testing · integration testing · API testing · end-to-end testing ·
 regression testing · automated CI validation · linting · static analysis
@@ -639,106 +637,106 @@ permissions · SSO · product entitlements · subscription plans · billing
 · usage tracking · quotas · API keys · provisioning · audit trails ·
 multi-product account access.
 
-### Additional Engineering Coverage
+### Cakupan Engineering Tambahan
 
 <table width="1260">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
-  <thead><tr><th width="174">Area</th><th width="1086">Technologies / Capabilities</th></tr></thead>
+  <thead><tr><th width="174">Area</th><th width="1086">Teknologi / Kapabilitas</th></tr></thead>
   <tbody>
     <tr><td><strong>Frontend</strong></td><td>React, Next.js, Vue.js, Nuxt, JavaScript, TypeScript, Vite, Tailwind CSS, Bootstrap, SSR, SSG, SPA</td></tr>
     <tr><td><strong>Backend</strong></td><td>Go (Golang), PHP, Laravel, Python, FastAPI, Flask, Node.js, REST, GraphQL, gRPC, WebSockets</td></tr>
-    <tr><td><strong>Architecture</strong></td><td>Modular Monolith, Microservices, SOA, Distributed Systems, Event-Driven Architecture, API-First, Multi-Tenant SaaS</td></tr>
+    <tr><td><strong>Arsitektur</strong></td><td>Modular Monolith, Microservices, SOA, Distributed Systems, Event-Driven Arsitektur, API-First, Multi-Tenant SaaS</td></tr>
     <tr><td><strong>Messaging</strong></td><td>RabbitMQ, Kafka concepts, Redis, queues, workers, pub/sub, asynchronous processing</td></tr>
-    <tr><td><strong>AI Engineering</strong></td><td>LLMs, Generative AI, AI Agents, Multi-Agent Systems, RAG, Agentic RAG, MCP, Tool Calling, Function Calling</td></tr>
+    <tr><td><strong>AI Engineering</strong></td><td>LLMs, Generative AI, AI Agent, Sistem Multi-Agent, RAG, Agentic RAG, MCP, Tool Calling, Function Calling</td></tr>
     <tr><td><strong>AI Retrieval</strong></td><td>Embeddings, Vector Search, Semantic Search, Hybrid Search, Re-Ranking, Knowledge Bases</td></tr>
     <tr><td><strong>ML &amp; Data</strong></td><td>scikit-learn, XGBoost, Pandas, NumPy, Jupyter, ETL/ELT, analytics, computer vision</td></tr>
     <tr><td><strong>Data</strong></td><td>MySQL, PostgreSQL, SQLite, Redis, pgvector, vector databases, Elasticsearch/search</td></tr>
-    <tr><td><strong>Identity</strong></td><td>SSO, OAuth 2.0, JWT, RBAC, ABAC, API Keys, centralized identity</td></tr>
-    <tr><td><strong>SaaS Platform</strong></td><td>Organizations, tenants, subscriptions, billing, usage, quotas, entitlements, provisioning</td></tr>
-    <tr><td><strong>DevOps</strong></td><td>Docker, Kubernetes concepts, Linux, Nginx, Git, GitHub Actions, CI/CD, deployment automation</td></tr>
-    <tr><td><strong>Reliability</strong></td><td>Logging, monitoring, metrics, tracing, health checks, alerting, retries, resilience</td></tr>
-    <tr><td><strong>Security</strong></td><td>TLS, encryption, secrets, audit logs, rate limiting, validation, least privilege</td></tr>
-    <tr><td><strong>Integration</strong></td><td>REST, GraphQL, gRPC, Webhooks, Payments, Marketplace, Logistics, Healthcare, Government, Third-Party SaaS</td></tr>
-    <tr><td><strong>Quality</strong></td><td>Unit, Integration, API, E2E, Regression, CI validation, Code Review, Documentation</td></tr>
+    <tr><td><strong>Identitas</strong></td><td>SSO, OAuth 2.0, JWT, RBAC, ABAC, API Keys, centralized identity</td></tr>
+    <tr><td><strong>Platform SaaS</strong></td><td>Organizations, tenants, subscriptions, billing, usage, quotas, entitlements, provisioning</td></tr>
+    <tr><td><strong>DevOps</strong></td><td>Docker, Kubernetes concepts, Linux, Nginx, Git, GitHub Actions, CI/CD, otomasi deployment</td></tr>
+    <tr><td><strong>Reliability</strong></td><td>Logging, monitoring, metrics, tracing, health check, alerting, retries, resilience</td></tr>
+    <tr><td><strong>Keamanan</strong></td><td>TLS, encryption, secrets, audit logs, rate limiting, validation, least privilege</td></tr>
+    <tr><td><strong>Integrasi</strong></td><td>REST, GraphQL, gRPC, Webhooks, Payments, Marketplace, Logistics, Healthcare, Government, Third-Party SaaS</td></tr>
+    <tr><td><strong>Kualitas</strong></td><td>Unit, Integrasi, API, E2E, Regression, CI validation, Code Review, Documentation</td></tr>
   </tbody>
 </table>
 
-## Engineering Focus Areas
+## Area Fokus Engineering
 
 <table width="1260">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
-  <thead><tr><th width="330">Focus</th><th width="930">What We Build</th></tr></thead>
+  <thead><tr><th width="330">Fokus</th><th width="930">Yang Kami Bangun</th></tr></thead>
   <tbody>
-    <tr><td><strong>Full-Stack Product Engineering</strong></td><td>End-to-end digital products spanning frontend, backend, APIs, databases, and infrastructure.</td></tr>
-    <tr><td><strong>AI Agents &amp; Intelligent Automation</strong></td><td>AI systems that interact with tools, APIs, databases, knowledge, and operational workflows.</td></tr>
-    <tr><td><strong>RAG &amp; Enterprise Knowledge</strong></td><td>Grounded AI applications using private documents, structured data, embeddings, and semantic retrieval.</td></tr>
-    <tr><td><strong>Backend &amp; API Architecture</strong></td><td>Robust application services, authentication, business logic, integrations, queues, and APIs.</td></tr>
-    <tr><td><strong>SaaS &amp; Multi-Tenant Platforms</strong></td><td>Organization-aware platforms with identity, RBAC, subscriptions, billing, usage, and product access.</td></tr>
-    <tr><td><strong>Machine Learning &amp; Data</strong></td><td>Practical data pipelines, analytics, predictive models, and intelligent applications.</td></tr>
-    <tr><td><strong>Enterprise Integration</strong></td><td>Connections between internal systems, third-party platforms, government services, healthcare, commerce, and AI providers.</td></tr>
+    <tr><td><strong>Full-Stack Produk Engineering</strong></td><td>Produk digital end-to-end yang mencakup frontend, backend, API, database, dan infrastruktur.</td></tr>
+    <tr><td><strong>AI Agent &amp; Intelligent Automation</strong></td><td>Sistem AI yang berinteraksi dengan tool, API, database, knowledge, dan workflow operasional.</td></tr>
+    <tr><td><strong>RAG &amp; Enterprise Knowledge</strong></td><td>Aplikasi AI grounded yang menggunakan dokumen privat, data terstruktur, embeddings, dan semantic retrieval.</td></tr>
+    <tr><td><strong>Backend &amp; API Arsitektur</strong></td><td>Layanan aplikasi yang robust, autentikasi, business logic, integrasi, queue, dan API.</td></tr>
+    <tr><td><strong>SaaS &amp; Multi-Tenant Platforms</strong></td><td>Platform yang memahami konteks organisasi dengan identitas, RBAC, subscription, billing, usage, dan akses produk.</td></tr>
+    <tr><td><strong>Machine Learning &amp; Data</strong></td><td>Pipeline data praktis, analitik, model prediktif, dan aplikasi cerdas.</td></tr>
+    <tr><td><strong>Integrasi Enterprise</strong></td><td>Koneksi antara sistem internal, platform pihak ketiga, layanan pemerintahan, healthcare, commerce, dan provider AI.</td></tr>
   </tbody>
 </table>
-| **Cloud & Infrastructure** | Production deployment, containerization, web infrastructure, CI/CD, monitoring, and operational reliability. |
+| **Cloud & Infrastruktur** | Deployment produksi, containerization, infrastruktur web, CI/CD, monitoring, dan reliability operasional. |
 
-## From Product Idea to Production
+## Dari Ide Produk ke Produksi
 
-Sophistec's technology work is designed around the complete lifecycle of
-a digital product:
+Pekerjaan teknologi Sophistec dirancang berdasarkan lifecycle lengkap
+sebuah produk digital:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="From Product Idea to Production lifecycle">
+  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="Dari Ide Produk ke Produksi lifecycle">
 </p>
 
-This allows us to approach technology not as isolated code, but as a
-connected product, operational, and business system.
+Hal ini memungkinkan kami memandang teknologi bukan sebagai kode yang berdiri sendiri, tetapi sebagai
+produk, operasional, dan sistem bisnis yang saling terhubung.
 
-## Our Technology Philosophy
+## Filosofi Teknologi Kami
 
-> **Human ingenuity. AI acceleration. Practical impact.**
+> **Kecerdikan manusia. Akselerasi AI. Dampak nyata.**
 
-We believe the strongest technology comes from the synergy between
-**human creativity, critical thinking, domain understanding, and
+Kami percaya teknologi terbaik lahir dari sinergi antara
+**kreativitas manusia, pemikiran kritis, pemahaman domain, dan
 artificial intelligence**.
 
-AI can accelerate development, automate repetitive work, improve access
-to knowledge, and unlock entirely new product experiences. But
-meaningful technology still depends on thoughtful architecture, product
-judgment, security, reliability, and a clear understanding of the people
-and organizations it serves.
+AI dapat mempercepat pengembangan, mengotomasi pekerjaan berulang, meningkatkan akses
+terhadap knowledge, dan membuka pengalaman produk yang benar-benar baru. Namun
+teknologi yang bermakna tetap bergantung pada arsitektur yang matang, product
+judgment, keamanan, reliability, serta pemahaman yang jelas mengenai orang
+dan organisasi yang dilayaninya.
 
 <p align="center">
   <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
 </p>
 
-Our goal is not simply to add AI to software.
+Tujuan kami bukan sekadar menambahkan AI ke dalam perangkat lunak.
 
-Our goal is to build technology that is **useful, connected, scalable,
-responsible, and designed to evolve**.
+Tujuan kami adalah membangun teknologi yang **berguna, terhubung, scalable,
+bertanggung jawab, dan dirancang untuk terus berkembang**.
 
 ---
 
-## The Sophistec Engineering Loop
+## Siklus Engineering Sophistec
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=700&color=00A99D&center=true&vCenter=true&width=920&lines=%F0%9F%94%8E+Discover+the+Problem;%F0%9F%A7%AD+Define+the+Strategy;%F0%9F%8F%97%EF%B8%8F+Architect+the+System;%F0%9F%92%BB+Build+the+Product;%F0%9F%94%97+Integrate+the+Ecosystem;%F0%9F%A4%96+Automate+with+AI;%F0%9F%9A%80+Deploy+to+Production;%F0%9F%93%88+Observe%2C+Learn+%26+Scale" alt="Sophistec engineering loop animation">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=700&color=00A99D&center=true&vCenter=true&width=920&lines=%F0%9F%94%8E+Discover+the+Problem;%F0%9F%A7%AD+Define+the+Strategy;%F0%9F%8F%97%EF%B8%8F+Architect+the+System;%F0%9F%92%BB+Build+the+Produk;%F0%9F%94%97+Integrate+the+Ecosystem;%F0%9F%A4%96+Automate+with+AI;%F0%9F%9A%80+Deploy+to+Produkion;%F0%9F%93%88+Observe%2C+Learn+%26+Scale" alt="Sophistec engineering loop animation">
 </p>
 <div align="center">
 `DISCOVER` → `STRATEGY` → `ARCHITECT` → `BUILD` → `INTEGRATE` →
 `AUTOMATE` → `DEPLOY` → `SCALE`
 
-<sub>Product thinking and engineering operate as one continuous
-improvement loop.</sub>
+<sub>Produk thinking dan engineering berjalan sebagai satu siklus
+peningkatan yang berkelanjutan.</sub>
 </div>
 
 ---
 
-## From Interface to Intelligence
+## Dari Interface ke Intelligence
 
-Sophistec is designed to work across the complete technology stack
-rather than treating frontend, backend, infrastructure, data, and AI as
-isolated disciplines.
+Sophistec dirancang untuk bekerja di seluruh technology stack
+tanpa memperlakukan frontend, backend, infrastruktur, data, dan AI sebagai
+disiplin yang terpisah.
 
 <p align="center">
   <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
@@ -746,78 +744,78 @@ isolated disciplines.
 
 ---
 
-## Architecture Principles
+## Prinsip Arsitektur
 
-| Principle | How We Apply It |
+| Prinsip | Cara Kami Menerapkannya |
 | --- | --- |
-| **API-First** | Capabilities are designed to be reusable across products, interfaces, and integrations. |
-| **Modular by Default** | Clear domain boundaries make systems easier to evolve and scale. |
-| **Microservices When They Earn Their Complexity** | Independent services are introduced when scale, ownership, resilience, or deployment boundaries justify them. |
-| **Event-Driven Where It Helps** | Queues and events decouple long-running, asynchronous, and cross-system workflows. |
-| **Secure by Design** | Identity, authorization, auditability, validation, and least privilege are considered at architecture level. |
-| **Observable in Production** | Logs, metrics, health checks, traces, and operational visibility are part of the system---not an afterthought. |
-| **AI with Grounding & Control** | Retrieval, tools, structured outputs, permissions, and human oversight make AI useful in real workflows. |
-| **Built to Evolve** | Architecture should support iteration without requiring unnecessary rewrites. |
+| **API-First** | Kapabilitas dirancang agar dapat digunakan kembali di berbagai produk, interface, dan integrasi. |
+| **Modular by Default** | Batas domain yang jelas membuat sistem lebih mudah dikembangkan dan diskalakan. |
+| **Microservices When They Earn Their Complexity** | Layanan independen diperkenalkan ketika skala, ownership, resilience, atau batas deployment memang membutuhkannya. |
+| **Event-Driven Bila Bermanfaat** | Queue dan event memisahkan workflow jangka panjang, asynchronous, dan lintas sistem. |
+| **Secure by Design** | Identitas, otorisasi, auditability, validasi, dan least privilege dipertimbangkan sejak level arsitektur. |
+| **Observable in Produkion** | Log, metric, health check, trace, dan visibilitas operasional merupakan bagian dari sistem—bukan tambahan belakangan. |
+| **AI dengan Grounding & Kontrol** | Retrieval, tool, structured output, permission, dan human oversight membuat AI berguna dalam workflow nyata. |
+| **Built to Evolve** | Arsitektur harus mendukung iterasi tanpa memerlukan rewrite yang tidak perlu. |
 
 ---
 
-## AI-Native Product Architecture
+## Arsitektur Produk AI-Native
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=User+%E2%86%92+Agent+%E2%86%92+Knowledge+%E2%86%92+Tools+%E2%86%92+Action;LLM+%2B+RAG+%2B+Memory+%2B+APIs+%2B+Business+Logic;From+AI+Chat+to+AI-Powered+Operations" alt="Sophistec AI-native architecture animation">
 </p>
 <p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
 
-The objective is to move beyond isolated chat interfaces toward AI
-systems that can retrieve trusted context, use permitted tools, interact
-with software, and support real operational workflows.
+Tujuannya adalah bergerak melampaui interface chat yang terisolasi menuju sistem AI
+yang dapat mengambil konteks tepercaya, menggunakan tool yang diizinkan, berinteraksi
+dengan perangkat lunak, serta mendukung workflow operasional nyata.
 
 ---
 
-## Delivery Lifecycle
+## Lifecycle Delivery
 
 <p align="center">
   <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
 </p>
 
-**Discover** the real problem → **define** product and technical
-direction → **architect** the system → **build** in iterations →
-**validate** quality and security → **deploy** reliably → **observe**
-production behavior → **improve and scale**.
+**Temukan** masalah yang sebenarnya → **definisikan** arah produk dan teknis
+→ **rancang arsitektur** sistem → **bangun** secara iteratif →
+**validasi** kualitas dan keamanan → **deploy** secara andal → **observasi**
+perilaku di produksi → **tingkatkan dan skalakan**.
 
 ---
 
-## Built for Real-World Systems
+## Dibangun untuk Sistem Dunia Nyata
 
-Our engineering capabilities are especially relevant to platforms where
-multiple domains need to work together:
+Kapabilitas engineering kami sangat relevan untuk platform yang
+membutuhkan banyak domain untuk bekerja bersama:
 
 <p align="center">
 <img src="https://img.shields.io/badge/Healthcare-Digital_Operations-00A99D?style=for-the-badge">
 <img src="https://img.shields.io/badge/Commerce-Omnichannel-0B5FFF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Enterprise-Management-1D3557?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-Intelligent_Automation-6D28D9?style=for-the-badge">
-<img src="https://img.shields.io/badge/Identity-Security-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/Identitas-Keamanan-181717?style=for-the-badge">
 </p>
-Healthcare workflows, omnichannel commerce, enterprise operations,
-customer support, centralized identity, billing, integrations,
-analytics, and AI automation can be designed as connected parts of a
-wider platform ecosystem.
+Workflow healthcare, omnichannel commerce, operasional enterprise,
+customer support, identitas terpusat, billing, integrasi,
+analitik, dan otomasi AI dapat dirancang sebagai bagian yang saling terhubung dari
+ekosistem platform yang lebih luas.
 
 ---
 
-## Engineering Maturity
+## Kematangan Engineering
 
-A premium product is not defined only by its framework. We consider the
-operational characteristics that determine whether software is ready to
-become infrastructure for a business.
+Produk premium tidak hanya ditentukan oleh framework yang digunakan. Kami mempertimbangkan
+karakteristik operasional yang menentukan apakah perangkat lunak siap
+menjadi infrastruktur bagi sebuah bisnis.
 
   Build          Operate               Protect             Evolve
   -------------- --------------------- ------------------- ------------------------
-  Architecture   Monitoring            Identity & Access   Modular Design
+  Arsitektur   Monitoring            Identitas & Access   Modular Design
   APIs           Logging               Encryption          Versioning
   Data Models    Metrics               Auditability        Automated Testing
-  Integrations   Health Checks         Validation          CI/CD
+  Integrasis   Health Checks         Validation          CI/CD
   Automation     Incident Visibility   Least Privilege     Documentation
   AI Workflows   Performance           Secure Secrets      Continuous Improvement
 
@@ -825,69 +823,69 @@ become infrastructure for a business.
 
 ## Cara Kami Bekerja
 
-> We make ambitious ideas usable.
+> Kami membuat ide ambisius menjadi dapat digunakan.
 
-We combine strategic thinking with hands-on execution. Every project
-starts from a real problem, moves through clear product thinking and
-design, and ends with a solution that can create practical value.
+Kami menggabungkan pemikiran strategis dengan eksekusi langsung. Setiap proyek
+dimulai dari masalah nyata, bergerak melalui product thinking dan
+desain yang jelas, lalu berakhir pada solusi yang dapat menciptakan nilai praktis.
 
--   **Impact first**: build for meaningful, measurable outcomes.
--   **Human by design**: technology should feel useful and accessible.
--   **Ownership in the details**: care deeply about quality, clarity,
-    and follow-through.
--   **Built to evolve**: launch quickly, learn continuously, and improve
-    deliberately.
--   **Stronger together**: create with clients, partners, developers,
-    creators, and communities.
+-   **Dampak lebih dulu**: membangun untuk hasil yang bermakna dan dapat diukur.
+-   **Human by design**: teknologi harus terasa berguna dan mudah diakses.
+-   **Ownership pada detail**: memberi perhatian serius pada kualitas, kejelasan,
+    dan konsistensi dalam menuntaskan pekerjaan.
+-   **Dibangun untuk berkembang**: launch dengan cepat, belajar terus-menerus, dan meningkatkan
+    secara terarah.
+-   **Lebih kuat bersama**: menciptakan bersama klien, partner, developer,
+    creator, dan komunitas.
 
-## Engineering Governance & Operational Maturity
+## Tata Kelola Engineering & Kematangan Operasional
 
-As systems become business-critical, engineering quality depends on more than implementation. Sophistec also considers how systems are changed, released, supported, documented, and continuously improved.
+Ketika sistem menjadi business-critical, kualitas engineering bergantung pada lebih dari sekadar implementasi. Sophistec juga mempertimbangkan bagaimana sistem diubah, dirilis, didukung, didokumentasikan, dan terus ditingkatkan.
 
-### API Lifecycle & Developer Experience
+### Lifecycle API & Developer Experience
 <p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API Lifecycle"></p>
 
-Contract-first design · OpenAPI / Swagger · versioning · consistent authentication and errors · contract testing · API observability · developer documentation.
+Desain contract-first · OpenAPI / Swagger · versioning · autentikasi dan error yang konsisten · contract testing · observability API · dokumentasi developer.
 
-### Product Learning Loop
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Product Learning Loop"></p>
+### Siklus Pembelajaran Produk
+<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Siklus Pembelajaran Produk"></p>
 
-Engineering delivery connects back to users and outcomes: understand the problem, validate assumptions, release iteratively, observe real usage, and use evidence to guide improvement.
+Delivery engineering terhubung kembali pada pengguna dan hasil: memahami masalah, memvalidasi asumsi, melakukan release secara iteratif, mengamati penggunaan nyata, dan menggunakan evidence untuk mengarahkan peningkatan.
 
 ### Incident Response & Reliability
 <p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Incident Response Loop"></p>
 
-Production maturity includes detection, triage, containment, diagnosis, recovery, review, and preventive improvement.
+Kematangan produksi mencakup deteksi, triage, containment, diagnosis, recovery, review, dan peningkatan preventif.
 
-### Data Governance & Lifecycle
+### Tata Kelola Data & Lifecycle
 <p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Data Governance Lifecycle"></p>
 
-Architecture considers data purpose, classification, access boundaries, retention, auditability, backup/recovery, privacy-aware processing, and secure disposal.
+Arsitektur mempertimbangkan tujuan data, klasifikasi, batas akses, retensi, auditability, backup/recovery, pemrosesan yang memperhatikan privasi, dan pembuangan data secara aman.
 
-## Documentation as Engineering
+## Dokumentasi sebagai Bagian dari Engineering
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
-      <th width="360">Artifact</th>
-      <th width="840">Purpose</th>
+      <th width="360">Artefak</th>
+      <th width="840">Tujuan</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Architecture Decision Records (ADR)</strong></td><td>Preserve important technical decisions and their reasoning.</td></tr>
-    <tr><td><strong>API Documentation</strong></td><td>Define contracts, authentication, payloads, errors, and examples.</td></tr>
-    <tr><td><strong>System Architecture</strong></td><td>Explain services, boundaries, data flows, and dependencies.</td></tr>
-    <tr><td><strong>Runbooks</strong></td><td>Repeatable procedures for deployment, recovery, and incidents.</td></tr>
-    <tr><td><strong>Data Dictionary</strong></td><td>Clarify important entities, fields, ownership, and meaning.</td></tr>
-    <tr><td><strong>Security Notes</strong></td><td>Document access models, secrets, audit behavior, and assumptions.</td></tr>
-    <tr><td><strong>Changelog / Release Notes</strong></td><td>Make product and platform changes visible over time.</td></tr>
-    <tr><td><strong>Developer Onboarding</strong></td><td>Help engineers understand and contribute safely.</td></tr>
+    <tr><td><strong>Arsitektur Decision Records (ADR)</strong></td><td>Menyimpan keputusan teknis penting beserta alasan di baliknya.</td></tr>
+    <tr><td><strong>API Documentation</strong></td><td>Mendefinisikan contract, autentikasi, payload, error, dan contoh.</td></tr>
+    <tr><td><strong>System Arsitektur</strong></td><td>Menjelaskan service, boundary, alur data, dan dependency.</td></tr>
+    <tr><td><strong>Runbooks</strong></td><td>Prosedur berulang untuk deployment, recovery, dan incident.</td></tr>
+    <tr><td><strong>Data Dictionary</strong></td><td>Memperjelas entity penting, field, ownership, dan maknanya.</td></tr>
+    <tr><td><strong>Keamanan Notes</strong></td><td>Mendokumentasikan model akses, secret, perilaku audit, dan asumsi.</td></tr>
+    <tr><td><strong>Changelog / Release Notes</strong></td><td>Membuat perubahan produk dan platform terlihat dari waktu ke waktu.</td></tr>
+    <tr><td><strong>Developer Onboarding</strong></td><td>Membantu engineer memahami sistem dan berkontribusi dengan aman.</td></tr>
   </tbody>
 </table>
 
-## Repository Standards
+## Standar Repository
 
 ```text
 repository/
@@ -901,7 +899,7 @@ repository/
 ├── tests/
 ├── scripts/
 ├── .github/
-│   ├── workflows/
+│   ├── workflow/
 │   ├── ISSUE_TEMPLATE/
 │   └── PULL_REQUEST_TEMPLATE.md
 ├── CHANGELOG.md
@@ -910,89 +908,89 @@ repository/
 └── LICENSE
 ```
 
-`README` · `Architecture` · `API Docs` · `Tests` · `CI/CD` · `Security Policy` · `Contributing Guide` · `Changelog`
+`README` · `Arsitektur` · `API Docs` · `Tests` · `CI/CD` · `Keamanan Policy` · `Contributing Guide` · `Changelog`
 
-## Open Source & Collaboration
+## Open Source & Kolaborasi
 
-Where appropriate, Sophistec can use GitHub as a public engineering surface for reusable libraries and SDKs, API examples, developer tooling, selected reference architectures, technical documentation, community contributions, and engineering research.
+Jika sesuai, Sophistec dapat menggunakan GitHub sebagai permukaan engineering publik untuk library dan SDK reusable, contoh API, developer tooling, reference architecture terpilih, dokumentasi teknis, kontribusi komunitas, dan riset engineering.
 
-> **Build openly where it creates value. Protect what must remain private. Document both deliberately.**
+> **Bangun secara terbuka ketika menciptakan nilai. Lindungi apa yang harus tetap privat. Dokumentasikan keduanya secara terarah.**
 
-## Engineering Trust
+## Kepercayaan dalam Engineering
 
-Technical credibility should come from evidence rather than buzzwords: working products, clear architecture, maintained repositories, meaningful releases, automated testing, documented APIs, security practices, observable systems, reproducible deployment, and thoughtful engineering decisions.
+Kredibilitas teknis seharusnya berasal dari evidence, bukan buzzword: produk yang benar-benar bekerja, arsitektur yang jelas, repository yang terpelihara, release yang bermakna, automated testing, API terdokumentasi, praktik keamanan, sistem yang observable, deployment yang dapat direproduksi, dan keputusan engineering yang matang.
 
-**The technology stack explains what we can use. The products and engineering practices demonstrate how we build.**
+**Technology stack menjelaskan apa yang dapat kami gunakan. Produk dan praktik engineering menunjukkan bagaimana kami membangun.**
 
-## Enterprise Engineering & Platform Direction
+## Arah Enterprise Engineering & Platform
 
-The next stage of Sophistec engineering is to evolve from a collection of products and technologies into a **coherent platform, architecture framework, developer ecosystem, and operational model**. The sections below describe that direction. Roadmap capabilities such as SDKs and CLI tooling should only be presented as generally available once implemented and supported.
+Tahap berikutnya bagi engineering Sophistec adalah berkembang dari kumpulan produk dan teknologi menjadi **platform yang koheren, framework arsitektur, ekosistem developer, dan model operasional**. Bagian di bawah menjelaskan arah tersebut. Kapabilitas roadmap seperti SDK dan CLI tooling hanya boleh disebut tersedia secara umum setelah benar-benar diimplementasikan dan didukung.
 
-### Sophistec Engineering Framework
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec Engineering Framework"></p>
+### Framework Engineering Sophistec
+<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Framework Engineering Sophistec"></p>
 
-Our framework uses eight pillars: **Product Value, Architecture, Security & Trust, Reliability, Performance, Operational Excellence, Cost Efficiency, and Sustainability & Evolution**.
+Framework kami menggunakan delapan pilar: **Nilai Produk, Arsitektur, Keamanan & Kepercayaan, Reliability, Performance, Keunggulan Operasional, Efisiensi Biaya, dan Keberlanjutan & Evolusi**.
 
-### Sophistec Enterprise Platform
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec Enterprise Platform"></p>
+### Platform Enterprise Sophistec
+<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Platform Enterprise Sophistec"></p>
 
 ```text
 Sophistec Platform
-├── Identity & Organization
+├── Identitas & Organization
 ├── Billing & Entitlements
-├── API & Integration
+├── API & Integrasi
 ├── Data & Intelligence
 ├── Automation & Notifications
-├── Observability & Security
+├── Observability & Keamanan
 └── Developer Platform
 ```
 
-Shared capabilities support product domains while allowing products to evolve independently.
+Kapabilitas bersama mendukung domain produk sekaligus memungkinkan setiap produk berkembang secara independen.
 
-### Extension & Connector Framework
+### Framework Extension & Connector
 <p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
 
-A modular extension model can separate **product core, modules, extensions, connectors, webhooks, and custom workflows**, making enterprise customization more controlled and maintainable.
+Model extension modular dapat memisahkan **product core, module, extension, connector, webhook, dan custom workflow**, sehingga kustomisasi enterprise menjadi lebih terkontrol dan mudah dipelihara.
 
 ### Developer Platform
 <p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="Developer Platform"></p>
 
-The developer-platform direction includes **documentation, API reference, SDKs, CLI tooling, sandbox environments, examples, starter kits, changelogs, status information, and integration guides**.
+Arah developer platform mencakup **dokumentasi, referensi API, SDK, CLI tooling, sandbox environment, contoh, starter kit, changelog, informasi status, dan panduan integrasi**.
 
-### Developer Tooling Roadmap
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Developer Tooling Roadmap"></p>
+### Roadmap Developer Tooling
+<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Roadmap Developer Tooling"></p>
 
-Potential supported tooling includes JavaScript, Python, Go, and PHP SDKs plus a Sophistec CLI. These are **roadmap concepts**, not claims of current general availability unless separately published.
+Tooling yang berpotensi didukung mencakup SDK JavaScript, Python, Go, dan PHP serta Sophistec CLI. Semua ini merupakan **konsep roadmap**, bukan klaim bahwa saat ini sudah tersedia secara umum kecuali dipublikasikan secara terpisah.
 
 ## Reliability, Continuity & SRE
 <p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Reliability and SRE Model"></p>
 
-Enterprise operations consider **SLIs, SLOs, SLAs, availability, latency, error rates, RTO, RPO, disaster recovery, backup verification, failover, incident response, and business continuity**.
+Operasional enterprise mempertimbangkan **SLI, SLO, SLA, availability, latency, error rate, RTO, RPO, disaster recovery, verifikasi backup, failover, incident response, dan business continuity**.
 
 ## Cost & Capacity Engineering
 <p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Cost and Capacity Engineering"></p>
 
-FinOps-oriented engineering connects **traffic, usage metering, capacity planning, cost allocation, cost per tenant/product, right-sizing, forecasting, and optimization**.
+Engineering berorientasi FinOps menghubungkan **traffic, usage metering, capacity planning, cost allocation, biaya per tenant/produk, right-sizing, forecasting, dan optimasi**.
 
 ## Sustainable Engineering
 <p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Sustainable Engineering"></p>
 
-Engineering sustainability includes resource efficiency, right-sizing, workload scheduling, sensible data retention, efficient storage, reduced unnecessary compute, and architecture longevity.
+Keberlanjutan engineering mencakup efisiensi resource, right-sizing, penjadwalan workload, retensi data yang wajar, storage yang efisien, pengurangan compute yang tidak perlu, dan umur panjang arsitektur.
 
-## Business Process Architecture
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Business Process Architecture"></p>
+## Arsitektur Proses Bisnis
+<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Arsitektur Proses Bisnis"></p>
 
-Sophistec connects technology to business processes across **finance, operations, sales, customer service, healthcare, commerce, data, and intelligent automation**.
+Sophistec menghubungkan teknologi dengan proses bisnis di area **finance, operations, sales, customer service, healthcare, commerce, data, dan intelligent automation**.
 
-## Industry Solution Map
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="Industry Solution Map"></p>
+## Peta Solusi Industri
+<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="Peta Solusi Industri"></p>
 
-Current and adjacent solution contexts include **healthcare, commerce & retail, professional services, education, enterprise operations, data & analytics, and cross-border digital business**.
+Konteks solusi saat ini dan yang berdekatan mencakup **healthcare, commerce & retail, professional services, education, enterprise operations, data & analytics, dan bisnis digital lintas negara**.
 
-## Sophistec Architecture Center
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec Architecture Center"></p>
+## Sophistec Arsitektur Center
+<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec Arsitektur Center"></p>
 
-The Architecture Center is a knowledge model for organizing reusable engineering guidance:
+Arsitektur Center adalah model knowledge untuk mengorganisasi panduan engineering yang dapat digunakan kembali:
 
 ```text
 architecture/
@@ -1012,12 +1010,12 @@ architecture/
 └── runbooks/
 ```
 
-## Architecture Review Framework
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="Architecture Review Framework"></p>
+## Framework Review Arsitektur
+<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="Framework Review Arsitektur"></p>
 
-Major systems can be reviewed against **product value, architecture, scalability, security, reliability, performance, observability, data, integration, AI controls, cost, maintainability, disaster recovery, and documentation**. Important decisions should be captured through Architecture Decision Records (ADRs).
+Sistem besar dapat direview berdasarkan **nilai produk, arsitektur, scalability, keamanan, reliability, performa, observability, data, integrasi, kontrol AI, biaya, maintainability, disaster recovery, dan dokumentasi**. Keputusan penting sebaiknya dicatat melalui Arsitektur Decision Records (ADR).
 
-## Enterprise Architecture Checklist
+## Checklist Arsitektur Enterprise
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
@@ -1025,171 +1023,171 @@ Major systems can be reviewed against **product value, architecture, scalability
   <thead>
     <tr>
       <th width="264">Domain</th>
-      <th width="936">Review Questions</th>
+      <th width="936">Pertanyaan Review</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Product Value</strong></td><td>What measurable user or business outcome does the system create?</td></tr>
-    <tr><td><strong>Architecture</strong></td><td>Are boundaries, dependencies, interfaces, and ownership clear?</td></tr>
-    <tr><td><strong>Security</strong></td><td>Are identity, permissions, secrets, validation, encryption, and auditability designed in?</td></tr>
-    <tr><td><strong>Reliability</strong></td><td>What fails, how is it detected, and how is service restored?</td></tr>
-    <tr><td><strong>Performance</strong></td><td>What are the latency, throughput, capacity, and scaling expectations?</td></tr>
-    <tr><td><strong>Data</strong></td><td>Who owns the data, how is it protected, retained, recovered, and governed?</td></tr>
-    <tr><td><strong>Integration</strong></td><td>Are APIs, events, contracts, retries, and failure modes explicit?</td></tr>
-    <tr><td><strong>AI</strong></td><td>Is context grounded, tool access controlled, output validated, and human oversight appropriate?</td></tr>
-    <tr><td><strong>Operations</strong></td><td>Can the system be deployed, observed, diagnosed, supported, and rolled back?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Can usage and infrastructure cost be understood and optimized?</td></tr>
-    <tr><td><strong>Continuity</strong></td><td>Are backups, RTO/RPO, recovery procedures, and failover expectations defined?</td></tr>
-    <tr><td><strong>Documentation</strong></td><td>Can another engineer safely understand, operate, and evolve the system?</td></tr>
+    <tr><td><strong>Nilai Produk</strong></td><td>Hasil pengguna atau bisnis apa yang dapat diukur dan dihasilkan oleh sistem?</td></tr>
+    <tr><td><strong>Arsitektur</strong></td><td>Apakah boundary, dependency, interface, dan ownership sudah jelas?</td></tr>
+    <tr><td><strong>Keamanan</strong></td><td>Apakah identitas, permission, secret, validasi, encryption, dan auditability sudah dirancang sejak awal?</td></tr>
+    <tr><td><strong>Reliability</strong></td><td>Apa yang dapat gagal, bagaimana kegagalan terdeteksi, dan bagaimana layanan dipulihkan?</td></tr>
+    <tr><td><strong>Performance</strong></td><td>Apa ekspektasi latency, throughput, capacity, dan scaling?</td></tr>
+    <tr><td><strong>Data</strong></td><td>Siapa yang memiliki data, bagaimana data dilindungi, disimpan, dipulihkan, dan dikelola?</td></tr>
+    <tr><td><strong>Integrasi</strong></td><td>Apakah API, event, contract, retry, dan failure mode sudah eksplisit?</td></tr>
+    <tr><td><strong>AI</strong></td><td>Apakah konteks grounded, akses tool terkontrol, output tervalidasi, dan human oversight sesuai?</td></tr>
+    <tr><td><strong>Operations</strong></td><td>Apakah sistem dapat di-deploy, diobservasi, didiagnosis, didukung, dan di-rollback?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>Apakah usage dan biaya infrastruktur dapat dipahami dan dioptimalkan?</td></tr>
+    <tr><td><strong>Continuity</strong></td><td>Apakah backup, RTO/RPO, prosedur recovery, dan ekspektasi failover sudah didefinisikan?</td></tr>
+    <tr><td><strong>Documentation</strong></td><td>Apakah engineer lain dapat memahami, mengoperasikan, dan mengembangkan sistem dengan aman?</td></tr>
   </tbody>
 </table>
 
 
 ## Enterprise Trust & Assurance
 
-Enterprise technology requires more than feature breadth. Sophistec's trust model brings together security, privacy, reliability, governance, compliance evidence, and transparency.
+Teknologi enterprise membutuhkan lebih dari sekadar banyak fitur. Trust model Sophistec menyatukan keamanan, privasi, reliability, governance, evidence compliance, dan transparansi.
 
 <p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Enterprise Trust Model"></p>
 
-### Trust Center Direction
+### Arah Trust Center
 
 <p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center Information Model"></p>
 
-A future Sophistec Trust Center can centralize information such as:
+Sophistec Trust Center di masa depan dapat memusatkan informasi seperti:
 
-- security practices and vulnerability disclosure,
-- privacy and data-processing information,
-- data residency and subprocessors,
-- reliability, service health, and incident communication,
-- business continuity and disaster recovery,
-- responsible AI principles,
-- compliance evidence and certifications **only where actually applicable**,
-- security advisories and operational transparency.
+- praktik keamanan dan vulnerability disclosure,
+- informasi privasi dan pemrosesan data,
+- data residency dan subprocessor,
+- reliability, service health, dan komunikasi incident,
+- business continuity dan disaster recovery,
+- prinsip Responsible AI,
+- evidence compliance dan sertifikasi **hanya jika benar-benar berlaku**,
+- security advisory dan transparansi operasional.
 
-> Sophistec should distinguish between **compliance-aware architecture**, **compliance readiness**, and an independently verified **certification**. Certifications should never be claimed unless they have actually been obtained.
+> Sophistec harus membedakan antara **compliance-aware architecture**, **compliance readiness**, dan **sertifikasi** yang diverifikasi secara independen. Sertifikasi tidak boleh diklaim sebelum benar-benar diperoleh.
 
-## Responsible AI Framework
+## Framework Responsible AI
 
 <p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Responsible AI Lifecycle"></p>
 
-Sophistec's AI direction should be governed by:
+Arah AI Sophistec seharusnya diatur berdasarkan:
 
-- **Human oversight** for consequential or ambiguous actions.
-- **Grounded outputs** using trusted context where factual accuracy matters.
-- **Permission boundaries** around tools, APIs, data, and actions.
-- **Data minimization** and purpose-aware access.
-- **Authentication & authorization** before privileged AI operations.
-- **Structured output & validation** for machine-executed workflows.
-- **Auditability** of important agent actions and system decisions.
-- **Privacy & security** across prompts, retrieval, memory, tools, and logs.
-- **Failure handling** for unavailable tools, uncertain context, and unsafe actions.
-- **Responsible automation** so AI accelerates people without silently bypassing controls.
+- **Human oversight** untuk tindakan yang berdampak besar atau ambigu.
+- **Grounded output** menggunakan konteks tepercaya ketika akurasi faktual penting.
+- **Batas permission** untuk tool, API, data, dan tindakan.
+- **Data minimization** dan akses yang mempertimbangkan tujuan.
+- **Autentikasi & otorisasi** sebelum operasi AI dengan privilege tinggi.
+- **Structured output & validation** untuk workflow yang dieksekusi mesin.
+- **Auditability** untuk tindakan agent penting dan keputusan sistem.
+- **Privasi & keamanan** di prompt, retrieval, memory, tool, dan log.
+- **Failure handling** untuk tool yang tidak tersedia, konteks yang tidak pasti, dan tindakan yang tidak aman.
+- **Responsible automation** agar AI mempercepat pekerjaan manusia tanpa diam-diam melewati kontrol.
 
-## Product Maturity Model
+## Model Kematangan Produk
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Product Maturity Lifecycle"></p>
+<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Produk Maturity Lifecycle"></p>
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
-      <th width="300">Stage</th>
-      <th width="900">Meaning</th>
+      <th width="300">Tahap</th>
+      <th width="900">Makna</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Research</strong></td><td>Exploration, validation, and technical investigation.</td></tr>
-    <tr><td><strong>Experimental</strong></td><td>Prototype; behavior and interfaces may change significantly.</td></tr>
-    <tr><td><strong>Alpha</strong></td><td>Early implementation for internal or tightly controlled use.</td></tr>
-    <tr><td><strong>Beta</strong></td><td>Limited production use with active feedback and known constraints.</td></tr>
-    <tr><td><strong>General Availability (GA)</strong></td><td>Supported production release with defined operational expectations.</td></tr>
-    <tr><td><strong>Enterprise</strong></td><td>Mature deployment, governance, integration, support, and reliability expectations.</td></tr>
-    <tr><td><strong>LTS</strong></td><td>Long-term support where a product or release warrants an extended maintenance lifecycle.</td></tr>
+    <tr><td><strong>Research</strong></td><td>Eksplorasi, validasi, dan investigasi teknis.</td></tr>
+    <tr><td><strong>Experimental</strong></td><td>Prototype; perilaku dan interface dapat berubah secara signifikan.</td></tr>
+    <tr><td><strong>Alpha</strong></td><td>Implementasi awal untuk penggunaan internal atau sangat terkontrol.</td></tr>
+    <tr><td><strong>Beta</strong></td><td>Penggunaan produksi terbatas dengan feedback aktif dan constraint yang sudah diketahui.</td></tr>
+    <tr><td><strong>General Availability (GA)</strong></td><td>Release produksi yang didukung dengan ekspektasi operasional yang terdefinisi.</td></tr>
+    <tr><td><strong>Enterprise</strong></td><td>Deployment matang dengan ekspektasi governance, integrasi, support, dan reliability.</td></tr>
+    <tr><td><strong>LTS</strong></td><td>Long-term support ketika suatu produk atau release memerlukan lifecycle maintenance yang lebih panjang.</td></tr>
   </tbody>
 </table>
 
-Product repositories should clearly communicate maturity rather than making every project appear equally production-ready.
+Repository produk harus mengkomunikasikan tingkat kematangan dengan jelas, bukan membuat setiap proyek terlihat sama-sama production-ready.
 
-## API Versioning & Deprecation
+## Versioning & Deprecation API
 
 <p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API Version Lifecycle"></p>
 
-API evolution should include stable contracts, documented versions, backward-compatibility expectations, migration guidance, deprecation notices, and a defined sunset process.
+Evolusi API harus mencakup contract yang stabil, versi terdokumentasi, ekspektasi backward compatibility, panduan migrasi, pemberitahuan deprecation, dan proses sunset yang terdefinisi.
 
-Recommended principles:
+Prinsip yang direkomendasikan:
 
-- avoid silent breaking changes,
-- version public contracts deliberately,
-- publish changelogs,
-- communicate deprecation windows,
-- provide migration documentation,
-- maintain compatibility where reasonable,
-- monitor usage before retiring an API.
+- hindari breaking change tanpa pemberitahuan,
+- kelola versi contract publik secara terarah,
+- publikasikan changelog,
+- komunikasikan periode deprecation,
+- sediakan dokumentasi migrasi,
+- pertahankan compatibility bila wajar,
+- monitor usage sebelum menghentikan API.
 
-## Deployment Models
+## Model Deployment
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Deployment Models"></p>
+<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Model Deployment"></p>
 
-Depending on the product and customer requirements, architecture may support different deployment patterns:
+Bergantung pada produk dan kebutuhan pelanggan, arsitektur dapat mendukung pola deployment yang berbeda:
 
 - **Multi-tenant SaaS**
-- **Dedicated / isolated environments**
-- **Private deployment**
-- **Hybrid integration**
-- **Region-aware deployment**
-- **Customer-specific integration boundaries**
+- **Environment dedicated / terisolasi**
+- **Deployment privat**
+- **Integrasi hybrid**
+- **Deployment yang mempertimbangkan region**
+- **Batas integrasi khusus pelanggan**
 
-Availability of a deployment model should be stated per product rather than assumed globally.
+Ketersediaan model deployment harus dinyatakan per produk, bukan diasumsikan berlaku secara global.
 
-## Release, Maintenance & Support Lifecycle
+## Lifecycle Release, Maintenance & Support
 
 <p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
 
-A mature release process connects development with testing, preview channels, general availability, production observation, maintenance, patching, and—where appropriate—long-term support.
+Proses release yang matang menghubungkan development dengan testing, preview channel, general availability, observasi produksi, maintenance, patching, dan—bila sesuai—long-term support.
 
-## Integration Catalog
+## Katalog Integrasi
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="Integration Catalog"></p>
+<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="Katalog Integrasi"></p>
 
-Sophistec's integration ecosystem can be organized as a reusable catalog rather than a collection of one-off connections:
+Ekosistem integrasi Sophistec dapat diorganisasi sebagai katalog reusable, bukan sekadar kumpulan koneksi satu kali:
 
 <table width="1200">
   <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
-  <thead><tr><th width="264">Domain</th><th width="936">Examples of Integration Capability</th></tr></thead>
+  <thead><tr><th width="264">Domain</th><th width="936">Contoh Kapabilitas Integrasi</th></tr></thead>
   <tbody>
-    <tr><td><strong>Identity</strong></td><td>SSO, OAuth, external identity providers</td></tr>
-    <tr><td><strong>Payments</strong></td><td>Payment gateways and transaction services</td></tr>
-    <tr><td><strong>Healthcare</strong></td><td>Clinical, insurance, laboratory, and healthcare APIs</td></tr>
-    <tr><td><strong>Government</strong></td><td>Public-sector and regulatory system integrations</td></tr>
-    <tr><td><strong>Commerce</strong></td><td>Marketplace, order, inventory, and sales-channel APIs</td></tr>
-    <tr><td><strong>Logistics</strong></td><td>Shipping, fulfillment, and delivery services</td></tr>
-    <tr><td><strong>AI &amp; SaaS</strong></td><td>Model providers, communication platforms, and external SaaS</td></tr>
+    <tr><td><strong>Identitas</strong></td><td>SSO, OAuth, provider identitas eksternal</td></tr>
+    <tr><td><strong>Payments</strong></td><td>Payment gateway dan layanan transaksi</td></tr>
+    <tr><td><strong>Healthcare</strong></td><td>API klinis, asuransi, laboratorium, dan healthcare</td></tr>
+    <tr><td><strong>Government</strong></td><td>Integrasi sistem sektor publik dan regulator</td></tr>
+    <tr><td><strong>Commerce</strong></td><td>API marketplace, order, inventory, dan sales channel</td></tr>
+    <tr><td><strong>Logistics</strong></td><td>Layanan shipping, fulfillment, dan delivery</td></tr>
+    <tr><td><strong>AI &amp; SaaS</strong></td><td>Provider model, platform komunikasi, dan SaaS eksternal</td></tr>
   </tbody>
 </table>
 
-Each production connector should ultimately have ownership, versioning, authentication, observability, error handling, retry behavior, documentation, and support expectations.
+Setiap connector produksi pada akhirnya harus memiliki ownership, versioning, autentikasi, observability, error handling, perilaku retry, dokumentasi, dan ekspektasi support yang jelas.
 
-## Why Sophistec Engineering
+## Mengapa Sophistec Engineering
 
-We connect **strategy, product thinking, engineering, data, AI, infrastructure, and integration** so digital products are designed as complete operating systems rather than isolated applications.
+Kami menghubungkan **strategi, product thinking, engineering, data, AI, infrastruktur, dan integrasi** agar produk digital dirancang sebagai operating system yang lengkap, bukan aplikasi yang berdiri sendiri.
 
-### What We Optimize For
+### Yang Kami Optimalkan
 
-- **Clarity** — architecture and ownership should be understandable.
-- **Interoperability** — products should connect through well-defined interfaces.
-- **Reliability** — production behavior matters as much as feature delivery.
-- **Security** — identity, access, validation, and auditability belong in the design.
-- **Automation** — repetitive operational work should be reduced where practical.
-- **Intelligence** — AI should have trusted context, controlled tools, and measurable purpose.
-- **Evolution** — systems should support change without unnecessary rewrites.
+- **Clarity** — arsitektur dan ownership harus mudah dipahami.
+- **Interoperability** — produk harus terhubung melalui interface yang didefinisikan dengan baik.
+- **Reliability** — perilaku di produksi sama pentingnya dengan delivery fitur.
+- **Keamanan** — identitas, akses, validasi, dan auditability harus menjadi bagian dari desain.
+- **Automation** — pekerjaan operasional berulang harus dikurangi bila memungkinkan.
+- **Intelligence** — AI harus memiliki konteks tepercaya, tool yang terkontrol, dan tujuan yang dapat diukur.
+- **Evolution** — sistem harus mendukung perubahan tanpa rewrite yang tidak perlu.
 
 ## Bangun Bersama Kami
 
-Sophistec is interested in collaborations around **SaaS, enterprise software, healthcare technology, omnichannel systems, AI agents, RAG, automation, data platforms, integrations, and cross-border digital products**.
+Sophistec terbuka untuk kolaborasi di bidang **SaaS, enterprise software, healthcare technology, omnichannel system, AI agent, RAG, automation, data platform, integrasi, dan produk digital lintas negara**.
 
-For product, engineering, partnership, or ecosystem conversations, use the contact channels below.
+Untuk diskusi mengenai produk, engineering, partnership, atau ekosistem, gunakan kanal kontak di bawah ini.
 
 ## Terhubung dengan Kami
 
@@ -1231,7 +1229,7 @@ For product, engineering, partnership, or ecosystem conversations, use the conta
 
 <div align="center">
 
-### "Building the future, one step at a time." 🚀
+### "Membangun masa depan, satu langkah pada satu waktu." 🚀
 
 <br>
 
