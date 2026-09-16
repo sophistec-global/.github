@@ -3,15 +3,18 @@
 # SOPHISTEC GLOBAL
 
 <p align="center">
-  <strong>Pilih bahasa Anda</strong><br>
+  <strong>Choose your language</strong><br>
   <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-1D3557?style=for-the-badge" alt="English"></a>
-  <a href="./README.id.md" title="Indonesia (bahasa saat ini)"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-6D28D9?style=for-the-badge" alt="Indonesia (bahasa saat ini)"></a>
-  <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
-  <a href="./README.ko.md" title="한국어"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-1D3557?style=for-the-badge" alt="한국어"></a>
-  <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
-  <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
+  <a href="./README.id.md" title="Indonesia (current language)"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-6D28D9?style=for-the-badge" alt="Indonesia (current language)"></a>
   <a href="./README.zh-tw.md" title="繁體中文"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC-繁體中文-1D3557?style=for-the-badge" alt="繁體中文"></a>
   <a href="./README.zh-cn.md" title="简体中文"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-简体中文-1D3557?style=for-the-badge" alt="简体中文"></a>
+  <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
+  <a href="./README.ko.md" title="한국어"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-1D3557?style=for-the-badge" alt="한국어"></a>
+  <a href="./README.de.md" title="Deutsch"><img src="https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-1D3557?style=for-the-badge" alt="Deutsch"></a>
+  <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
+  <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
+  <a href="./README.it.md" title="Italiano"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9-Italiano-1D3557?style=for-the-badge" alt="Italiano"></a>
+  <a href="./README.pt-br.md" title="Português"><img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Português-1D3557?style=for-the-badge" alt="Português"></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Strategy+%C2%B7+Technology+%C2%B7+Education+%C2%B7+Creativity+%C2%B7+Komunitas;From+Market+Entry+to+Digital+Growth" alt="Sophistec Global animated introduction">

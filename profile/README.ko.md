@@ -3,15 +3,18 @@
 # SOPHISTEC GLOBAL
 
 <p align="center">
-  <strong>언어를 선택하세요</strong><br>
+  <strong>Choose your language</strong><br>
   <a href="./README.md" title="English"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-1D3557?style=for-the-badge" alt="English"></a>
   <a href="./README.id.md" title="Indonesia"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-Indonesia-1D3557?style=for-the-badge" alt="Indonesia"></a>
-  <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
-  <a href="./README.ko.md" title="한국어 (현재 언어)"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-6D28D9?style=for-the-badge" alt="한국어 (현재 언어)"></a>
-  <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
-  <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
   <a href="./README.zh-tw.md" title="繁體中文"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC-繁體中文-1D3557?style=for-the-badge" alt="繁體中文"></a>
   <a href="./README.zh-cn.md" title="简体中文"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-简体中文-1D3557?style=for-the-badge" alt="简体中文"></a>
+  <a href="./README.ja.md" title="日本語"><img src="https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-1D3557?style=for-the-badge" alt="日本語"></a>
+  <a href="./README.ko.md" title="한국어 (current language)"><img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-한국어-6D28D9?style=for-the-badge" alt="한국어 (current language)"></a>
+  <a href="./README.de.md" title="Deutsch"><img src="https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-1D3557?style=for-the-badge" alt="Deutsch"></a>
+  <a href="./README.fr.md" title="Français"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Français-1D3557?style=for-the-badge" alt="Français"></a>
+  <a href="./README.es.md" title="Español"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Español-1D3557?style=for-the-badge" alt="Español"></a>
+  <a href="./README.it.md" title="Italiano"><img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9-Italiano-1D3557?style=for-the-badge" alt="Italiano"></a>
+  <a href="./README.pt-br.md" title="Português"><img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Português-1D3557?style=for-the-badge" alt="Português"></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=%EC%A0%84%EB%9E%B5+%C2%B7+%EA%B8%B0%EC%88%A0+%C2%B7+%EA%B5%90%EC%9C%A1+%C2%B7+%EC%B0%BD%EC%9D%98%EC%84%B1+%C2%B7+%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0;%EC%8B%9C%EC%9E%A5+%EC%A7%84%EC%9E%85%EB%B6%80%ED%84%B0+%EB%94%94%EC%A7%80%ED%84%B8+%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80" alt="Sophistec Global 애니메이션 소개">
